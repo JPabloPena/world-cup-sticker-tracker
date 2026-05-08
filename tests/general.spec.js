@@ -14,8 +14,8 @@ test.describe('General App Tests', () => {
 
   test('stats panel displays on homepage', async ({ page }) => {
     await page.goto('/');
-    const statsPanel = page.locator('text=/stats|collection|collected/i');
-    await expect(statsPanel.first()).toBeVisible();
+    const progressBar = page.locator('.bg-gradient-to-r.from-green-500');
+    await expect(progressBar.first()).toBeVisible();
   });
 
   test('API /api/stickers endpoint returns 200', async ({ request }) => {

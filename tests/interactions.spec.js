@@ -98,6 +98,112 @@ test.describe('Mobile Sticker Interactions', () => {
     const missing = page.locator('.sticker-missing').first();
     await expect(missing).toBeVisible();
   });
+
+  test('long press does NOT add sticker when finger lifted after remove', async ({ page }) => {
+    await page.goto('/');
+    await page.waitForSelector('.sticker-card');
+    
+    const sticker = page.locator('.sticker-missing').first();
+    await sticker.tap();
+    await page.waitForTimeout(500);
+    
+    const collected = page.locator('.sticker-collected').first();
+    await expect(collected).toBeVisible();
+    
+    await sticker.dispatchEvent('pointerdown');
+    await page.waitForTimeout(500);
+    await sticker.dispatchEvent('pointerup');
+    await page.waitForTimeout(500);
+    
+    const missing = page.locator('.sticker-missing').first();
+    await expect(missing).toBeVisible();
+    
+    await page.waitForTimeout(300);
+    const stillMissing = page.locator('.sticker-missing').first();
+    await expect(stillMissing).toBeVisible();
+  });
+
+  test('touch long press removes only ONE when count > 1', async ({ page, request }) => {
+    await request.put('/api/stickers/ARG1', { count: 2 });
+    await page.goto('/');
+    await page.waitForFunction(() => {
+      // Check if ARG1 has count=2
+      return window.fetch('/api/stickers')
+        .then(res => res.json())
+        .then(stickers => {
+          const arg1 = stickers.find(s => s.id === 'ARG1');
+          return arg1 && arg1.count === 2;
+        });
+    });
+    
+    await page.waitForSelector('.sticker-card');
+    await page.waitForTimeout(500);
+    
+    const sticker = page.locator('.sticker-repeated').first();
+    await expect(sticker).toBeVisible();
+    
+    await page.evaluate(() => {
+      const el = document.querySelector('.sticker-repeated');
+      el.dispatchEvent(new TouchEvent('touchstart', { bubbles: true, cancelable: true }));
+    });
+    await page.waitForTimeout(300);
+    await page.evaluate(() => {
+      const el = document.querySelector('.sticker-repeated');
+      el.dispatchEvent(new TouchEvent('touchend', { bubbles: true, cancelable: true }));
+    });
+    await page.waitForTimeout(500);
+    
+    const collected = page.locator('.sticker-collected').first();
+    await expect(collected).toBeVisible();
+  });
+
+  test('long press remove count=1 does NOT add on finger lift', async ({ page }) => {
+    await page.goto('/');
+    await page.waitForSelector('.sticker-card');
+    
+    const sticker = page.locator('.sticker-missing').first();
+    await sticker.tap();
+    await page.waitForTimeout(500);
+    
+    let collected = page.locator('.sticker-collected').first();
+    await expect(collected).toBeVisible();
+    
+    await collected.dispatchEvent('pointerdown');
+    await page.waitForTimeout(500);
+    await collected.dispatchEvent('pointerup');
+    await page.waitForTimeout(500);
+    
+    let missing = page.locator('.sticker-missing').first();
+    await expect(missing).toBeVisible();
+    
+    await page.waitForTimeout(300);
+    missing = page.locator('.sticker-missing').first();
+    await expect(missing).toBeVisible();
+  });
+
+  test('touch long press remove count=1 does NOT add on finger lift', async ({ page }) => {
+    await page.goto('/');
+    await page.waitForSelector('.sticker-card');
+    
+    const sticker = page.locator('.sticker-missing').first();
+    await sticker.tap();
+    await page.waitForTimeout(500);
+    
+    let collected = page.locator('.sticker-collected').first();
+    await expect(collected).toBeVisible();
+    
+    await collected.dispatchEvent('touchstart');
+    await page.waitForTimeout(500);
+    await collected.dispatchEvent('touchend');
+    await page.waitForTimeout(500);
+    
+    let missing = page.locator('.sticker-missing').first();
+    await expect(missing).toBeVisible();
+    
+    await page.waitForTimeout(300);
+    missing = page.locator('.sticker-missing').first();
+    await expect(missing).toBeVisible();
+  });
 });
 
 test.describe('Tablet Sticker Interactions', () => {

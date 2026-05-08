@@ -35,7 +35,9 @@ export function useStickers() {
   }, [loadStickers, loadStats]);
 
   const increment = useCallback(async (id, currentCount) => {
-    const newCount = currentCount + 1;
+    const sticker = stickers.find(s => s.id === id);
+    if (!sticker) return;
+    const newCount = (currentCount ?? sticker.count) + 1;
     
     setStickers(prev => prev.map(s => 
       s.id === id ? { ...s, count: newCount } : s
@@ -48,17 +50,20 @@ export function useStickers() {
     } catch (err) {
       console.error('Failed to increment:', err);
       setStickers(prev => prev.map(s => 
-        s.id === id ? { ...s, count: currentCount } : s
+        s.id === id ? { ...s, count: newCount - 1 } : s
       ));
     } finally {
       setPendingUpdates(prev => ({ ...prev, [id]: false }));
     }
-  }, [loadStats]);
+  }, [stickers, loadStats]);
 
   const decrement = useCallback(async (id, currentCount) => {
-    if (currentCount <= 0) return;
+    const sticker = stickers.find(s => s.id === id);
+    if (!sticker) return;
+    const existingCount = currentCount ?? sticker.count;
+    if (existingCount <= 0) return;
     
-    const newCount = currentCount - 1;
+    const newCount = existingCount - 1;
     
     setStickers(prev => prev.map(s => 
       s.id === id ? { ...s, count: newCount } : s
@@ -71,12 +76,12 @@ export function useStickers() {
     } catch (err) {
       console.error('Failed to decrement:', err);
       setStickers(prev => prev.map(s => 
-        s.id === id ? { ...s, count: currentCount } : s
+        s.id === id ? { ...s, count: existingCount } : s
       ));
     } finally {
       setPendingUpdates(prev => ({ ...prev, [id]: false }));
     }
-  }, [loadStats]);
+  }, [stickers, loadStats]);
 
   return {
     stickers,

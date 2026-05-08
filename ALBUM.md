@@ -11,7 +11,6 @@ North American Border Variants In the North American market, base stickers may f
 * Purple: Exclusive parallel variant.
 * Green: Exclusive parallel variant.
 * Black: 1-of-1 (The rarest variant).
-* Orange: Amazon Exclusive (Found only in Amazon retail boxes).
 
 
 --------------------------------------------------------------------------------

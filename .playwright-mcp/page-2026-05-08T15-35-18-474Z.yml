@@ -1,0 +1,34 @@
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - img "World Cup 2026" [ref=e6]
+    - heading "Copa Mundial 2026" [level=1] [ref=e7]
+    - button [ref=e8] [cursor=pointer]:
+      - img [ref=e9]
+    - link "Figuras Faltantes" [ref=e11] [cursor=pointer]:
+      - /url: "#/missing"
+      - img [ref=e12]
+    - link "Figuras Duplicadas" [ref=e13] [cursor=pointer]:
+      - /url: "#/duplicates"
+      - img [ref=e14]
+  - generic [ref=e18]:
+    - img [ref=e19]
+    - textbox "Buscar jugador, país o ID..." [ref=e22]
+  - generic [ref=e23]:
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26]: "0"
+        - generic [ref=e27]: / 0
+      - generic [ref=e28]:
+        - generic [ref=e29]: "+0"
+        - generic [ref=e30]: Duplicados
+    - generic [ref=e32]:
+      - generic [ref=e33]: 0%
+      - text: Completo
+  - generic [ref=e34]:
+    - generic [ref=e35]:
+      - button "Por País" [ref=e36] [cursor=pointer]
+      - button "Todas las Figuras" [ref=e37] [cursor=pointer]
+    - generic [ref=e38]:
+      - img [ref=e39]
+      - generic [ref=e41]: Click derecho para eliminar
+  - paragraph [ref=e44]: Cargando figuras...

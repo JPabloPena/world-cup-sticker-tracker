@@ -9,6 +9,7 @@ yarn-error.log*
 .env.local
 .env.*.local
 *.db
+!server/data/stickers.db
 .DS_Store
 Thumbs.db
 .vite/

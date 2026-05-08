@@ -1,0 +1,4159 @@
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - img "World Cup 2026" [ref=e6]
+    - heading "Copa Mundial 2026" [level=1] [ref=e7]
+    - button [ref=e8] [cursor=pointer]:
+      - img [ref=e9]
+    - link "Figuras Faltantes" [ref=e11] [cursor=pointer]:
+      - /url: "#/missing"
+      - img [ref=e12]
+    - link "Figuras Duplicadas" [ref=e13] [cursor=pointer]:
+      - /url: "#/duplicates"
+      - img [ref=e14]
+  - generic [ref=e18]:
+    - img [ref=e19]
+    - textbox "Buscar jugador, país o ID..." [ref=e22]
+  - generic [ref=e23]:
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26]: "157"
+        - generic [ref=e27]: / 992
+      - generic [ref=e28]:
+        - generic [ref=e29]: "+5"
+        - generic [ref=e30]: Duplicados
+    - generic [ref=e32]:
+      - generic [ref=e33]: 16%
+      - text: Completo
+  - generic [ref=e34]:
+    - generic [ref=e35]:
+      - button "Por País" [ref=e36] [cursor=pointer]
+      - button "Todas las Figuras" [ref=e37] [cursor=pointer]
+    - generic [ref=e38]:
+      - img [ref=e39]
+      - generic [ref=e41]: Click derecho para eliminar
+  - generic [ref=e4985]:
+    - generic [ref=e4987] [cursor=pointer]:
+      - generic [ref=e10409]: x2
+      - generic [ref=e4991]: ALG
+      - generic [ref=e4992]: "1"
+      - generic [ref=e4993]: Team Logo
+    - generic [ref=e4995] [cursor=pointer]:
+      - img [ref=e4997]
+      - generic [ref=e4999]: ALG
+      - generic [ref=e5000]: "2"
+      - generic [ref=e5001]: Alexis Guend...
+    - generic [ref=e5003] [cursor=pointer]:
+      - img [ref=e5005]
+      - generic [ref=e5007]: ALG
+      - generic [ref=e5008]: "3"
+      - generic [ref=e5009]: Ramy Benseba...
+    - generic [ref=e5011] [cursor=pointer]:
+      - generic [ref=e5012]: x2
+      - generic [ref=e5013]: ALG
+      - generic [ref=e5014]: "4"
+      - generic [ref=e5015]: Youcef Atal
+    - generic [ref=e5017] [cursor=pointer]:
+      - generic [ref=e5018]: x2
+      - generic [ref=e5019]: ALG
+      - generic [ref=e5020]: "5"
+      - generic [ref=e5021]: Rayan Aït-No...
+    - generic [ref=e5023] [cursor=pointer]:
+      - generic [ref=e5024]: x2
+      - generic [ref=e5025]: ALG
+      - generic [ref=e5026]: "6"
+      - generic [ref=e5027]: Mohamed Amin...
+    - generic [ref=e5029] [cursor=pointer]:
+      - img [ref=e5031]
+      - generic [ref=e5033]: ALG
+      - generic [ref=e5034]: "7"
+      - generic [ref=e5035]: Aïssa Mandi
+    - generic [ref=e5037] [cursor=pointer]:
+      - img [ref=e5039]
+      - generic [ref=e5041]: ALG
+      - generic [ref=e5042]: "8"
+      - generic [ref=e5043]: Ismael Benna...
+    - generic [ref=e5045] [cursor=pointer]:
+      - img [ref=e5047]
+      - generic [ref=e5049]: ALG
+      - generic [ref=e5050]: "9"
+      - generic [ref=e5051]: Houssem Aqua...
+    - generic [ref=e5053] [cursor=pointer]:
+      - img [ref=e5055]
+      - generic [ref=e5057]: ALG
+      - generic [ref=e5058]: "10"
+      - generic [ref=e5059]: Hicham Bouda...
+    - generic [ref=e5061] [cursor=pointer]:
+      - img [ref=e5063]
+      - generic [ref=e5065]: ALG
+      - generic [ref=e5066]: "11"
+      - generic [ref=e5067]: Ramiz Zerrou...
+    - generic [ref=e5069] [cursor=pointer]:
+      - img [ref=e5071]
+      - generic [ref=e5073]: ALG
+      - generic [ref=e5074]: "12"
+      - generic [ref=e5075]: Nabil Bental...
+    - generic [ref=e5077] [cursor=pointer]:
+      - img [ref=e5079]
+      - generic [ref=e5081]: ALG
+      - generic [ref=e5082]: "13"
+      - generic [ref=e5083]: Team Photo
+    - generic [ref=e5085] [cursor=pointer]:
+      - img [ref=e5087]
+      - generic [ref=e5089]: ALG
+      - generic [ref=e5090]: "14"
+      - generic [ref=e5091]: Farés Chaibi
+    - generic [ref=e5093] [cursor=pointer]:
+      - img [ref=e5095]
+      - generic [ref=e5097]: ALG
+      - generic [ref=e5098]: "15"
+      - generic [ref=e5099]: Riyad Mahrez
+    - generic [ref=e5101] [cursor=pointer]:
+      - img [ref=e5103]
+      - generic [ref=e5105]: ALG
+      - generic [ref=e5106]: "16"
+      - generic [ref=e5107]: Said Benrahm...
+    - generic [ref=e5109] [cursor=pointer]:
+      - img [ref=e5111]
+      - generic [ref=e5113]: ALG
+      - generic [ref=e5114]: "17"
+      - generic [ref=e5115]: Anis Hadj Mo...
+    - generic [ref=e5117] [cursor=pointer]:
+      - img [ref=e5119]
+      - generic [ref=e5121]: ALG
+      - generic [ref=e5122]: "18"
+      - generic [ref=e5123]: Amine Gouiri
+    - generic [ref=e5125] [cursor=pointer]:
+      - img [ref=e5127]
+      - generic [ref=e5129]: ALG
+      - generic [ref=e5130]: "19"
+      - generic [ref=e5131]: Baghdad Boun...
+    - generic [ref=e5133] [cursor=pointer]:
+      - img [ref=e5135]
+      - generic [ref=e5137]: ALG
+      - generic [ref=e5138]: "20"
+      - generic [ref=e5139]: Mohammed Amo...
+    - generic [ref=e5141] [cursor=pointer]:
+      - img [ref=e5143]
+      - generic [ref=e5145]: ARG
+      - generic [ref=e5146]: "1"
+      - generic [ref=e5147]: Team Logo
+    - generic [ref=e5149] [cursor=pointer]:
+      - img [ref=e5151]
+      - generic [ref=e5153]: ARG
+      - generic [ref=e5154]: "2"
+      - generic [ref=e5155]: Emiliano Mar...
+    - generic [ref=e5157] [cursor=pointer]:
+      - img [ref=e5159]
+      - generic [ref=e5161]: ARG
+      - generic [ref=e5162]: "3"
+      - generic [ref=e5163]: Nahuel Molin...
+    - generic [ref=e5165] [cursor=pointer]:
+      - img [ref=e5167]
+      - generic [ref=e5169]: ARG
+      - generic [ref=e5170]: "4"
+      - generic [ref=e5171]: Cristian Rom...
+    - generic [ref=e5173] [cursor=pointer]:
+      - img [ref=e5175]
+      - generic [ref=e5177]: ARG
+      - generic [ref=e5178]: "5"
+      - generic [ref=e5179]: Nicolas Otam...
+    - generic [ref=e5181] [cursor=pointer]:
+      - img [ref=e5183]
+      - generic [ref=e5185]: ARG
+      - generic [ref=e5186]: "6"
+      - generic [ref=e5187]: Nicolas Tagl...
+    - generic [ref=e5189] [cursor=pointer]:
+      - img [ref=e5191]
+      - generic [ref=e5193]: ARG
+      - generic [ref=e5194]: "7"
+      - generic [ref=e5195]: Leonardo Bal...
+    - generic [ref=e5197] [cursor=pointer]:
+      - img [ref=e5199]
+      - generic [ref=e5201]: ARG
+      - generic [ref=e5202]: "8"
+      - generic [ref=e5203]: Enzo Fernand...
+    - generic [ref=e5205] [cursor=pointer]:
+      - img [ref=e5207]
+      - generic [ref=e5209]: ARG
+      - generic [ref=e5210]: "9"
+      - generic [ref=e5211]: Alexis Mac A...
+    - generic [ref=e5213] [cursor=pointer]:
+      - img [ref=e5215]
+      - generic [ref=e5217]: ARG
+      - generic [ref=e5218]: "10"
+      - generic [ref=e5219]: Rodrigo De P...
+    - generic [ref=e5221] [cursor=pointer]:
+      - img [ref=e5223]
+      - generic [ref=e5225]: ARG
+      - generic [ref=e5226]: "11"
+      - generic [ref=e5227]: Exequiel Pal...
+    - generic [ref=e5229] [cursor=pointer]:
+      - img [ref=e5231]
+      - generic [ref=e5233]: ARG
+      - generic [ref=e5234]: "12"
+      - generic [ref=e5235]: Leandro Pare...
+    - generic [ref=e5237] [cursor=pointer]:
+      - img [ref=e5239]
+      - generic [ref=e5241]: ARG
+      - generic [ref=e5242]: "13"
+      - generic [ref=e5243]: Team Photo
+    - generic [ref=e5245] [cursor=pointer]:
+      - img [ref=e5247]
+      - generic [ref=e5249]: ARG
+      - generic [ref=e5250]: "14"
+      - generic [ref=e5251]: Nico Paz
+    - generic [ref=e5253] [cursor=pointer]:
+      - img [ref=e5255]
+      - generic [ref=e5257]: ARG
+      - generic [ref=e5258]: "15"
+      - generic [ref=e5259]: Franco Masta...
+    - generic [ref=e5261] [cursor=pointer]:
+      - img [ref=e5263]
+      - generic [ref=e5265]: ARG
+      - generic [ref=e5266]: "16"
+      - generic [ref=e5267]: Nico Gonzale...
+    - generic [ref=e5269] [cursor=pointer]:
+      - img [ref=e5271]
+      - generic [ref=e5273]: ARG
+      - generic [ref=e5274]: "17"
+      - generic [ref=e5275]: Lionel Messi
+    - generic [ref=e5277] [cursor=pointer]:
+      - img [ref=e5279]
+      - generic [ref=e5281]: ARG
+      - generic [ref=e5282]: "18"
+      - generic [ref=e5283]: Lautaro Mart...
+    - generic [ref=e5285] [cursor=pointer]:
+      - img [ref=e5287]
+      - generic [ref=e5289]: ARG
+      - generic [ref=e5290]: "19"
+      - generic [ref=e5291]: Julian Alvar...
+    - generic [ref=e5293] [cursor=pointer]:
+      - img [ref=e5295]
+      - generic [ref=e5297]: ARG
+      - generic [ref=e5298]: "20"
+      - generic [ref=e5299]: Giuliano Sim...
+    - generic [ref=e5301] [cursor=pointer]:
+      - img [ref=e5303]
+      - generic [ref=e5305]: AUS
+      - generic [ref=e5306]: "1"
+      - generic [ref=e5307]: Team Logo
+    - generic [ref=e5309] [cursor=pointer]:
+      - img [ref=e5311]
+      - generic [ref=e5313]: AUS
+      - generic [ref=e5314]: "2"
+      - generic [ref=e5315]: Mathew Ryan
+    - generic [ref=e5317] [cursor=pointer]:
+      - img [ref=e5319]
+      - generic [ref=e5321]: AUS
+      - generic [ref=e5322]: "3"
+      - generic [ref=e5323]: Joe Gauci
+    - generic [ref=e5325] [cursor=pointer]:
+      - img [ref=e5327]
+      - generic [ref=e5329]: AUS
+      - generic [ref=e5330]: "4"
+      - generic [ref=e5331]: Harry Soutta...
+    - generic [ref=e5333] [cursor=pointer]:
+      - img [ref=e5335]
+      - generic [ref=e5337]: AUS
+      - generic [ref=e5338]: "5"
+      - generic [ref=e5339]: Alessandro C...
+    - generic [ref=e5341] [cursor=pointer]:
+      - img [ref=e5343]
+      - generic [ref=e5345]: AUS
+      - generic [ref=e5346]: "6"
+      - generic [ref=e5347]: Jordan Bos
+    - generic [ref=e5349] [cursor=pointer]:
+      - img [ref=e5351]
+      - generic [ref=e5353]: AUS
+      - generic [ref=e5354]: "7"
+      - generic [ref=e5355]: Aziz Behich
+    - generic [ref=e5357] [cursor=pointer]:
+      - img [ref=e5359]
+      - generic [ref=e5361]: AUS
+      - generic [ref=e5362]: "8"
+      - generic [ref=e5363]: Cameron Burg...
+    - generic [ref=e5365] [cursor=pointer]:
+      - img [ref=e5367]
+      - generic [ref=e5369]: AUS
+      - generic [ref=e5370]: "9"
+      - generic [ref=e5371]: Lewis Miller
+    - generic [ref=e5373] [cursor=pointer]:
+      - img [ref=e5375]
+      - generic [ref=e5377]: AUS
+      - generic [ref=e5378]: "10"
+      - generic [ref=e5379]: Milos Degene...
+    - generic [ref=e5381] [cursor=pointer]:
+      - img [ref=e5383]
+      - generic [ref=e5385]: AUS
+      - generic [ref=e5386]: "11"
+      - generic [ref=e5387]: Jackson Irvi...
+    - generic [ref=e5389] [cursor=pointer]:
+      - img [ref=e5391]
+      - generic [ref=e5393]: AUS
+      - generic [ref=e5394]: "12"
+      - generic [ref=e5395]: Riley McGree
+    - generic [ref=e5397] [cursor=pointer]:
+      - img [ref=e5399]
+      - generic [ref=e5401]: AUS
+      - generic [ref=e5402]: "13"
+      - generic [ref=e5403]: Team Photo
+    - generic [ref=e5405] [cursor=pointer]:
+      - img [ref=e5407]
+      - generic [ref=e5409]: AUS
+      - generic [ref=e5410]: "14"
+      - generic [ref=e5411]: Aiden O'Neil...
+    - generic [ref=e5413] [cursor=pointer]:
+      - img [ref=e5415]
+      - generic [ref=e5417]: AUS
+      - generic [ref=e5418]: "15"
+      - generic [ref=e5419]: Connor Metca...
+    - generic [ref=e5421] [cursor=pointer]:
+      - img [ref=e5423]
+      - generic [ref=e5425]: AUS
+      - generic [ref=e5426]: "16"
+      - generic [ref=e5427]: Patrick Yazb...
+    - generic [ref=e5429] [cursor=pointer]:
+      - img [ref=e5431]
+      - generic [ref=e5433]: AUS
+      - generic [ref=e5434]: "17"
+      - generic [ref=e5435]: Craig Goodwi...
+    - generic [ref=e5437] [cursor=pointer]:
+      - img [ref=e5439]
+      - generic [ref=e5441]: AUS
+      - generic [ref=e5442]: "18"
+      - generic [ref=e5443]: Kusini Vengi
+    - generic [ref=e5445] [cursor=pointer]:
+      - img [ref=e5447]
+      - generic [ref=e5449]: AUS
+      - generic [ref=e5450]: "19"
+      - generic [ref=e5451]: Nestory Iran...
+    - generic [ref=e5453] [cursor=pointer]:
+      - img [ref=e5455]
+      - generic [ref=e5457]: AUS
+      - generic [ref=e5458]: "20"
+      - generic [ref=e5459]: Mohamed Tour...
+    - generic [ref=e5461] [cursor=pointer]:
+      - img [ref=e5463]
+      - generic [ref=e5465]: AUT
+      - generic [ref=e5466]: "1"
+      - generic [ref=e5467]: Team Logo
+    - generic [ref=e5469] [cursor=pointer]:
+      - img [ref=e5471]
+      - generic [ref=e5473]: AUT
+      - generic [ref=e5474]: "2"
+      - generic [ref=e5475]: Alexander Sc...
+    - generic [ref=e5477] [cursor=pointer]:
+      - img [ref=e5479]
+      - generic [ref=e5481]: AUT
+      - generic [ref=e5482]: "3"
+      - generic [ref=e5483]: Patrick Pent...
+    - generic [ref=e5485] [cursor=pointer]:
+      - img [ref=e5487]
+      - generic [ref=e5489]: AUT
+      - generic [ref=e5490]: "4"
+      - generic [ref=e5491]: David Alaba
+    - generic [ref=e5493] [cursor=pointer]:
+      - img [ref=e5495]
+      - generic [ref=e5497]: AUT
+      - generic [ref=e5498]: "5"
+      - generic [ref=e5499]: Kevin Danso
+    - generic [ref=e5501] [cursor=pointer]:
+      - img [ref=e5503]
+      - generic [ref=e5505]: AUT
+      - generic [ref=e5506]: "6"
+      - generic [ref=e5507]: Philipp Lien...
+    - generic [ref=e5509] [cursor=pointer]:
+      - img [ref=e5511]
+      - generic [ref=e5513]: AUT
+      - generic [ref=e5514]: "7"
+      - generic [ref=e5515]: Stefan Posch
+    - generic [ref=e5517] [cursor=pointer]:
+      - img [ref=e5519]
+      - generic [ref=e5521]: AUT
+      - generic [ref=e5522]: "8"
+      - generic [ref=e5523]: Phillipp Mwe...
+    - generic [ref=e5525] [cursor=pointer]:
+      - img [ref=e5527]
+      - generic [ref=e5529]: AUT
+      - generic [ref=e5530]: "9"
+      - generic [ref=e5531]: Alexander Pr...
+    - generic [ref=e5533] [cursor=pointer]:
+      - img [ref=e5535]
+      - generic [ref=e5537]: AUT
+      - generic [ref=e5538]: "10"
+      - generic [ref=e5539]: Xaver Schlag...
+    - generic [ref=e5541] [cursor=pointer]:
+      - img [ref=e5543]
+      - generic [ref=e5545]: AUT
+      - generic [ref=e5546]: "11"
+      - generic [ref=e5547]: Marcel Sabit...
+    - generic [ref=e5549] [cursor=pointer]:
+      - img [ref=e5551]
+      - generic [ref=e5553]: AUT
+      - generic [ref=e5554]: "12"
+      - generic [ref=e5555]: Konrad Laime...
+    - generic [ref=e5557] [cursor=pointer]:
+      - img [ref=e5559]
+      - generic [ref=e5561]: AUT
+      - generic [ref=e5562]: "13"
+      - generic [ref=e5563]: Team Photo
+    - generic [ref=e5565] [cursor=pointer]:
+      - img [ref=e5567]
+      - generic [ref=e5569]: AUT
+      - generic [ref=e5570]: "14"
+      - generic [ref=e5571]: Florian Gril...
+    - generic [ref=e5573] [cursor=pointer]:
+      - img [ref=e5575]
+      - generic [ref=e5577]: AUT
+      - generic [ref=e5578]: "15"
+      - generic [ref=e5579]: Nicolas Seiw...
+    - generic [ref=e5581] [cursor=pointer]:
+      - img [ref=e5583]
+      - generic [ref=e5585]: AUT
+      - generic [ref=e5586]: "16"
+      - generic [ref=e5587]: Romano Schmi...
+    - generic [ref=e5589] [cursor=pointer]:
+      - img [ref=e5591]
+      - generic [ref=e5593]: AUT
+      - generic [ref=e5594]: "17"
+      - generic [ref=e5595]: Patrick Wimm...
+    - generic [ref=e5597] [cursor=pointer]:
+      - img [ref=e5599]
+      - generic [ref=e5601]: AUT
+      - generic [ref=e5602]: "18"
+      - generic [ref=e5603]: Christoph Ba...
+    - generic [ref=e5605] [cursor=pointer]:
+      - img [ref=e5607]
+      - generic [ref=e5609]: AUT
+      - generic [ref=e5610]: "19"
+      - generic [ref=e5611]: Michael Greg...
+    - generic [ref=e5613] [cursor=pointer]:
+      - img [ref=e5615]
+      - generic [ref=e5617]: AUT
+      - generic [ref=e5618]: "20"
+      - generic [ref=e5619]: Marko Arnaut...
+    - generic [ref=e5621] [cursor=pointer]:
+      - img [ref=e5623]
+      - generic [ref=e5625]: BEL
+      - generic [ref=e5626]: "1"
+      - generic [ref=e5627]: Team Logo
+    - generic [ref=e5629] [cursor=pointer]:
+      - img [ref=e5631]
+      - generic [ref=e5633]: BEL
+      - generic [ref=e5634]: "2"
+      - generic [ref=e5635]: Thibaut Cour...
+    - generic [ref=e5637] [cursor=pointer]:
+      - img [ref=e5639]
+      - generic [ref=e5641]: BEL
+      - generic [ref=e5642]: "3"
+      - generic [ref=e5643]: Arthur Theat...
+    - generic [ref=e5645] [cursor=pointer]:
+      - img [ref=e5647]
+      - generic [ref=e5649]: BEL
+      - generic [ref=e5650]: "4"
+      - generic [ref=e5651]: Timothy Cast...
+    - generic [ref=e5653] [cursor=pointer]:
+      - img [ref=e5655]
+      - generic [ref=e5657]: BEL
+      - generic [ref=e5658]: "5"
+      - generic [ref=e5659]: Zeno Debast
+    - generic [ref=e5661] [cursor=pointer]:
+      - img [ref=e5663]
+      - generic [ref=e5665]: BEL
+      - generic [ref=e5666]: "6"
+      - generic [ref=e5667]: Brandon Mech...
+    - generic [ref=e5669] [cursor=pointer]:
+      - img [ref=e5671]
+      - generic [ref=e5673]: BEL
+      - generic [ref=e5674]: "7"
+      - generic [ref=e5675]: Maxim De Cuy...
+    - generic [ref=e5677] [cursor=pointer]:
+      - img [ref=e5679]
+      - generic [ref=e5681]: BEL
+      - generic [ref=e5682]: "8"
+      - generic [ref=e5683]: Thomas Meuni...
+    - generic [ref=e5685] [cursor=pointer]:
+      - img [ref=e5687]
+      - generic [ref=e5689]: BEL
+      - generic [ref=e5690]: "9"
+      - generic [ref=e5691]: Youri Tielem...
+    - generic [ref=e5693] [cursor=pointer]:
+      - img [ref=e5695]
+      - generic [ref=e5697]: BEL
+      - generic [ref=e5698]: "10"
+      - generic [ref=e5699]: Amadou Onana
+    - generic [ref=e5701] [cursor=pointer]:
+      - img [ref=e5703]
+      - generic [ref=e5705]: BEL
+      - generic [ref=e5706]: "11"
+      - generic [ref=e5707]: Nicolas Rask...
+    - generic [ref=e5709] [cursor=pointer]:
+      - img [ref=e5711]
+      - generic [ref=e5713]: BEL
+      - generic [ref=e5714]: "12"
+      - generic [ref=e5715]: Alexis Saele...
+    - generic [ref=e5717] [cursor=pointer]:
+      - img [ref=e5719]
+      - generic [ref=e5721]: BEL
+      - generic [ref=e5722]: "13"
+      - generic [ref=e5723]: Team Photo
+    - generic [ref=e5725] [cursor=pointer]:
+      - generic [ref=e5726]: x2
+      - generic [ref=e5727]: BEL
+      - generic [ref=e5728]: "14"
+      - generic [ref=e5729]: Hans Vanaken
+    - generic [ref=e5731] [cursor=pointer]:
+      - img [ref=e5733]
+      - generic [ref=e5735]: BEL
+      - generic [ref=e5736]: "15"
+      - generic [ref=e5737]: Kevin De Bru...
+    - generic [ref=e5739] [cursor=pointer]:
+      - img [ref=e5741]
+      - generic [ref=e5743]: BEL
+      - generic [ref=e5744]: "16"
+      - generic [ref=e5745]: Jérémy Doku
+    - generic [ref=e5747] [cursor=pointer]:
+      - img [ref=e5749]
+      - generic [ref=e5751]: BEL
+      - generic [ref=e5752]: "17"
+      - generic [ref=e5753]: Charles De K...
+    - generic [ref=e5755] [cursor=pointer]:
+      - img [ref=e5757]
+      - generic [ref=e5759]: BEL
+      - generic [ref=e5760]: "18"
+      - generic [ref=e5761]: Loïs Openda
+    - generic [ref=e5763] [cursor=pointer]:
+      - img [ref=e5765]
+      - generic [ref=e5767]: BEL
+      - generic [ref=e5768]: "19"
+      - generic [ref=e5769]: Romelu Lukak...
+    - generic [ref=e5771] [cursor=pointer]:
+      - img [ref=e5773]
+      - generic [ref=e5775]: BEL
+      - generic [ref=e5776]: "20"
+      - generic [ref=e5777]: Player 20
+    - generic [ref=e5779] [cursor=pointer]:
+      - img [ref=e5781]
+      - generic [ref=e5783]: BIH
+      - generic [ref=e5784]: "1"
+      - generic [ref=e5785]: Team Logo
+    - generic [ref=e5787] [cursor=pointer]:
+      - img [ref=e5789]
+      - generic [ref=e5791]: BIH
+      - generic [ref=e5792]: "2"
+      - generic [ref=e5793]: Nikola Vasil...
+    - generic [ref=e5795] [cursor=pointer]:
+      - img [ref=e5797]
+      - generic [ref=e5799]: BIH
+      - generic [ref=e5800]: "3"
+      - generic [ref=e5801]: Amer Dedic
+    - generic [ref=e5803] [cursor=pointer]:
+      - img [ref=e5805]
+      - generic [ref=e5807]: BIH
+      - generic [ref=e5808]: "4"
+      - generic [ref=e5809]: Sead Kolasin...
+    - generic [ref=e5811] [cursor=pointer]:
+      - img [ref=e5813]
+      - generic [ref=e5815]: BIH
+      - generic [ref=e5816]: "5"
+      - generic [ref=e5817]: Tarik Muhare...
+    - generic [ref=e5819] [cursor=pointer]:
+      - img [ref=e5821]
+      - generic [ref=e5823]: BIH
+      - generic [ref=e5824]: "6"
+      - generic [ref=e5825]: Nihad Mujaki...
+    - generic [ref=e5827] [cursor=pointer]:
+      - img [ref=e5829]
+      - generic [ref=e5831]: BIH
+      - generic [ref=e5832]: "7"
+      - generic [ref=e5833]: Nikola Katic
+    - generic [ref=e5835] [cursor=pointer]:
+      - img [ref=e5837]
+      - generic [ref=e5839]: BIH
+      - generic [ref=e5840]: "8"
+      - generic [ref=e5841]: Amir Hadziah...
+    - generic [ref=e5843] [cursor=pointer]:
+      - img [ref=e5845]
+      - generic [ref=e5847]: BIH
+      - generic [ref=e5848]: "9"
+      - generic [ref=e5849]: Benjamin Tah...
+    - generic [ref=e5851] [cursor=pointer]:
+      - img [ref=e5853]
+      - generic [ref=e5855]: BIH
+      - generic [ref=e5856]: "10"
+      - generic [ref=e5857]: Armin Gigovi...
+    - generic [ref=e5859] [cursor=pointer]:
+      - img [ref=e5861]
+      - generic [ref=e5863]: BIH
+      - generic [ref=e5864]: "11"
+      - generic [ref=e5865]: Ivan Sunjic
+    - generic [ref=e5867] [cursor=pointer]:
+      - img [ref=e5869]
+      - generic [ref=e5871]: BIH
+      - generic [ref=e5872]: "12"
+      - generic [ref=e5873]: Ivan Basic
+    - generic [ref=e5875] [cursor=pointer]:
+      - img [ref=e5877]
+      - generic [ref=e5879]: BIH
+      - generic [ref=e5880]: "13"
+      - generic [ref=e5881]: Team Photo
+    - generic [ref=e5883] [cursor=pointer]:
+      - img [ref=e5885]
+      - generic [ref=e5887]: BIH
+      - generic [ref=e5888]: "14"
+      - generic [ref=e5889]: Dzenis Burni...
+    - generic [ref=e5891] [cursor=pointer]:
+      - img [ref=e5893]
+      - generic [ref=e5895]: BIH
+      - generic [ref=e5896]: "15"
+      - generic [ref=e5897]: Esmir Bajrak...
+    - generic [ref=e5899] [cursor=pointer]:
+      - img [ref=e5901]
+      - generic [ref=e5903]: BIH
+      - generic [ref=e5904]: "16"
+      - generic [ref=e5905]: Amar Memic
+    - generic [ref=e5907] [cursor=pointer]:
+      - img [ref=e5909]
+      - generic [ref=e5911]: BIH
+      - generic [ref=e5912]: "17"
+      - generic [ref=e5913]: Ermedin Demi...
+    - generic [ref=e5915] [cursor=pointer]:
+      - img [ref=e5917]
+      - generic [ref=e5919]: BIH
+      - generic [ref=e5920]: "18"
+      - generic [ref=e5921]: Edin Dzeko
+    - generic [ref=e5923] [cursor=pointer]:
+      - img [ref=e5925]
+      - generic [ref=e5927]: BIH
+      - generic [ref=e5928]: "19"
+      - generic [ref=e5929]: Samed Bazdar
+    - generic [ref=e5931] [cursor=pointer]:
+      - img [ref=e5933]
+      - generic [ref=e5935]: BIH
+      - generic [ref=e5936]: "20"
+      - generic [ref=e5937]: Haris Tabako...
+    - generic [ref=e5939] [cursor=pointer]:
+      - img [ref=e5941]
+      - generic [ref=e5943]: BRA
+      - generic [ref=e5944]: "1"
+      - generic [ref=e5945]: Team Logo
+    - generic [ref=e5947] [cursor=pointer]:
+      - img [ref=e5949]
+      - generic [ref=e5951]: BRA
+      - generic [ref=e5952]: "2"
+      - generic [ref=e5953]: Alisson
+    - generic [ref=e5955] [cursor=pointer]:
+      - img [ref=e5957]
+      - generic [ref=e5959]: BRA
+      - generic [ref=e5960]: "3"
+      - generic [ref=e5961]: Bento
+    - generic [ref=e5963] [cursor=pointer]:
+      - img [ref=e5965]
+      - generic [ref=e5967]: BRA
+      - generic [ref=e5968]: "4"
+      - generic [ref=e5969]: Marquinhos
+    - generic [ref=e5971] [cursor=pointer]:
+      - img [ref=e5973]
+      - generic [ref=e5975]: BRA
+      - generic [ref=e5976]: "5"
+      - generic [ref=e5977]: Éder Militão
+    - generic [ref=e5979] [cursor=pointer]:
+      - img [ref=e5981]
+      - generic [ref=e5983]: BRA
+      - generic [ref=e5984]: "6"
+      - generic [ref=e5985]: Gabriel Maga...
+    - generic [ref=e5987] [cursor=pointer]:
+      - img [ref=e5989]
+      - generic [ref=e5991]: BRA
+      - generic [ref=e5992]: "7"
+      - generic [ref=e5993]: Danilo
+    - generic [ref=e5995] [cursor=pointer]:
+      - img [ref=e5997]
+      - generic [ref=e5999]: BRA
+      - generic [ref=e6000]: "8"
+      - generic [ref=e6001]: Wesley
+    - generic [ref=e6003] [cursor=pointer]:
+      - img [ref=e6005]
+      - generic [ref=e6007]: BRA
+      - generic [ref=e6008]: "9"
+      - generic [ref=e6009]: Lucas Paquet...
+    - generic [ref=e6011] [cursor=pointer]:
+      - img [ref=e6013]
+      - generic [ref=e6015]: BRA
+      - generic [ref=e6016]: "10"
+      - generic [ref=e6017]: Casemiro
+    - generic [ref=e6019] [cursor=pointer]:
+      - img [ref=e6021]
+      - generic [ref=e6023]: BRA
+      - generic [ref=e6024]: "11"
+      - generic [ref=e6025]: Bruno Guimar...
+    - generic [ref=e6027] [cursor=pointer]:
+      - img [ref=e6029]
+      - generic [ref=e6031]: BRA
+      - generic [ref=e6032]: "12"
+      - generic [ref=e6033]: Luiz Henriqu...
+    - generic [ref=e6035] [cursor=pointer]:
+      - img [ref=e6037]
+      - generic [ref=e6039]: BRA
+      - generic [ref=e6040]: "13"
+      - generic [ref=e6041]: Team Photo
+    - generic [ref=e6043] [cursor=pointer]:
+      - img [ref=e6045]
+      - generic [ref=e6047]: BRA
+      - generic [ref=e6048]: "14"
+      - generic [ref=e6049]: Vinicius Jún...
+    - generic [ref=e6051] [cursor=pointer]:
+      - img [ref=e6053]
+      - generic [ref=e6055]: BRA
+      - generic [ref=e6056]: "15"
+      - generic [ref=e6057]: Rodrygo
+    - generic [ref=e6059] [cursor=pointer]:
+      - img [ref=e6061]
+      - generic [ref=e6063]: BRA
+      - generic [ref=e6064]: "16"
+      - generic [ref=e6065]: João Pedro
+    - generic [ref=e6067] [cursor=pointer]:
+      - img [ref=e6069]
+      - generic [ref=e6071]: BRA
+      - generic [ref=e6072]: "17"
+      - generic [ref=e6073]: Matheus Cunh...
+    - generic [ref=e6075] [cursor=pointer]:
+      - img [ref=e6077]
+      - generic [ref=e6079]: BRA
+      - generic [ref=e6080]: "18"
+      - generic [ref=e6081]: Gabriel Mart...
+    - generic [ref=e6083] [cursor=pointer]:
+      - img [ref=e6085]
+      - generic [ref=e6087]: BRA
+      - generic [ref=e6088]: "19"
+      - generic [ref=e6089]: Raphinha
+    - generic [ref=e6091] [cursor=pointer]:
+      - img [ref=e6093]
+      - generic [ref=e6095]: BRA
+      - generic [ref=e6096]: "20"
+      - generic [ref=e6097]: Estévão
+    - generic [ref=e6099] [cursor=pointer]:
+      - img [ref=e6101]
+      - generic [ref=e6103]: CAN
+      - generic [ref=e6104]: "1"
+      - generic [ref=e6105]: Team Logo
+    - generic [ref=e6107] [cursor=pointer]:
+      - img [ref=e6109]
+      - generic [ref=e6111]: CAN
+      - generic [ref=e6112]: "2"
+      - generic [ref=e6113]: Dayne St.Cla...
+    - generic [ref=e6115] [cursor=pointer]:
+      - img [ref=e6117]
+      - generic [ref=e6119]: CAN
+      - generic [ref=e6120]: "3"
+      - generic [ref=e6121]: Alphonso Dav...
+    - generic [ref=e6123] [cursor=pointer]:
+      - img [ref=e6125]
+      - generic [ref=e6127]: CAN
+      - generic [ref=e6128]: "4"
+      - generic [ref=e6129]: Alistair Joh...
+    - generic [ref=e6131] [cursor=pointer]:
+      - img [ref=e6133]
+      - generic [ref=e6135]: CAN
+      - generic [ref=e6136]: "5"
+      - generic [ref=e6137]: Samuel Adeku...
+    - generic [ref=e6139] [cursor=pointer]:
+      - img [ref=e6141]
+      - generic [ref=e6143]: CAN
+      - generic [ref=e6144]: "6"
+      - generic [ref=e6145]: Riche Larvea
+    - generic [ref=e6147] [cursor=pointer]:
+      - img [ref=e6149]
+      - generic [ref=e6151]: CAN
+      - generic [ref=e6152]: "7"
+      - generic [ref=e6153]: Derek Cornel...
+    - generic [ref=e6155] [cursor=pointer]:
+      - img [ref=e6157]
+      - generic [ref=e6159]: CAN
+      - generic [ref=e6160]: "8"
+      - generic [ref=e6161]: Moïse Bombit...
+    - generic [ref=e6163] [cursor=pointer]:
+      - img [ref=e6165]
+      - generic [ref=e6167]: CAN
+      - generic [ref=e6168]: "9"
+      - generic [ref=e6169]: Kamal Miller
+    - generic [ref=e6171] [cursor=pointer]:
+      - img [ref=e6173]
+      - generic [ref=e6175]: CAN
+      - generic [ref=e6176]: "10"
+      - generic [ref=e6177]: Stephen Eust...
+    - generic [ref=e6179] [cursor=pointer]:
+      - img [ref=e6181]
+      - generic [ref=e6183]: CAN
+      - generic [ref=e6184]: "11"
+      - generic [ref=e6185]: Ismaël Koné
+    - generic [ref=e6187] [cursor=pointer]:
+      - img [ref=e6189]
+      - generic [ref=e6191]: CAN
+      - generic [ref=e6192]: "12"
+      - generic [ref=e6193]: Jonathan Osb...
+    - generic [ref=e6195] [cursor=pointer]:
+      - img [ref=e6197]
+      - generic [ref=e6199]: CAN
+      - generic [ref=e6200]: "13"
+      - generic [ref=e6201]: Team Photo
+    - generic [ref=e6203] [cursor=pointer]:
+      - img [ref=e6205]
+      - generic [ref=e6207]: CAN
+      - generic [ref=e6208]: "14"
+      - generic [ref=e6209]: Jacob Shaffe...
+    - generic [ref=e6211] [cursor=pointer]:
+      - img [ref=e6213]
+      - generic [ref=e6215]: CAN
+      - generic [ref=e6216]: "15"
+      - generic [ref=e6217]: Mathieu Choi...
+    - generic [ref=e6219] [cursor=pointer]:
+      - img [ref=e6221]
+      - generic [ref=e6223]: CAN
+      - generic [ref=e6224]: "16"
+      - generic [ref=e6225]: Niko Sigur
+    - generic [ref=e6227] [cursor=pointer]:
+      - img [ref=e6229]
+      - generic [ref=e6231]: CAN
+      - generic [ref=e6232]: "17"
+      - generic [ref=e6233]: Tajon Buchan...
+    - generic [ref=e6235] [cursor=pointer]:
+      - generic [ref=e6236]: CAN
+      - generic [ref=e6237]: "18"
+      - generic [ref=e6238]: Liam Millar
+    - generic [ref=e6240] [cursor=pointer]:
+      - generic [ref=e6241]: CAN
+      - generic [ref=e6242]: "19"
+      - generic [ref=e6243]: Cyle Larin
+    - generic [ref=e6245] [cursor=pointer]:
+      - generic [ref=e6246]: CAN
+      - generic [ref=e6247]: "20"
+      - generic [ref=e6248]: Jonathan Dav...
+    - generic [ref=e6250] [cursor=pointer]:
+      - generic [ref=e6251]: CIV
+      - generic [ref=e6252]: "1"
+      - generic [ref=e6253]: Team Logo
+    - generic [ref=e6255] [cursor=pointer]:
+      - generic [ref=e6256]: CIV
+      - generic [ref=e6257]: "2"
+      - generic [ref=e6258]: Yahia Fofana
+    - generic [ref=e6260] [cursor=pointer]:
+      - generic [ref=e6261]: CIV
+      - generic [ref=e6262]: "3"
+      - generic [ref=e6263]: Ghislain Kon...
+    - generic [ref=e6265] [cursor=pointer]:
+      - generic [ref=e6266]: CIV
+      - generic [ref=e6267]: "4"
+      - generic [ref=e6268]: Wilfried Sin...
+    - generic [ref=e6270] [cursor=pointer]:
+      - generic [ref=e6271]: CIV
+      - generic [ref=e6272]: "5"
+      - generic [ref=e6273]: Odilon Kosso...
+    - generic [ref=e6275] [cursor=pointer]:
+      - generic [ref=e6276]: CIV
+      - generic [ref=e6277]: "6"
+      - generic [ref=e6278]: Evan Ndicka
+    - generic [ref=e6280] [cursor=pointer]:
+      - generic [ref=e6281]: CIV
+      - generic [ref=e6282]: "7"
+      - generic [ref=e6283]: Willy Boly
+    - generic [ref=e6285] [cursor=pointer]:
+      - generic [ref=e6286]: CIV
+      - generic [ref=e6287]: "8"
+      - generic [ref=e6288]: Emmanuel Agb...
+    - generic [ref=e6290] [cursor=pointer]:
+      - generic [ref=e6291]: CIV
+      - generic [ref=e6292]: "9"
+      - generic [ref=e6293]: Ousmane Diom...
+    - generic [ref=e6295] [cursor=pointer]:
+      - generic [ref=e6296]: CIV
+      - generic [ref=e6297]: "10"
+      - generic [ref=e6298]: Franck Kessi...
+    - generic [ref=e6300] [cursor=pointer]:
+      - generic [ref=e6301]: CIV
+      - generic [ref=e6302]: "11"
+      - generic [ref=e6303]: Seko Fofana
+    - generic [ref=e6305] [cursor=pointer]:
+      - generic [ref=e6306]: CIV
+      - generic [ref=e6307]: "12"
+      - generic [ref=e6308]: Ibrahim Sang...
+    - generic [ref=e6310] [cursor=pointer]:
+      - generic [ref=e6311]: CIV
+      - generic [ref=e6312]: "13"
+      - generic [ref=e6313]: Team Photo
+    - generic [ref=e6315] [cursor=pointer]:
+      - generic [ref=e6316]: CIV
+      - generic [ref=e6317]: "14"
+      - generic [ref=e6318]: Jean-Philipp...
+    - generic [ref=e6320] [cursor=pointer]:
+      - generic [ref=e6321]: CIV
+      - generic [ref=e6322]: "15"
+      - generic [ref=e6323]: Amad Diallo
+    - generic [ref=e6325] [cursor=pointer]:
+      - generic [ref=e6326]: CIV
+      - generic [ref=e6327]: "16"
+      - generic [ref=e6328]: Sébastien Ha...
+    - generic [ref=e6330] [cursor=pointer]:
+      - generic [ref=e6331]: CIV
+      - generic [ref=e6332]: "17"
+      - generic [ref=e6333]: Simon Adingr...
+    - generic [ref=e6335] [cursor=pointer]:
+      - generic [ref=e6336]: CIV
+      - generic [ref=e6337]: "18"
+      - generic [ref=e6338]: Yan Diomande
+    - generic [ref=e6340] [cursor=pointer]:
+      - generic [ref=e6341]: CIV
+      - generic [ref=e6342]: "19"
+      - generic [ref=e6343]: Evann Guessa...
+    - generic [ref=e6345] [cursor=pointer]:
+      - generic [ref=e6346]: CIV
+      - generic [ref=e6347]: "20"
+      - generic [ref=e6348]: Oumar Diakit...
+    - generic [ref=e6350] [cursor=pointer]:
+      - generic [ref=e6351]: COD
+      - generic [ref=e6352]: "1"
+      - generic [ref=e6353]: Team Logo
+    - generic [ref=e6355] [cursor=pointer]:
+      - generic [ref=e6356]: COD
+      - generic [ref=e6357]: "2"
+      - generic [ref=e6358]: Lionel Mpasi
+    - generic [ref=e6360] [cursor=pointer]:
+      - generic [ref=e6361]: COD
+      - generic [ref=e6362]: "3"
+      - generic [ref=e6363]: Aaron Wan-Bi...
+    - generic [ref=e6365] [cursor=pointer]:
+      - generic [ref=e6366]: COD
+      - generic [ref=e6367]: "4"
+      - generic [ref=e6368]: Axel Tuanzeb...
+    - generic [ref=e6370] [cursor=pointer]:
+      - generic [ref=e6371]: COD
+      - generic [ref=e6372]: "5"
+      - generic [ref=e6373]: Arthur Masua...
+    - generic [ref=e6375] [cursor=pointer]:
+      - generic [ref=e6376]: COD
+      - generic [ref=e6377]: "6"
+      - generic [ref=e6378]: Chancel Mbem...
+    - generic [ref=e6380] [cursor=pointer]:
+      - generic [ref=e6381]: COD
+      - generic [ref=e6382]: "7"
+      - generic [ref=e6383]: Joris Kayemb...
+    - generic [ref=e6385] [cursor=pointer]:
+      - generic [ref=e6386]: COD
+      - generic [ref=e6387]: "8"
+      - generic [ref=e6388]: Charles Pick...
+    - generic [ref=e6390] [cursor=pointer]:
+      - generic [ref=e6391]: COD
+      - generic [ref=e6392]: "9"
+      - generic [ref=e6393]: Ngal'ayel Mu...
+    - generic [ref=e6395] [cursor=pointer]:
+      - generic [ref=e6396]: COD
+      - generic [ref=e6397]: "10"
+      - generic [ref=e6398]: Edo Kayembe
+    - generic [ref=e6400] [cursor=pointer]:
+      - generic [ref=e6401]: COD
+      - generic [ref=e6402]: "11"
+      - generic [ref=e6403]: Samuel Mouto...
+    - generic [ref=e6405] [cursor=pointer]:
+      - generic [ref=e6406]: COD
+      - generic [ref=e6407]: "12"
+      - generic [ref=e6408]: Noah Sadiki
+    - generic [ref=e6410] [cursor=pointer]:
+      - generic [ref=e6411]: COD
+      - generic [ref=e6412]: "13"
+      - generic [ref=e6413]: Team Photo
+    - generic [ref=e6415] [cursor=pointer]:
+      - generic [ref=e6416]: COD
+      - generic [ref=e6417]: "14"
+      - generic [ref=e6418]: Théo Bongond...
+    - generic [ref=e6420] [cursor=pointer]:
+      - generic [ref=e6421]: COD
+      - generic [ref=e6422]: "15"
+      - generic [ref=e6423]: Meschak Elia
+    - generic [ref=e6425] [cursor=pointer]:
+      - generic [ref=e6426]: COD
+      - generic [ref=e6427]: "16"
+      - generic [ref=e6428]: Yoane Wissa
+    - generic [ref=e6430] [cursor=pointer]:
+      - generic [ref=e6431]: COD
+      - generic [ref=e6432]: "17"
+      - generic [ref=e6433]: Brian Cipeng...
+    - generic [ref=e6435] [cursor=pointer]:
+      - generic [ref=e6436]: COD
+      - generic [ref=e6437]: "18"
+      - generic [ref=e6438]: Fiston Mayel...
+    - generic [ref=e6440] [cursor=pointer]:
+      - generic [ref=e6441]: COD
+      - generic [ref=e6442]: "19"
+      - generic [ref=e6443]: Cédric Bakam...
+    - generic [ref=e6445] [cursor=pointer]:
+      - generic [ref=e6446]: COD
+      - generic [ref=e6447]: "20"
+      - generic [ref=e6448]: Nathanaël Mb...
+    - generic [ref=e6450] [cursor=pointer]:
+      - generic [ref=e6451]: COL
+      - generic [ref=e6452]: "1"
+      - generic [ref=e6453]: Team Logo
+    - generic [ref=e6455] [cursor=pointer]:
+      - generic [ref=e6456]: COL
+      - generic [ref=e6457]: "2"
+      - generic [ref=e6458]: Camilo Varga...
+    - generic [ref=e6460] [cursor=pointer]:
+      - generic [ref=e6461]: COL
+      - generic [ref=e6462]: "3"
+      - generic [ref=e6463]: David Ospina
+    - generic [ref=e6465] [cursor=pointer]:
+      - generic [ref=e6466]: COL
+      - generic [ref=e6467]: "4"
+      - generic [ref=e6468]: Dávinson Sán...
+    - generic [ref=e6470] [cursor=pointer]:
+      - generic [ref=e6471]: COL
+      - generic [ref=e6472]: "5"
+      - generic [ref=e6473]: Yerry Mina
+    - generic [ref=e6475] [cursor=pointer]:
+      - generic [ref=e6476]: COL
+      - generic [ref=e6477]: "6"
+      - generic [ref=e6478]: Daniel Munoz
+    - generic [ref=e6480] [cursor=pointer]:
+      - generic [ref=e6481]: COL
+      - generic [ref=e6482]: "7"
+      - generic [ref=e6483]: Johan Mojica
+    - generic [ref=e6485] [cursor=pointer]:
+      - generic [ref=e6486]: COL
+      - generic [ref=e6487]: "8"
+      - generic [ref=e6488]: Jhon Lucumí
+    - generic [ref=e6490] [cursor=pointer]:
+      - generic [ref=e6491]: COL
+      - generic [ref=e6492]: "9"
+      - generic [ref=e6493]: Santiago Ari...
+    - generic [ref=e6495] [cursor=pointer]:
+      - generic [ref=e6496]: COL
+      - generic [ref=e6497]: "10"
+      - generic [ref=e6498]: Jefferson Le...
+    - generic [ref=e6500] [cursor=pointer]:
+      - generic [ref=e6501]: COL
+      - generic [ref=e6502]: "11"
+      - generic [ref=e6503]: Kevin Castañ...
+    - generic [ref=e6505] [cursor=pointer]:
+      - generic [ref=e6506]: COL
+      - generic [ref=e6507]: "12"
+      - generic [ref=e6508]: Richard Rios
+    - generic [ref=e6510] [cursor=pointer]:
+      - generic [ref=e6511]: COL
+      - generic [ref=e6512]: "13"
+      - generic [ref=e6513]: Team Photo
+    - generic [ref=e6515] [cursor=pointer]:
+      - generic [ref=e6516]: COL
+      - generic [ref=e6517]: "14"
+      - generic [ref=e6518]: James Rodrig...
+    - generic [ref=e6520] [cursor=pointer]:
+      - generic [ref=e6521]: COL
+      - generic [ref=e6522]: "15"
+      - generic [ref=e6523]: Juan Fernand...
+    - generic [ref=e6525] [cursor=pointer]:
+      - generic [ref=e6526]: COL
+      - generic [ref=e6527]: "16"
+      - generic [ref=e6528]: Jorge Carras...
+    - generic [ref=e6530] [cursor=pointer]:
+      - generic [ref=e6531]: COL
+      - generic [ref=e6532]: "17"
+      - generic [ref=e6533]: Jon Arias
+    - generic [ref=e6535] [cursor=pointer]:
+      - generic [ref=e6536]: COL
+      - generic [ref=e6537]: "18"
+      - generic [ref=e6538]: Jhon Cordoba
+    - generic [ref=e6540] [cursor=pointer]:
+      - generic [ref=e6541]: COL
+      - generic [ref=e6542]: "19"
+      - generic [ref=e6543]: Luis Suarez
+    - generic [ref=e6545] [cursor=pointer]:
+      - generic [ref=e6546]: COL
+      - generic [ref=e6547]: "20"
+      - generic [ref=e6548]: Luis Diaz
+    - generic [ref=e6550] [cursor=pointer]:
+      - generic [ref=e6551]: COLA
+      - generic [ref=e6552]: "1"
+      - generic [ref=e6553]: Lamine Yamal...
+    - generic [ref=e6555] [cursor=pointer]:
+      - generic [ref=e6556]: COLA
+      - generic [ref=e6557]: "2"
+      - generic [ref=e6558]: Joshua Kimmi...
+    - generic [ref=e6560] [cursor=pointer]:
+      - generic [ref=e6561]: COLA
+      - generic [ref=e6562]: "3"
+      - generic [ref=e6563]: Harry Kane -...
+    - generic [ref=e6565] [cursor=pointer]:
+      - generic [ref=e6566]: COLA
+      - generic [ref=e6567]: "4"
+      - generic [ref=e6568]: Santiago Gim...
+    - generic [ref=e6570] [cursor=pointer]:
+      - generic [ref=e6571]: COLA
+      - generic [ref=e6572]: "5"
+      - generic [ref=e6573]: Antonee Robi...
+    - generic [ref=e6575] [cursor=pointer]:
+      - generic [ref=e6576]: COLA
+      - generic [ref=e6577]: "6"
+      - generic [ref=e6578]: Jefferson Le...
+    - generic [ref=e6580] [cursor=pointer]:
+      - generic [ref=e6581]: COLA
+      - generic [ref=e6582]: "7"
+      - generic [ref=e6583]: Edson Álvare...
+    - generic [ref=e6585] [cursor=pointer]:
+      - generic [ref=e6586]: COLA
+      - generic [ref=e6587]: "8"
+      - generic [ref=e6588]: Virgil van D...
+    - generic [ref=e6590] [cursor=pointer]:
+      - generic [ref=e6591]: COLA
+      - generic [ref=e6592]: "9"
+      - generic [ref=e6593]: Alphonso Dav...
+    - generic [ref=e6595] [cursor=pointer]:
+      - generic [ref=e6596]: COLA
+      - generic [ref=e6597]: "10"
+      - generic [ref=e6598]: Weston McKen...
+    - generic [ref=e6600] [cursor=pointer]:
+      - generic [ref=e6601]: COLA
+      - generic [ref=e6602]: "11"
+      - generic [ref=e6603]: Lautaro Mart...
+    - generic [ref=e6605] [cursor=pointer]:
+      - generic [ref=e6606]: COLA
+      - generic [ref=e6607]: "12"
+      - generic [ref=e6608]: Gabriel Maga...
+    - generic [ref=e6610] [cursor=pointer]:
+      - generic [ref=e6611]: CPV
+      - generic [ref=e6612]: "1"
+      - generic [ref=e6613]: Team Logo
+    - generic [ref=e6615] [cursor=pointer]:
+      - generic [ref=e6616]: CPV
+      - generic [ref=e6617]: "2"
+      - generic [ref=e6618]: Vozinha
+    - generic [ref=e6620] [cursor=pointer]:
+      - generic [ref=e6621]: CPV
+      - generic [ref=e6622]: "3"
+      - generic [ref=e6623]: Logan Costa
+    - generic [ref=e6625] [cursor=pointer]:
+      - generic [ref=e6626]: CPV
+      - generic [ref=e6627]: "4"
+      - generic [ref=e6628]: Pico
+    - generic [ref=e6630] [cursor=pointer]:
+      - generic [ref=e6631]: CPV
+      - generic [ref=e6632]: "5"
+      - generic [ref=e6633]: Diney
+    - generic [ref=e6635] [cursor=pointer]:
+      - generic [ref=e6636]: CPV
+      - generic [ref=e6637]: "6"
+      - generic [ref=e6638]: Steven Morei...
+    - generic [ref=e6640] [cursor=pointer]:
+      - generic [ref=e6641]: CPV
+      - generic [ref=e6642]: "7"
+      - generic [ref=e6643]: Wagner Pina
+    - generic [ref=e6645] [cursor=pointer]:
+      - generic [ref=e6646]: CPV
+      - generic [ref=e6647]: "8"
+      - generic [ref=e6648]: Joao Paulo
+    - generic [ref=e6650] [cursor=pointer]:
+      - generic [ref=e6651]: CPV
+      - generic [ref=e6652]: "9"
+      - generic [ref=e6653]: Yannick Seme...
+    - generic [ref=e6655] [cursor=pointer]:
+      - generic [ref=e6656]: CPV
+      - generic [ref=e6657]: "10"
+      - generic [ref=e6658]: Kevin Pina
+    - generic [ref=e6660] [cursor=pointer]:
+      - generic [ref=e6661]: CPV
+      - generic [ref=e6662]: "11"
+      - generic [ref=e6663]: Patrick Andr...
+    - generic [ref=e6665] [cursor=pointer]:
+      - generic [ref=e6666]: CPV
+      - generic [ref=e6667]: "12"
+      - generic [ref=e6668]: Jamiro Monte...
+    - generic [ref=e6670] [cursor=pointer]:
+      - generic [ref=e6671]: CPV
+      - generic [ref=e6672]: "13"
+      - generic [ref=e6673]: Team Photo
+    - generic [ref=e6675] [cursor=pointer]:
+      - generic [ref=e6676]: CPV
+      - generic [ref=e6677]: "14"
+      - generic [ref=e6678]: Deroy Duarte
+    - generic [ref=e6680] [cursor=pointer]:
+      - generic [ref=e6681]: CPV
+      - generic [ref=e6682]: "15"
+      - generic [ref=e6683]: Garry Rodrig...
+    - generic [ref=e6685] [cursor=pointer]:
+      - generic [ref=e6686]: CPV
+      - generic [ref=e6687]: "16"
+      - generic [ref=e6688]: Jovane Cabra...
+    - generic [ref=e6690] [cursor=pointer]:
+      - generic [ref=e6691]: CPV
+      - generic [ref=e6692]: "17"
+      - generic [ref=e6693]: Ryan Mendes
+    - generic [ref=e6695] [cursor=pointer]:
+      - generic [ref=e6696]: CPV
+      - generic [ref=e6697]: "18"
+      - generic [ref=e6698]: Dailon Livra...
+    - generic [ref=e6700] [cursor=pointer]:
+      - generic [ref=e6701]: CPV
+      - generic [ref=e6702]: "19"
+      - generic [ref=e6703]: Willy Semedo
+    - generic [ref=e6705] [cursor=pointer]:
+      - generic [ref=e6706]: CPV
+      - generic [ref=e6707]: "20"
+      - generic [ref=e6708]: Bebe
+    - generic [ref=e6710] [cursor=pointer]:
+      - generic [ref=e6711]: CRO
+      - generic [ref=e6712]: "1"
+      - generic [ref=e6713]: Team Logo
+    - generic [ref=e6715] [cursor=pointer]:
+      - generic [ref=e6716]: CRO
+      - generic [ref=e6717]: "2"
+      - generic [ref=e6718]: Dominik Liva...
+    - generic [ref=e6720] [cursor=pointer]:
+      - generic [ref=e6721]: CRO
+      - generic [ref=e6722]: "3"
+      - generic [ref=e6723]: Duje Caleta-...
+    - generic [ref=e6725] [cursor=pointer]:
+      - generic [ref=e6726]: CRO
+      - generic [ref=e6727]: "4"
+      - generic [ref=e6728]: Josko Gvardi...
+    - generic [ref=e6730] [cursor=pointer]:
+      - generic [ref=e6731]: CRO
+      - generic [ref=e6732]: "5"
+      - generic [ref=e6733]: Josip Staniš...
+    - generic [ref=e6735] [cursor=pointer]:
+      - generic [ref=e6736]: CRO
+      - generic [ref=e6737]: "6"
+      - generic [ref=e6738]: Luka Vuškovi...
+    - generic [ref=e6740] [cursor=pointer]:
+      - generic [ref=e6741]: CRO
+      - generic [ref=e6742]: "7"
+      - generic [ref=e6743]: Josip Sutalo
+    - generic [ref=e6745] [cursor=pointer]:
+      - generic [ref=e6746]: CRO
+      - generic [ref=e6747]: "8"
+      - generic [ref=e6748]: Kristijan Ja...
+    - generic [ref=e6750] [cursor=pointer]:
+      - generic [ref=e6751]: CRO
+      - generic [ref=e6752]: "9"
+      - generic [ref=e6753]: Luka Modrić
+    - generic [ref=e6755] [cursor=pointer]:
+      - generic [ref=e6756]: CRO
+      - generic [ref=e6757]: "10"
+      - generic [ref=e6758]: Mateo Kovaci...
+    - generic [ref=e6760] [cursor=pointer]:
+      - generic [ref=e6761]: CRO
+      - generic [ref=e6762]: "11"
+      - generic [ref=e6763]: Martin Batur...
+    - generic [ref=e6765] [cursor=pointer]:
+      - generic [ref=e6766]: CRO
+      - generic [ref=e6767]: "12"
+      - generic [ref=e6768]: Lovro Majer
+    - generic [ref=e6770] [cursor=pointer]:
+      - generic [ref=e6771]: CRO
+      - generic [ref=e6772]: "13"
+      - generic [ref=e6773]: Team Photo
+    - generic [ref=e6775] [cursor=pointer]:
+      - generic [ref=e6776]: CRO
+      - generic [ref=e6777]: "14"
+      - generic [ref=e6778]: Mario Pasali...
+    - generic [ref=e6780] [cursor=pointer]:
+      - generic [ref=e6781]: CRO
+      - generic [ref=e6782]: "15"
+      - generic [ref=e6783]: Petar Sucic
+    - generic [ref=e6785] [cursor=pointer]:
+      - generic [ref=e6786]: CRO
+      - generic [ref=e6787]: "16"
+      - generic [ref=e6788]: Ivan Perišić
+    - generic [ref=e6790] [cursor=pointer]:
+      - generic [ref=e6791]: CRO
+      - generic [ref=e6792]: "17"
+      - generic [ref=e6793]: Marco Pasali...
+    - generic [ref=e6795] [cursor=pointer]:
+      - generic [ref=e6796]: CRO
+      - generic [ref=e6797]: "18"
+      - generic [ref=e6798]: Ante Budimir
+    - generic [ref=e6800] [cursor=pointer]:
+      - generic [ref=e6801]: CRO
+      - generic [ref=e6802]: "19"
+      - generic [ref=e6803]: Andrej Krama...
+    - generic [ref=e6805] [cursor=pointer]:
+      - generic [ref=e6806]: CRO
+      - generic [ref=e6807]: "20"
+      - generic [ref=e6808]: Franjo Ivano...
+    - generic [ref=e6810] [cursor=pointer]:
+      - generic [ref=e6811]: CUW
+      - generic [ref=e6812]: "1"
+      - generic [ref=e6813]: Team Logo
+    - generic [ref=e6815] [cursor=pointer]:
+      - generic [ref=e6816]: CUW
+      - generic [ref=e6817]: "2"
+      - generic [ref=e6818]: Eloy Room
+    - generic [ref=e6820] [cursor=pointer]:
+      - generic [ref=e6821]: CUW
+      - generic [ref=e6822]: "3"
+      - generic [ref=e6823]: Armando Obis...
+    - generic [ref=e6825] [cursor=pointer]:
+      - generic [ref=e6826]: CUW
+      - generic [ref=e6827]: "4"
+      - generic [ref=e6828]: Sherel Flora...
+    - generic [ref=e6830] [cursor=pointer]:
+      - generic [ref=e6831]: CUW
+      - generic [ref=e6832]: "5"
+      - generic [ref=e6833]: Jurien Gaari
+    - generic [ref=e6835] [cursor=pointer]:
+      - generic [ref=e6836]: CUW
+      - generic [ref=e6837]: "6"
+      - generic [ref=e6838]: Joshua Brene...
+    - generic [ref=e6840] [cursor=pointer]:
+      - generic [ref=e6841]: CUW
+      - generic [ref=e6842]: "7"
+      - generic [ref=e6843]: Roshon Van E...
+    - generic [ref=e6845] [cursor=pointer]:
+      - generic [ref=e6846]: CUW
+      - generic [ref=e6847]: "8"
+      - generic [ref=e6848]: Shurandy Sam...
+    - generic [ref=e6850] [cursor=pointer]:
+      - generic [ref=e6851]: CUW
+      - generic [ref=e6852]: "9"
+      - generic [ref=e6853]: Livano Comen...
+    - generic [ref=e6855] [cursor=pointer]:
+      - generic [ref=e6856]: CUW
+      - generic [ref=e6857]: "10"
+      - generic [ref=e6858]: Godfried Roe...
+    - generic [ref=e6860] [cursor=pointer]:
+      - generic [ref=e6861]: CUW
+      - generic [ref=e6862]: "11"
+      - generic [ref=e6863]: Juninho Bacu...
+    - generic [ref=e6865] [cursor=pointer]:
+      - generic [ref=e6866]: CUW
+      - generic [ref=e6867]: "12"
+      - generic [ref=e6868]: Leandro Bacu...
+    - generic [ref=e6870] [cursor=pointer]:
+      - generic [ref=e6871]: CUW
+      - generic [ref=e6872]: "13"
+      - generic [ref=e6873]: Team Photo
+    - generic [ref=e6875] [cursor=pointer]:
+      - generic [ref=e6876]: CUW
+      - generic [ref=e6877]: "14"
+      - generic [ref=e6878]: Tahith Chong
+    - generic [ref=e6880] [cursor=pointer]:
+      - generic [ref=e6881]: CUW
+      - generic [ref=e6882]: "15"
+      - generic [ref=e6883]: Kenji Gorre
+    - generic [ref=e6885] [cursor=pointer]:
+      - generic [ref=e6886]: CUW
+      - generic [ref=e6887]: "16"
+      - generic [ref=e6888]: Jearl Margar...
+    - generic [ref=e6890] [cursor=pointer]:
+      - generic [ref=e6891]: CUW
+      - generic [ref=e6892]: "17"
+      - generic [ref=e6893]: Jurgen Locad...
+    - generic [ref=e6895] [cursor=pointer]:
+      - generic [ref=e6896]: CUW
+      - generic [ref=e6897]: "18"
+      - generic [ref=e6898]: Jeremy Anton...
+    - generic [ref=e6900] [cursor=pointer]:
+      - generic [ref=e6901]: CUW
+      - generic [ref=e6902]: "19"
+      - generic [ref=e6903]: Gervane Kast...
+    - generic [ref=e6905] [cursor=pointer]:
+      - generic [ref=e6906]: CUW
+      - generic [ref=e6907]: "20"
+      - generic [ref=e6908]: Sontje Hanse...
+    - generic [ref=e6910] [cursor=pointer]:
+      - generic [ref=e6911]: CZE
+      - generic [ref=e6912]: "1"
+      - generic [ref=e6913]: Team Logo
+    - generic [ref=e6915] [cursor=pointer]:
+      - generic [ref=e6916]: CZE
+      - generic [ref=e6917]: "2"
+      - generic [ref=e6918]: Matej Kovar
+    - generic [ref=e6920] [cursor=pointer]:
+      - generic [ref=e6921]: CZE
+      - generic [ref=e6922]: "3"
+      - generic [ref=e6923]: Jindrich Sta...
+    - generic [ref=e6925] [cursor=pointer]:
+      - generic [ref=e6926]: CZE
+      - generic [ref=e6927]: "4"
+      - generic [ref=e6928]: Ladislav Kre...
+    - generic [ref=e6930] [cursor=pointer]:
+      - generic [ref=e6931]: CZE
+      - generic [ref=e6932]: "5"
+      - generic [ref=e6933]: Vladimir Cou...
+    - generic [ref=e6935] [cursor=pointer]:
+      - generic [ref=e6936]: CZE
+      - generic [ref=e6937]: "6"
+      - generic [ref=e6938]: Jaroslav Zel...
+    - generic [ref=e6940] [cursor=pointer]:
+      - generic [ref=e6941]: CZE
+      - generic [ref=e6942]: "7"
+      - generic [ref=e6943]: Tomas Holes
+    - generic [ref=e6945] [cursor=pointer]:
+      - generic [ref=e6946]: CZE
+      - generic [ref=e6947]: "8"
+      - generic [ref=e6948]: David Zima
+    - generic [ref=e6950] [cursor=pointer]:
+      - generic [ref=e6951]: CZE
+      - generic [ref=e6952]: "9"
+      - generic [ref=e6953]: Michal Sadil...
+    - generic [ref=e6955] [cursor=pointer]:
+      - generic [ref=e6956]: CZE
+      - generic [ref=e6957]: "10"
+      - generic [ref=e6958]: Lukas Provod
+    - generic [ref=e6960] [cursor=pointer]:
+      - generic [ref=e6961]: CZE
+      - generic [ref=e6962]: "11"
+      - generic [ref=e6963]: Lukas Cerv
+    - generic [ref=e6965] [cursor=pointer]:
+      - generic [ref=e6966]: CZE
+      - generic [ref=e6967]: "12"
+      - generic [ref=e6968]: Tomas Soucek
+    - generic [ref=e6970] [cursor=pointer]:
+      - generic [ref=e6971]: CZE
+      - generic [ref=e6972]: "13"
+      - generic [ref=e6973]: Team Photo
+    - generic [ref=e6975] [cursor=pointer]:
+      - generic [ref=e6976]: CZE
+      - generic [ref=e6977]: "14"
+      - generic [ref=e6978]: Pavel Sulc
+    - generic [ref=e6980] [cursor=pointer]:
+      - generic [ref=e6981]: CZE
+      - generic [ref=e6982]: "15"
+      - generic [ref=e6983]: Matej Vydra
+    - generic [ref=e6985] [cursor=pointer]:
+      - generic [ref=e6986]: CZE
+      - generic [ref=e6987]: "16"
+      - generic [ref=e6988]: Vasil Kusej
+    - generic [ref=e6990] [cursor=pointer]:
+      - generic [ref=e6991]: CZE
+      - generic [ref=e6992]: "17"
+      - generic [ref=e6993]: Tomas Chory
+    - generic [ref=e6995] [cursor=pointer]:
+      - generic [ref=e6996]: CZE
+      - generic [ref=e6997]: "18"
+      - generic [ref=e6998]: Vaclav Cerny
+    - generic [ref=e7000] [cursor=pointer]:
+      - generic [ref=e7001]: CZE
+      - generic [ref=e7002]: "19"
+      - generic [ref=e7003]: Adam Hlozek
+    - generic [ref=e7005] [cursor=pointer]:
+      - generic [ref=e7006]: CZE
+      - generic [ref=e7007]: "20"
+      - generic [ref=e7008]: Patrik Schic...
+    - generic [ref=e7010] [cursor=pointer]:
+      - generic [ref=e7011]: ECU
+      - generic [ref=e7012]: "1"
+      - generic [ref=e7013]: Team Logo
+    - generic [ref=e7015] [cursor=pointer]:
+      - generic [ref=e7016]: ECU
+      - generic [ref=e7017]: "2"
+      - generic [ref=e7018]: Hernán Galín...
+    - generic [ref=e7020] [cursor=pointer]:
+      - generic [ref=e7021]: ECU
+      - generic [ref=e7022]: "3"
+      - generic [ref=e7023]: Gonzalo Vall...
+    - generic [ref=e7025] [cursor=pointer]:
+      - generic [ref=e7026]: ECU
+      - generic [ref=e7027]: "4"
+      - generic [ref=e7028]: Piero Hincap...
+    - generic [ref=e7030] [cursor=pointer]:
+      - generic [ref=e7031]: ECU
+      - generic [ref=e7032]: "5"
+      - generic [ref=e7033]: Pervis Estup...
+    - generic [ref=e7035] [cursor=pointer]:
+      - generic [ref=e7036]: ECU
+      - generic [ref=e7037]: "6"
+      - generic [ref=e7038]: Willian Pach...
+    - generic [ref=e7040] [cursor=pointer]:
+      - generic [ref=e7041]: ECU
+      - generic [ref=e7042]: "7"
+      - generic [ref=e7043]: Ángel Precia...
+    - generic [ref=e7045] [cursor=pointer]:
+      - generic [ref=e7046]: ECU
+      - generic [ref=e7047]: "8"
+      - generic [ref=e7048]: Joel Ordóñez
+    - generic [ref=e7050] [cursor=pointer]:
+      - generic [ref=e7051]: ECU
+      - generic [ref=e7052]: "9"
+      - generic [ref=e7053]: Moises Caice...
+    - generic [ref=e7055] [cursor=pointer]:
+      - generic [ref=e7056]: ECU
+      - generic [ref=e7057]: "10"
+      - generic [ref=e7058]: Alan Franco
+    - generic [ref=e7060] [cursor=pointer]:
+      - generic [ref=e7061]: ECU
+      - generic [ref=e7062]: "11"
+      - generic [ref=e7063]: Kendry Paez
+    - generic [ref=e7065] [cursor=pointer]:
+      - generic [ref=e7066]: ECU
+      - generic [ref=e7067]: "12"
+      - generic [ref=e7068]: Pedro Vite
+    - generic [ref=e7070] [cursor=pointer]:
+      - generic [ref=e7071]: ECU
+      - generic [ref=e7072]: "13"
+      - generic [ref=e7073]: Team Photo
+    - generic [ref=e7075] [cursor=pointer]:
+      - generic [ref=e7076]: ECU
+      - generic [ref=e7077]: "14"
+      - generic [ref=e7078]: John Veboah
+    - generic [ref=e7080] [cursor=pointer]:
+      - generic [ref=e7081]: ECU
+      - generic [ref=e7082]: "15"
+      - generic [ref=e7083]: Leonardo Cam...
+    - generic [ref=e7085] [cursor=pointer]:
+      - generic [ref=e7086]: ECU
+      - generic [ref=e7087]: "16"
+      - generic [ref=e7088]: Gonzalo Plat...
+    - generic [ref=e7090] [cursor=pointer]:
+      - generic [ref=e7091]: ECU
+      - generic [ref=e7092]: "17"
+      - generic [ref=e7093]: Nilson Angul...
+    - generic [ref=e7095] [cursor=pointer]:
+      - generic [ref=e7096]: ECU
+      - generic [ref=e7097]: "18"
+      - generic [ref=e7098]: Alan Minda
+    - generic [ref=e7100] [cursor=pointer]:
+      - generic [ref=e7101]: ECU
+      - generic [ref=e7102]: "19"
+      - generic [ref=e7103]: Kevin Rodrig...
+    - generic [ref=e7105] [cursor=pointer]:
+      - generic [ref=e7106]: ECU
+      - generic [ref=e7107]: "20"
+      - generic [ref=e7108]: Enner Valenc...
+    - generic [ref=e7110] [cursor=pointer]:
+      - generic [ref=e7111]: EGY
+      - generic [ref=e7112]: "1"
+      - generic [ref=e7113]: Team Logo
+    - generic [ref=e7115] [cursor=pointer]:
+      - generic [ref=e7116]: EGY
+      - generic [ref=e7117]: "2"
+      - generic [ref=e7118]: Mohamed El S...
+    - generic [ref=e7120] [cursor=pointer]:
+      - generic [ref=e7121]: EGY
+      - generic [ref=e7122]: "3"
+      - generic [ref=e7123]: Mohamed Hany
+    - generic [ref=e7125] [cursor=pointer]:
+      - generic [ref=e7126]: EGY
+      - generic [ref=e7127]: "4"
+      - generic [ref=e7128]: Mohamed Hamd...
+    - generic [ref=e7130] [cursor=pointer]:
+      - generic [ref=e7131]: EGY
+      - generic [ref=e7132]: "5"
+      - generic [ref=e7133]: Yasser Ibrah...
+    - generic [ref=e7135] [cursor=pointer]:
+      - generic [ref=e7136]: EGY
+      - generic [ref=e7137]: "6"
+      - generic [ref=e7138]: Khaled Sobhi
+    - generic [ref=e7140] [cursor=pointer]:
+      - generic [ref=e7141]: EGY
+      - generic [ref=e7142]: "7"
+      - generic [ref=e7143]: Ramy Rabia
+    - generic [ref=e7145] [cursor=pointer]:
+      - generic [ref=e7146]: EGY
+      - generic [ref=e7147]: "8"
+      - generic [ref=e7148]: Hossam Abdel...
+    - generic [ref=e7150] [cursor=pointer]:
+      - generic [ref=e7151]: EGY
+      - generic [ref=e7152]: "9"
+      - generic [ref=e7153]: Ahmed Fatouh
+    - generic [ref=e7155] [cursor=pointer]:
+      - generic [ref=e7156]: EGY
+      - generic [ref=e7157]: "10"
+      - generic [ref=e7158]: Marwan Attia
+    - generic [ref=e7160] [cursor=pointer]:
+      - generic [ref=e7161]: EGY
+      - generic [ref=e7162]: "11"
+      - generic [ref=e7163]: Zizo
+    - generic [ref=e7165] [cursor=pointer]:
+      - generic [ref=e7166]: EGY
+      - generic [ref=e7167]: "12"
+      - generic [ref=e7168]: Hamdy Fathy
+    - generic [ref=e7170] [cursor=pointer]:
+      - generic [ref=e7171]: EGY
+      - generic [ref=e7172]: "13"
+      - generic [ref=e7173]: Team Photo
+    - generic [ref=e7175] [cursor=pointer]:
+      - generic [ref=e7176]: EGY
+      - generic [ref=e7177]: "14"
+      - generic [ref=e7178]: Mohamed Lash...
+    - generic [ref=e7180] [cursor=pointer]:
+      - generic [ref=e7181]: EGY
+      - generic [ref=e7182]: "15"
+      - generic [ref=e7183]: Emam Ashour
+    - generic [ref=e7185] [cursor=pointer]:
+      - generic [ref=e7186]: EGY
+      - generic [ref=e7187]: "16"
+      - generic [ref=e7188]: Osama Faisal
+    - generic [ref=e7190] [cursor=pointer]:
+      - generic [ref=e7191]: EGY
+      - generic [ref=e7192]: "17"
+      - generic [ref=e7193]: Mohamed Sala...
+    - generic [ref=e7195] [cursor=pointer]:
+      - generic [ref=e7196]: EGY
+      - generic [ref=e7197]: "18"
+      - generic [ref=e7198]: Mostafa Moha...
+    - generic [ref=e7200] [cursor=pointer]:
+      - generic [ref=e7201]: EGY
+      - generic [ref=e7202]: "19"
+      - generic [ref=e7203]: Trezeguet
+    - generic [ref=e7205] [cursor=pointer]:
+      - generic [ref=e7206]: EGY
+      - generic [ref=e7207]: "20"
+      - generic [ref=e7208]: Omar Marmous...
+    - generic [ref=e7210] [cursor=pointer]:
+      - generic [ref=e7211]: ENG
+      - generic [ref=e7212]: "1"
+      - generic [ref=e7213]: Team Logo
+    - generic [ref=e7215] [cursor=pointer]:
+      - generic [ref=e7216]: ENG
+      - generic [ref=e7217]: "2"
+      - generic [ref=e7218]: Jordan Pickf...
+    - generic [ref=e7220] [cursor=pointer]:
+      - generic [ref=e7221]: ENG
+      - generic [ref=e7222]: "3"
+      - generic [ref=e7223]: John Stones
+    - generic [ref=e7225] [cursor=pointer]:
+      - generic [ref=e7226]: ENG
+      - generic [ref=e7227]: "4"
+      - generic [ref=e7228]: Marc Guéhi
+    - generic [ref=e7230] [cursor=pointer]:
+      - generic [ref=e7231]: ENG
+      - generic [ref=e7232]: "5"
+      - generic [ref=e7233]: Ezri Konsa
+    - generic [ref=e7235] [cursor=pointer]:
+      - generic [ref=e7236]: ENG
+      - generic [ref=e7237]: "6"
+      - generic [ref=e7238]: Trent Alexan...
+    - generic [ref=e7240] [cursor=pointer]:
+      - generic [ref=e7241]: ENG
+      - generic [ref=e7242]: "7"
+      - generic [ref=e7243]: Reece James
+    - generic [ref=e7245] [cursor=pointer]:
+      - generic [ref=e7246]: ENG
+      - generic [ref=e7247]: "8"
+      - generic [ref=e7248]: Dan Burn
+    - generic [ref=e7250] [cursor=pointer]:
+      - generic [ref=e7251]: ENG
+      - generic [ref=e7252]: "9"
+      - generic [ref=e7253]: Jordan Hende...
+    - generic [ref=e7255] [cursor=pointer]:
+      - generic [ref=e7256]: ENG
+      - generic [ref=e7257]: "10"
+      - generic [ref=e7258]: Declan Rice
+    - generic [ref=e7260] [cursor=pointer]:
+      - generic [ref=e7261]: ENG
+      - generic [ref=e7262]: "11"
+      - generic [ref=e7263]: Jude Belling...
+    - generic [ref=e7265] [cursor=pointer]:
+      - generic [ref=e7266]: ENG
+      - generic [ref=e7267]: "12"
+      - generic [ref=e7268]: Cole Palmer
+    - generic [ref=e7270] [cursor=pointer]:
+      - generic [ref=e7271]: ENG
+      - generic [ref=e7272]: "13"
+      - generic [ref=e7273]: Team Photo
+    - generic [ref=e7275] [cursor=pointer]:
+      - generic [ref=e7276]: ENG
+      - generic [ref=e7277]: "14"
+      - generic [ref=e7278]: Morgan Roger...
+    - generic [ref=e7280] [cursor=pointer]:
+      - generic [ref=e7281]: ENG
+      - generic [ref=e7282]: "15"
+      - generic [ref=e7283]: Anthony Gord...
+    - generic [ref=e7285] [cursor=pointer]:
+      - generic [ref=e7286]: ENG
+      - generic [ref=e7287]: "16"
+      - generic [ref=e7288]: Phil Foden
+    - generic [ref=e7290] [cursor=pointer]:
+      - generic [ref=e7291]: ENG
+      - generic [ref=e7292]: "17"
+      - generic [ref=e7293]: Bukayo Saka
+    - generic [ref=e7295] [cursor=pointer]:
+      - generic [ref=e7296]: ENG
+      - generic [ref=e7297]: "18"
+      - generic [ref=e7298]: Harry Kane
+    - generic [ref=e7300] [cursor=pointer]:
+      - generic [ref=e7301]: ENG
+      - generic [ref=e7302]: "19"
+      - generic [ref=e7303]: Marcus Rashf...
+    - generic [ref=e7305] [cursor=pointer]:
+      - generic [ref=e7306]: ENG
+      - generic [ref=e7307]: "20"
+      - generic [ref=e7308]: Ollie Watkin...
+    - generic [ref=e7310] [cursor=pointer]:
+      - generic [ref=e7311]: ESP
+      - generic [ref=e7312]: "1"
+      - generic [ref=e7313]: Team Logo
+    - generic [ref=e7315] [cursor=pointer]:
+      - generic [ref=e7316]: ESP
+      - generic [ref=e7317]: "2"
+      - generic [ref=e7318]: Unai Simon
+    - generic [ref=e7320] [cursor=pointer]:
+      - generic [ref=e7321]: ESP
+      - generic [ref=e7322]: "3"
+      - generic [ref=e7323]: Robin Le Nor...
+    - generic [ref=e7325] [cursor=pointer]:
+      - generic [ref=e7326]: ESP
+      - generic [ref=e7327]: "4"
+      - generic [ref=e7328]: Aymeric Lapo...
+    - generic [ref=e7330] [cursor=pointer]:
+      - generic [ref=e7331]: ESP
+      - generic [ref=e7332]: "5"
+      - generic [ref=e7333]: Dean Huijsen
+    - generic [ref=e7335] [cursor=pointer]:
+      - generic [ref=e7336]: ESP
+      - generic [ref=e7337]: "6"
+      - generic [ref=e7338]: Pedro Porro
+    - generic [ref=e7340] [cursor=pointer]:
+      - generic [ref=e7341]: ESP
+      - generic [ref=e7342]: "7"
+      - generic [ref=e7343]: Dani Carvaja...
+    - generic [ref=e7345] [cursor=pointer]:
+      - generic [ref=e7346]: ESP
+      - generic [ref=e7347]: "8"
+      - generic [ref=e7348]: Marc Cucurel...
+    - generic [ref=e7350] [cursor=pointer]:
+      - generic [ref=e7351]: ESP
+      - generic [ref=e7352]: "9"
+      - generic [ref=e7353]: Martín Zubim...
+    - generic [ref=e7355] [cursor=pointer]:
+      - generic [ref=e7356]: ESP
+      - generic [ref=e7357]: "10"
+      - generic [ref=e7358]: Rodri
+    - generic [ref=e7360] [cursor=pointer]:
+      - generic [ref=e7361]: ESP
+      - generic [ref=e7362]: "11"
+      - generic [ref=e7363]: Pedri
+    - generic [ref=e7365] [cursor=pointer]:
+      - generic [ref=e7366]: ESP
+      - generic [ref=e7367]: "12"
+      - generic [ref=e7368]: Fabian Ruiz
+    - generic [ref=e7370] [cursor=pointer]:
+      - generic [ref=e7371]: ESP
+      - generic [ref=e7372]: "13"
+      - generic [ref=e7373]: Team Photo
+    - generic [ref=e7375] [cursor=pointer]:
+      - generic [ref=e7376]: ESP
+      - generic [ref=e7377]: "14"
+      - generic [ref=e7378]: Mikel Merino
+    - generic [ref=e7380] [cursor=pointer]:
+      - generic [ref=e7381]: ESP
+      - generic [ref=e7382]: "15"
+      - generic [ref=e7383]: Lamine Yamal
+    - generic [ref=e7385] [cursor=pointer]:
+      - generic [ref=e7386]: ESP
+      - generic [ref=e7387]: "16"
+      - generic [ref=e7388]: Dani Olmo
+    - generic [ref=e7390] [cursor=pointer]:
+      - generic [ref=e7391]: ESP
+      - generic [ref=e7392]: "17"
+      - generic [ref=e7393]: Nico William...
+    - generic [ref=e7395] [cursor=pointer]:
+      - generic [ref=e7396]: ESP
+      - generic [ref=e7397]: "18"
+      - generic [ref=e7398]: Ferran Torre...
+    - generic [ref=e7400] [cursor=pointer]:
+      - generic [ref=e7401]: ESP
+      - generic [ref=e7402]: "19"
+      - generic [ref=e7403]: Álvaro Morat...
+    - generic [ref=e7405] [cursor=pointer]:
+      - generic [ref=e7406]: ESP
+      - generic [ref=e7407]: "20"
+      - generic [ref=e7408]: Mikel Oyarza...
+    - generic [ref=e7410] [cursor=pointer]:
+      - generic [ref=e7411]: FRA
+      - generic [ref=e7412]: "1"
+      - generic [ref=e7413]: Team Logo
+    - generic [ref=e7415] [cursor=pointer]:
+      - generic [ref=e7416]: FRA
+      - generic [ref=e7417]: "2"
+      - generic [ref=e7418]: Mike Maignan
+    - generic [ref=e7420] [cursor=pointer]:
+      - generic [ref=e7421]: FRA
+      - generic [ref=e7422]: "3"
+      - generic [ref=e7423]: Theo Hernand...
+    - generic [ref=e7425] [cursor=pointer]:
+      - generic [ref=e7426]: FRA
+      - generic [ref=e7427]: "4"
+      - generic [ref=e7428]: William Sali...
+    - generic [ref=e7430] [cursor=pointer]:
+      - generic [ref=e7431]: FRA
+      - generic [ref=e7432]: "5"
+      - generic [ref=e7433]: Jules Kounde
+    - generic [ref=e7435] [cursor=pointer]:
+      - generic [ref=e7436]: FRA
+      - generic [ref=e7437]: "6"
+      - generic [ref=e7438]: Ibrahima Kon...
+    - generic [ref=e7440] [cursor=pointer]:
+      - generic [ref=e7441]: FRA
+      - generic [ref=e7442]: "7"
+      - generic [ref=e7443]: Dayot Upamec...
+    - generic [ref=e7445] [cursor=pointer]:
+      - generic [ref=e7446]: FRA
+      - generic [ref=e7447]: "8"
+      - generic [ref=e7448]: Lucas Digne
+    - generic [ref=e7450] [cursor=pointer]:
+      - generic [ref=e7451]: FRA
+      - generic [ref=e7452]: "9"
+      - generic [ref=e7453]: Aurélien Tch...
+    - generic [ref=e7455] [cursor=pointer]:
+      - generic [ref=e7456]: FRA
+      - generic [ref=e7457]: "10"
+      - generic [ref=e7458]: Eduardo Cama...
+    - generic [ref=e7460] [cursor=pointer]:
+      - generic [ref=e7461]: FRA
+      - generic [ref=e7462]: "11"
+      - generic [ref=e7463]: Manu Kone
+    - generic [ref=e7465] [cursor=pointer]:
+      - generic [ref=e7466]: FRA
+      - generic [ref=e7467]: "12"
+      - generic [ref=e7468]: Adrien Rabio...
+    - generic [ref=e7470] [cursor=pointer]:
+      - generic [ref=e7471]: FRA
+      - generic [ref=e7472]: "13"
+      - generic [ref=e7473]: Team Photo
+    - generic [ref=e7475] [cursor=pointer]:
+      - generic [ref=e7476]: FRA
+      - generic [ref=e7477]: "14"
+      - generic [ref=e7478]: Michael Olis...
+    - generic [ref=e7480] [cursor=pointer]:
+      - generic [ref=e7481]: FRA
+      - generic [ref=e7482]: "15"
+      - generic [ref=e7483]: Ousmane Demb...
+    - generic [ref=e7485] [cursor=pointer]:
+      - generic [ref=e7486]: FRA
+      - generic [ref=e7487]: "16"
+      - generic [ref=e7488]: Bradley Barc...
+    - generic [ref=e7490] [cursor=pointer]:
+      - generic [ref=e7491]: FRA
+      - generic [ref=e7492]: "17"
+      - generic [ref=e7493]: Désiré Doué
+    - generic [ref=e7495] [cursor=pointer]:
+      - generic [ref=e7496]: FRA
+      - generic [ref=e7497]: "18"
+      - generic [ref=e7498]: Kingsley Com...
+    - generic [ref=e7500] [cursor=pointer]:
+      - generic [ref=e7501]: FRA
+      - generic [ref=e7502]: "19"
+      - generic [ref=e7503]: Hugo Ekitike
+    - generic [ref=e7505] [cursor=pointer]:
+      - generic [ref=e7506]: FRA
+      - generic [ref=e7507]: "20"
+      - generic [ref=e7508]: Kylian Mbapp...
+    - generic [ref=e7510] [cursor=pointer]:
+      - generic [ref=e7511]: FWC
+      - generic [ref=e7512]: "0"
+      - generic [ref=e7513]: Panini Logo
+    - generic [ref=e7515] [cursor=pointer]:
+      - generic [ref=e7516]: FWC
+      - generic [ref=e7517]: "1"
+      - generic [ref=e7518]: Official Emb...
+    - generic [ref=e7520] [cursor=pointer]:
+      - generic [ref=e7521]: FWC
+      - generic [ref=e7522]: "2"
+      - generic [ref=e7523]: Official Emb...
+    - generic [ref=e7525] [cursor=pointer]:
+      - generic [ref=e7526]: FWC
+      - generic [ref=e7527]: "3"
+      - generic [ref=e7528]: Official Mas...
+    - generic [ref=e7530] [cursor=pointer]:
+      - generic [ref=e7531]: FWC
+      - generic [ref=e7532]: "4"
+      - generic [ref=e7533]: Official Slo...
+    - generic [ref=e7535] [cursor=pointer]:
+      - generic [ref=e7536]: FWC
+      - generic [ref=e7537]: "5"
+      - generic [ref=e7538]: Official Bal...
+    - generic [ref=e7540] [cursor=pointer]:
+      - generic [ref=e7541]: FWC
+      - generic [ref=e7542]: "6"
+      - generic [ref=e7543]: Canada - Hos...
+    - generic [ref=e7545] [cursor=pointer]:
+      - generic [ref=e7546]: FWC
+      - generic [ref=e7547]: "7"
+      - generic [ref=e7548]: Mexico - Hos...
+    - generic [ref=e7550] [cursor=pointer]:
+      - generic [ref=e7551]: FWC
+      - generic [ref=e7552]: "8"
+      - generic [ref=e7553]: USA - Host C...
+    - generic [ref=e7555] [cursor=pointer]:
+      - generic [ref=e7556]: FWC
+      - generic [ref=e7557]: "9"
+      - generic [ref=e7558]: Italy 1934 -...
+    - generic [ref=e7560] [cursor=pointer]:
+      - generic [ref=e7561]: FWC
+      - generic [ref=e7562]: "10"
+      - generic [ref=e7563]: Uruguay 1950...
+    - generic [ref=e7565] [cursor=pointer]:
+      - generic [ref=e7566]: FWC
+      - generic [ref=e7567]: "11"
+      - generic [ref=e7568]: West Germany...
+    - generic [ref=e7570] [cursor=pointer]:
+      - generic [ref=e7571]: FWC
+      - generic [ref=e7572]: "12"
+      - generic [ref=e7573]: Brazil 1962 ...
+    - generic [ref=e7575] [cursor=pointer]:
+      - generic [ref=e7576]: FWC
+      - generic [ref=e7577]: "13"
+      - generic [ref=e7578]: West Germany...
+    - generic [ref=e7580] [cursor=pointer]:
+      - generic [ref=e7581]: FWC
+      - generic [ref=e7582]: "14"
+      - generic [ref=e7583]: Argentina 19...
+    - generic [ref=e7585] [cursor=pointer]:
+      - generic [ref=e7586]: FWC
+      - generic [ref=e7587]: "15"
+      - generic [ref=e7588]: Brazil 1994 ...
+    - generic [ref=e7590] [cursor=pointer]:
+      - generic [ref=e7591]: FWC
+      - generic [ref=e7592]: "16"
+      - generic [ref=e7593]: Brazil 2002 ...
+    - generic [ref=e7595] [cursor=pointer]:
+      - generic [ref=e7596]: FWC
+      - generic [ref=e7597]: "17"
+      - generic [ref=e7598]: Italy 2006 -...
+    - generic [ref=e7600] [cursor=pointer]:
+      - generic [ref=e7601]: FWC
+      - generic [ref=e7602]: "18"
+      - generic [ref=e7603]: Germany 2014...
+    - generic [ref=e7605] [cursor=pointer]:
+      - generic [ref=e7606]: FWC
+      - generic [ref=e7607]: "19"
+      - generic [ref=e7608]: Argentina 20...
+    - generic [ref=e7610] [cursor=pointer]:
+      - generic [ref=e7611]: GER
+      - generic [ref=e7612]: "1"
+      - generic [ref=e7613]: Team Logo
+    - generic [ref=e7615] [cursor=pointer]:
+      - generic [ref=e7616]: GER
+      - generic [ref=e7617]: "2"
+      - generic [ref=e7618]: Marc-André t...
+    - generic [ref=e7620] [cursor=pointer]:
+      - generic [ref=e7621]: GER
+      - generic [ref=e7622]: "3"
+      - generic [ref=e7623]: Jonathan Tah
+    - generic [ref=e7625] [cursor=pointer]:
+      - generic [ref=e7626]: GER
+      - generic [ref=e7627]: "4"
+      - generic [ref=e7628]: David Raum
+    - generic [ref=e7630] [cursor=pointer]:
+      - generic [ref=e7631]: GER
+      - generic [ref=e7632]: "5"
+      - generic [ref=e7633]: Nico Schlott...
+    - generic [ref=e7635] [cursor=pointer]:
+      - generic [ref=e7636]: GER
+      - generic [ref=e7637]: "6"
+      - generic [ref=e7638]: Antonio Rüdi...
+    - generic [ref=e7640] [cursor=pointer]:
+      - generic [ref=e7641]: GER
+      - generic [ref=e7642]: "7"
+      - generic [ref=e7643]: Waldemar Ant...
+    - generic [ref=e7645] [cursor=pointer]:
+      - generic [ref=e7646]: GER
+      - generic [ref=e7647]: "8"
+      - generic [ref=e7648]: Ridle Baku
+    - generic [ref=e7650] [cursor=pointer]:
+      - generic [ref=e7651]: GER
+      - generic [ref=e7652]: "9"
+      - generic [ref=e7653]: Maximilian M...
+    - generic [ref=e7655] [cursor=pointer]:
+      - generic [ref=e7656]: GER
+      - generic [ref=e7657]: "10"
+      - generic [ref=e7658]: Joshua Kimmi...
+    - generic [ref=e7660] [cursor=pointer]:
+      - generic [ref=e7661]: GER
+      - generic [ref=e7662]: "11"
+      - generic [ref=e7663]: Florian Wirt...
+    - generic [ref=e7665] [cursor=pointer]:
+      - generic [ref=e7666]: GER
+      - generic [ref=e7667]: "12"
+      - generic [ref=e7668]: Felix Nmecha
+    - generic [ref=e7670] [cursor=pointer]:
+      - generic [ref=e7671]: GER
+      - generic [ref=e7672]: "13"
+      - generic [ref=e7673]: Team Photo
+    - generic [ref=e7675] [cursor=pointer]:
+      - generic [ref=e7676]: GER
+      - generic [ref=e7677]: "14"
+      - generic [ref=e7678]: Leon Goretzk...
+    - generic [ref=e7680] [cursor=pointer]:
+      - generic [ref=e7681]: GER
+      - generic [ref=e7682]: "15"
+      - generic [ref=e7683]: Jamal Musial...
+    - generic [ref=e7685] [cursor=pointer]:
+      - generic [ref=e7686]: GER
+      - generic [ref=e7687]: "16"
+      - generic [ref=e7688]: Serge Gnabry
+    - generic [ref=e7690] [cursor=pointer]:
+      - generic [ref=e7691]: GER
+      - generic [ref=e7692]: "17"
+      - generic [ref=e7693]: Kai Havertz
+    - generic [ref=e7695] [cursor=pointer]:
+      - generic [ref=e7696]: GER
+      - generic [ref=e7697]: "18"
+      - generic [ref=e7698]: Leroy Sane
+    - generic [ref=e7700] [cursor=pointer]:
+      - generic [ref=e7701]: GER
+      - generic [ref=e7702]: "19"
+      - generic [ref=e7703]: Karim Adeyem...
+    - generic [ref=e7705] [cursor=pointer]:
+      - generic [ref=e7706]: GER
+      - generic [ref=e7707]: "20"
+      - generic [ref=e7708]: Nick Woltema...
+    - generic [ref=e7710] [cursor=pointer]:
+      - generic [ref=e7711]: GHA
+      - generic [ref=e7712]: "1"
+      - generic [ref=e7713]: Team Logo
+    - generic [ref=e7715] [cursor=pointer]:
+      - generic [ref=e7716]: GHA
+      - generic [ref=e7717]: "2"
+      - generic [ref=e7718]: Lawrence Ati...
+    - generic [ref=e7720] [cursor=pointer]:
+      - generic [ref=e7721]: GHA
+      - generic [ref=e7722]: "3"
+      - generic [ref=e7723]: Tariq Lampte...
+    - generic [ref=e7725] [cursor=pointer]:
+      - generic [ref=e7726]: GHA
+      - generic [ref=e7727]: "4"
+      - generic [ref=e7728]: Mohammed Sal...
+    - generic [ref=e7730] [cursor=pointer]:
+      - generic [ref=e7731]: GHA
+      - generic [ref=e7732]: "5"
+      - generic [ref=e7733]: Alidu Seidu
+    - generic [ref=e7735] [cursor=pointer]:
+      - generic [ref=e7736]: GHA
+      - generic [ref=e7737]: "6"
+      - generic [ref=e7738]: Alexander Dj...
+    - generic [ref=e7740] [cursor=pointer]:
+      - generic [ref=e7741]: GHA
+      - generic [ref=e7742]: "7"
+      - generic [ref=e7743]: Gideon Mensa...
+    - generic [ref=e7745] [cursor=pointer]:
+      - generic [ref=e7746]: GHA
+      - generic [ref=e7747]: "8"
+      - generic [ref=e7748]: Caleb Yirenk...
+    - generic [ref=e7750] [cursor=pointer]:
+      - generic [ref=e7751]: GHA
+      - generic [ref=e7752]: "9"
+      - generic [ref=e7753]: Abdul Issaha...
+    - generic [ref=e7755] [cursor=pointer]:
+      - generic [ref=e7756]: GHA
+      - generic [ref=e7757]: "10"
+      - generic [ref=e7758]: Thomas Parte...
+    - generic [ref=e7760] [cursor=pointer]:
+      - generic [ref=e7761]: GHA
+      - generic [ref=e7762]: "11"
+      - generic [ref=e7763]: Salis Abdul ...
+    - generic [ref=e7765] [cursor=pointer]:
+      - generic [ref=e7766]: GHA
+      - generic [ref=e7767]: "12"
+      - generic [ref=e7768]: Kamaldeen Su...
+    - generic [ref=e7770] [cursor=pointer]:
+      - generic [ref=e7771]: GHA
+      - generic [ref=e7772]: "13"
+      - generic [ref=e7773]: Team Photo
+    - generic [ref=e7775] [cursor=pointer]:
+      - generic [ref=e7776]: GHA
+      - generic [ref=e7777]: "14"
+      - generic [ref=e7778]: Mohammed Kud...
+    - generic [ref=e7780] [cursor=pointer]:
+      - generic [ref=e7781]: GHA
+      - generic [ref=e7782]: "15"
+      - generic [ref=e7783]: Inaki Willia...
+    - generic [ref=e7785] [cursor=pointer]:
+      - generic [ref=e7786]: GHA
+      - generic [ref=e7787]: "16"
+      - generic [ref=e7788]: Jordan Ayew
+    - generic [ref=e7790] [cursor=pointer]:
+      - generic [ref=e7791]: GHA
+      - generic [ref=e7792]: "17"
+      - generic [ref=e7793]: Andrew Ayew
+    - generic [ref=e7795] [cursor=pointer]:
+      - generic [ref=e7796]: GHA
+      - generic [ref=e7797]: "18"
+      - generic [ref=e7798]: Joseph Paint...
+    - generic [ref=e7800] [cursor=pointer]:
+      - generic [ref=e7801]: GHA
+      - generic [ref=e7802]: "19"
+      - generic [ref=e7803]: Osman Bukari
+    - generic [ref=e7805] [cursor=pointer]:
+      - generic [ref=e7806]: GHA
+      - generic [ref=e7807]: "20"
+      - generic [ref=e7808]: Antoine Seme...
+    - generic [ref=e7810] [cursor=pointer]:
+      - generic [ref=e7811]: HAI
+      - generic [ref=e7812]: "1"
+      - generic [ref=e7813]: Team Logo
+    - generic [ref=e7815] [cursor=pointer]:
+      - generic [ref=e7816]: HAI
+      - generic [ref=e7817]: "2"
+      - generic [ref=e7818]: Johny Placid...
+    - generic [ref=e7820] [cursor=pointer]:
+      - generic [ref=e7821]: HAI
+      - generic [ref=e7822]: "3"
+      - generic [ref=e7823]: Carlens Arcu...
+    - generic [ref=e7825] [cursor=pointer]:
+      - generic [ref=e7826]: HAI
+      - generic [ref=e7827]: "4"
+      - generic [ref=e7828]: Martin Expér...
+    - generic [ref=e7830] [cursor=pointer]:
+      - generic [ref=e7831]: HAI
+      - generic [ref=e7832]: "5"
+      - generic [ref=e7833]: Jean-Kevin D...
+    - generic [ref=e7835] [cursor=pointer]:
+      - generic [ref=e7836]: HAI
+      - generic [ref=e7837]: "6"
+      - generic [ref=e7838]: Ricardo Adé
+    - generic [ref=e7840] [cursor=pointer]:
+      - generic [ref=e7841]: HAI
+      - generic [ref=e7842]: "7"
+      - generic [ref=e7843]: Duke Lacroix
+    - generic [ref=e7845] [cursor=pointer]:
+      - generic [ref=e7846]: HAI
+      - generic [ref=e7847]: "8"
+      - generic [ref=e7848]: Garven Metus...
+    - generic [ref=e7850] [cursor=pointer]:
+      - generic [ref=e7851]: HAI
+      - generic [ref=e7852]: "9"
+      - generic [ref=e7853]: Hannes Delcr...
+    - generic [ref=e7855] [cursor=pointer]:
+      - generic [ref=e7856]: HAI
+      - generic [ref=e7857]: "10"
+      - generic [ref=e7858]: Leverton Pie...
+    - generic [ref=e7860] [cursor=pointer]:
+      - generic [ref=e7861]: HAI
+      - generic [ref=e7862]: "11"
+      - generic [ref=e7863]: Danley Jean ...
+    - generic [ref=e7865] [cursor=pointer]:
+      - generic [ref=e7866]: HAI
+      - generic [ref=e7867]: "12"
+      - generic [ref=e7868]: Jean-Ricner ...
+    - generic [ref=e7870] [cursor=pointer]:
+      - generic [ref=e7871]: HAI
+      - generic [ref=e7872]: "13"
+      - generic [ref=e7873]: Team Photo
+    - generic [ref=e7875] [cursor=pointer]:
+      - generic [ref=e7876]: HAI
+      - generic [ref=e7877]: "14"
+      - generic [ref=e7878]: Christopher ...
+    - generic [ref=e7880] [cursor=pointer]:
+      - generic [ref=e7881]: HAI
+      - generic [ref=e7882]: "15"
+      - generic [ref=e7883]: Derrick Etie...
+    - generic [ref=e7885] [cursor=pointer]:
+      - generic [ref=e7886]: HAI
+      - generic [ref=e7887]: "16"
+      - generic [ref=e7888]: Josue Casimi...
+    - generic [ref=e7890] [cursor=pointer]:
+      - generic [ref=e7891]: HAI
+      - generic [ref=e7892]: "17"
+      - generic [ref=e7893]: Ruben Provid...
+    - generic [ref=e7895] [cursor=pointer]:
+      - generic [ref=e7896]: HAI
+      - generic [ref=e7897]: "18"
+      - generic [ref=e7898]: Duckens Nazo...
+    - generic [ref=e7900] [cursor=pointer]:
+      - generic [ref=e7901]: HAI
+      - generic [ref=e7902]: "19"
+      - generic [ref=e7903]: Louicius Dee...
+    - generic [ref=e7905] [cursor=pointer]:
+      - generic [ref=e7906]: HAI
+      - generic [ref=e7907]: "20"
+      - generic [ref=e7908]: Frantzdy Pie...
+    - generic [ref=e7910] [cursor=pointer]:
+      - generic [ref=e7911]: IRN
+      - generic [ref=e7912]: "1"
+      - generic [ref=e7913]: Team Logo
+    - generic [ref=e7915] [cursor=pointer]:
+      - generic [ref=e7916]: IRN
+      - generic [ref=e7917]: "2"
+      - generic [ref=e7918]: Alireza Beir...
+    - generic [ref=e7920] [cursor=pointer]:
+      - generic [ref=e7921]: IRN
+      - generic [ref=e7922]: "3"
+      - generic [ref=e7923]: Morteza Pour...
+    - generic [ref=e7925] [cursor=pointer]:
+      - generic [ref=e7926]: IRN
+      - generic [ref=e7927]: "4"
+      - generic [ref=e7928]: Ehsan Hajsaf...
+    - generic [ref=e7930] [cursor=pointer]:
+      - generic [ref=e7931]: IRN
+      - generic [ref=e7932]: "5"
+      - generic [ref=e7933]: Milad Mohamm...
+    - generic [ref=e7935] [cursor=pointer]:
+      - generic [ref=e7936]: IRN
+      - generic [ref=e7937]: "6"
+      - generic [ref=e7938]: Shojae Khali...
+    - generic [ref=e7940] [cursor=pointer]:
+      - generic [ref=e7941]: IRN
+      - generic [ref=e7942]: "7"
+      - generic [ref=e7943]: Ramin Rezaei...
+    - generic [ref=e7945] [cursor=pointer]:
+      - generic [ref=e7946]: IRN
+      - generic [ref=e7947]: "8"
+      - generic [ref=e7948]: Hossein Kana...
+    - generic [ref=e7950] [cursor=pointer]:
+      - generic [ref=e7951]: IRN
+      - generic [ref=e7952]: "9"
+      - generic [ref=e7953]: Sadegh Mohar...
+    - generic [ref=e7955] [cursor=pointer]:
+      - generic [ref=e7956]: IRN
+      - generic [ref=e7957]: "10"
+      - generic [ref=e7958]: Saleh Hardan...
+    - generic [ref=e7960] [cursor=pointer]:
+      - generic [ref=e7961]: IRN
+      - generic [ref=e7962]: "11"
+      - generic [ref=e7963]: Saeed Ezatol...
+    - generic [ref=e7965] [cursor=pointer]:
+      - generic [ref=e7966]: IRN
+      - generic [ref=e7967]: "12"
+      - generic [ref=e7968]: Saman Ghoddo...
+    - generic [ref=e7970] [cursor=pointer]:
+      - generic [ref=e7971]: IRN
+      - generic [ref=e7972]: "13"
+      - generic [ref=e7973]: Team Photo
+    - generic [ref=e7975] [cursor=pointer]:
+      - generic [ref=e7976]: IRN
+      - generic [ref=e7977]: "14"
+      - generic [ref=e7978]: Omid Noorafk...
+    - generic [ref=e7980] [cursor=pointer]:
+      - generic [ref=e7981]: IRN
+      - generic [ref=e7982]: "15"
+      - generic [ref=e7983]: Roozbeh Ches...
+    - generic [ref=e7985] [cursor=pointer]:
+      - generic [ref=e7986]: IRN
+      - generic [ref=e7987]: "16"
+      - generic [ref=e7988]: Mohammad Moh...
+    - generic [ref=e7990] [cursor=pointer]:
+      - generic [ref=e7991]: IRN
+      - generic [ref=e7992]: "17"
+      - generic [ref=e7993]: Sardar Azmou...
+    - generic [ref=e7995] [cursor=pointer]:
+      - generic [ref=e7996]: IRN
+      - generic [ref=e7997]: "18"
+      - generic [ref=e7998]: Mehdi Taremi
+    - generic [ref=e8000] [cursor=pointer]:
+      - generic [ref=e8001]: IRN
+      - generic [ref=e8002]: "19"
+      - generic [ref=e8003]: Alireza Jaha...
+    - generic [ref=e8005] [cursor=pointer]:
+      - generic [ref=e8006]: IRN
+      - generic [ref=e8007]: "20"
+      - generic [ref=e8008]: Ali Gholizad...
+    - generic [ref=e8010] [cursor=pointer]:
+      - generic [ref=e8011]: IRQ
+      - generic [ref=e8012]: "1"
+      - generic [ref=e8013]: Team Logo
+    - generic [ref=e8015] [cursor=pointer]:
+      - generic [ref=e8016]: IRQ
+      - generic [ref=e8017]: "2"
+      - generic [ref=e8018]: Jalal Hassan
+    - generic [ref=e8020] [cursor=pointer]:
+      - generic [ref=e8021]: IRQ
+      - generic [ref=e8022]: "3"
+      - generic [ref=e8023]: Rebin Sulaka
+    - generic [ref=e8025] [cursor=pointer]:
+      - generic [ref=e8026]: IRQ
+      - generic [ref=e8027]: "4"
+      - generic [ref=e8028]: Hussein Ali
+    - generic [ref=e8030] [cursor=pointer]:
+      - generic [ref=e8031]: IRQ
+      - generic [ref=e8032]: "5"
+      - generic [ref=e8033]: Akam Hashem
+    - generic [ref=e8035] [cursor=pointer]:
+      - generic [ref=e8036]: IRQ
+      - generic [ref=e8037]: "6"
+      - generic [ref=e8038]: Merchas Dosk...
+    - generic [ref=e8040] [cursor=pointer]:
+      - generic [ref=e8041]: IRQ
+      - generic [ref=e8042]: "7"
+      - generic [ref=e8043]: Zaid Tahseen
+    - generic [ref=e8045] [cursor=pointer]:
+      - generic [ref=e8046]: IRQ
+      - generic [ref=e8047]: "8"
+      - generic [ref=e8048]: Manaf Younis
+    - generic [ref=e8050] [cursor=pointer]:
+      - generic [ref=e8051]: IRQ
+      - generic [ref=e8052]: "9"
+      - generic [ref=e8053]: Zidane Iqbal
+    - generic [ref=e8055] [cursor=pointer]:
+      - generic [ref=e8056]: IRQ
+      - generic [ref=e8057]: "10"
+      - generic [ref=e8058]: Amir Al-Amma...
+    - generic [ref=e8060] [cursor=pointer]:
+      - generic [ref=e8061]: IRQ
+      - generic [ref=e8062]: "11"
+      - generic [ref=e8063]: Ibrahim Bave...
+    - generic [ref=e8065] [cursor=pointer]:
+      - generic [ref=e8066]: IRQ
+      - generic [ref=e8067]: "12"
+      - generic [ref=e8068]: Ali Jasim
+    - generic [ref=e8070] [cursor=pointer]:
+      - generic [ref=e8071]: IRQ
+      - generic [ref=e8072]: "13"
+      - generic [ref=e8073]: Team Photo
+    - generic [ref=e8075] [cursor=pointer]:
+      - generic [ref=e8076]: IRQ
+      - generic [ref=e8077]: "14"
+      - generic [ref=e8078]: Youssef Amyn
+    - generic [ref=e8080] [cursor=pointer]:
+      - generic [ref=e8081]: IRQ
+      - generic [ref=e8082]: "15"
+      - generic [ref=e8083]: Aimar Sher
+    - generic [ref=e8085] [cursor=pointer]:
+      - generic [ref=e8086]: IRQ
+      - generic [ref=e8087]: "16"
+      - generic [ref=e8088]: Marko Farji
+    - generic [ref=e8090] [cursor=pointer]:
+      - generic [ref=e8091]: IRQ
+      - generic [ref=e8092]: "17"
+      - generic [ref=e8093]: Osama Rashid
+    - generic [ref=e8095] [cursor=pointer]:
+      - generic [ref=e8096]: IRQ
+      - generic [ref=e8097]: "18"
+      - generic [ref=e8098]: Ali Al-Hamad...
+    - generic [ref=e8100] [cursor=pointer]:
+      - generic [ref=e8101]: IRQ
+      - generic [ref=e8102]: "19"
+      - generic [ref=e8103]: Aymen Hussei...
+    - generic [ref=e8105] [cursor=pointer]:
+      - generic [ref=e8106]: IRQ
+      - generic [ref=e8107]: "20"
+      - generic [ref=e8108]: Mohanad Ali
+    - generic [ref=e8110] [cursor=pointer]:
+      - generic [ref=e8111]: JOR
+      - generic [ref=e8112]: "1"
+      - generic [ref=e8113]: Team Logo
+    - generic [ref=e8115] [cursor=pointer]:
+      - generic [ref=e8116]: JOR
+      - generic [ref=e8117]: "2"
+      - generic [ref=e8118]: Yazeed Abula...
+    - generic [ref=e8120] [cursor=pointer]:
+      - generic [ref=e8121]: JOR
+      - generic [ref=e8122]: "3"
+      - generic [ref=e8123]: Ihsan Haddad
+    - generic [ref=e8125] [cursor=pointer]:
+      - generic [ref=e8126]: JOR
+      - generic [ref=e8127]: "4"
+      - generic [ref=e8128]: Mohammad Abu...
+    - generic [ref=e8130] [cursor=pointer]:
+      - generic [ref=e8131]: JOR
+      - generic [ref=e8132]: "5"
+      - generic [ref=e8133]: Yazan Al-Ara...
+    - generic [ref=e8135] [cursor=pointer]:
+      - generic [ref=e8136]: JOR
+      - generic [ref=e8137]: "6"
+      - generic [ref=e8138]: Abdallah Nas...
+    - generic [ref=e8140] [cursor=pointer]:
+      - generic [ref=e8141]: JOR
+      - generic [ref=e8142]: "7"
+      - generic [ref=e8143]: Saleem Obaid
+    - generic [ref=e8145] [cursor=pointer]:
+      - generic [ref=e8146]: JOR
+      - generic [ref=e8147]: "8"
+      - generic [ref=e8148]: Mohammad Abu...
+    - generic [ref=e8150] [cursor=pointer]:
+      - generic [ref=e8151]: JOR
+      - generic [ref=e8152]: "9"
+      - generic [ref=e8153]: Ibrahim Saad...
+    - generic [ref=e8155] [cursor=pointer]:
+      - generic [ref=e8156]: JOR
+      - generic [ref=e8157]: "10"
+      - generic [ref=e8158]: Nizar Al-Ras...
+    - generic [ref=e8160] [cursor=pointer]:
+      - generic [ref=e8161]: JOR
+      - generic [ref=e8162]: "11"
+      - generic [ref=e8163]: Noor Al-Rawa...
+    - generic [ref=e8165] [cursor=pointer]:
+      - generic [ref=e8166]: JOR
+      - generic [ref=e8167]: "12"
+      - generic [ref=e8168]: Mohannad Abu...
+    - generic [ref=e8170] [cursor=pointer]:
+      - generic [ref=e8171]: JOR
+      - generic [ref=e8172]: "13"
+      - generic [ref=e8173]: Team Photo
+    - generic [ref=e8175] [cursor=pointer]:
+      - generic [ref=e8176]: JOR
+      - generic [ref=e8177]: "14"
+      - generic [ref=e8178]: Amer Jamous
+    - generic [ref=e8180] [cursor=pointer]:
+      - generic [ref=e8181]: JOR
+      - generic [ref=e8182]: "15"
+      - generic [ref=e8183]: Musa Al-Taam...
+    - generic [ref=e8185] [cursor=pointer]:
+      - generic [ref=e8186]: JOR
+      - generic [ref=e8187]: "16"
+      - generic [ref=e8188]: Yazan Al-Nai...
+    - generic [ref=e8190] [cursor=pointer]:
+      - generic [ref=e8191]: JOR
+      - generic [ref=e8192]: "17"
+      - generic [ref=e8193]: Mahmoud Al-M...
+    - generic [ref=e8195] [cursor=pointer]:
+      - generic [ref=e8196]: JOR
+      - generic [ref=e8197]: "18"
+      - generic [ref=e8198]: Ali Olwan
+    - generic [ref=e8200] [cursor=pointer]:
+      - generic [ref=e8201]: JOR
+      - generic [ref=e8202]: "19"
+      - generic [ref=e8203]: Mohammad Abu...
+    - generic [ref=e8205] [cursor=pointer]:
+      - generic [ref=e8206]: JOR
+      - generic [ref=e8207]: "20"
+      - generic [ref=e8208]: Ibrahim Sabr...
+    - generic [ref=e8210] [cursor=pointer]:
+      - generic [ref=e8211]: JPN
+      - generic [ref=e8212]: "1"
+      - generic [ref=e8213]: Team Logo
+    - generic [ref=e8215] [cursor=pointer]:
+      - generic [ref=e8216]: JPN
+      - generic [ref=e8217]: "2"
+      - generic [ref=e8218]: Zion Suzuki
+    - generic [ref=e8220] [cursor=pointer]:
+      - generic [ref=e8221]: JPN
+      - generic [ref=e8222]: "3"
+      - generic [ref=e8223]: Henry Heroki...
+    - generic [ref=e8225] [cursor=pointer]:
+      - generic [ref=e8226]: JPN
+      - generic [ref=e8227]: "4"
+      - generic [ref=e8228]: Ayumu Seko
+    - generic [ref=e8230] [cursor=pointer]:
+      - generic [ref=e8231]: JPN
+      - generic [ref=e8232]: "5"
+      - generic [ref=e8233]: Junnosuke Su...
+    - generic [ref=e8235] [cursor=pointer]:
+      - generic [ref=e8236]: JPN
+      - generic [ref=e8237]: "6"
+      - generic [ref=e8238]: Shogo Tanigu...
+    - generic [ref=e8240] [cursor=pointer]:
+      - generic [ref=e8241]: JPN
+      - generic [ref=e8242]: "7"
+      - generic [ref=e8243]: Tsuyoshi Wat...
+    - generic [ref=e8245] [cursor=pointer]:
+      - generic [ref=e8246]: JPN
+      - generic [ref=e8247]: "8"
+      - generic [ref=e8248]: Kaishu Sano
+    - generic [ref=e8250] [cursor=pointer]:
+      - generic [ref=e8251]: JPN
+      - generic [ref=e8252]: "9"
+      - generic [ref=e8253]: Yuki Soma
+    - generic [ref=e8255] [cursor=pointer]:
+      - generic [ref=e8256]: JPN
+      - generic [ref=e8257]: "10"
+      - generic [ref=e8258]: Ao Tanaka
+    - generic [ref=e8260] [cursor=pointer]:
+      - generic [ref=e8261]: JPN
+      - generic [ref=e8262]: "11"
+      - generic [ref=e8263]: Daichi Kamad...
+    - generic [ref=e8265] [cursor=pointer]:
+      - generic [ref=e8266]: JPN
+      - generic [ref=e8267]: "12"
+      - generic [ref=e8268]: Takefusa Kub...
+    - generic [ref=e8270] [cursor=pointer]:
+      - generic [ref=e8271]: JPN
+      - generic [ref=e8272]: "13"
+      - generic [ref=e8273]: Team Photo
+    - generic [ref=e8275] [cursor=pointer]:
+      - generic [ref=e8276]: JPN
+      - generic [ref=e8277]: "14"
+      - generic [ref=e8278]: Ritsu Doan
+    - generic [ref=e8280] [cursor=pointer]:
+      - generic [ref=e8281]: JPN
+      - generic [ref=e8282]: "15"
+      - generic [ref=e8283]: Keito Nakamu...
+    - generic [ref=e8285] [cursor=pointer]:
+      - generic [ref=e8286]: JPN
+      - generic [ref=e8287]: "16"
+      - generic [ref=e8288]: Takumi Minam...
+    - generic [ref=e8290] [cursor=pointer]:
+      - generic [ref=e8291]: JPN
+      - generic [ref=e8292]: "17"
+      - generic [ref=e8293]: Shuto Machin...
+    - generic [ref=e8295] [cursor=pointer]:
+      - generic [ref=e8296]: JPN
+      - generic [ref=e8297]: "18"
+      - generic [ref=e8298]: Junya Ito
+    - generic [ref=e8300] [cursor=pointer]:
+      - generic [ref=e8301]: JPN
+      - generic [ref=e8302]: "19"
+      - generic [ref=e8303]: Koki Ogawa
+    - generic [ref=e8305] [cursor=pointer]:
+      - generic [ref=e8306]: JPN
+      - generic [ref=e8307]: "20"
+      - generic [ref=e8308]: Ayase Ueda
+    - generic [ref=e8310] [cursor=pointer]:
+      - generic [ref=e8311]: KOR
+      - generic [ref=e8312]: "1"
+      - generic [ref=e8313]: Team Logo
+    - generic [ref=e8315] [cursor=pointer]:
+      - generic [ref=e8316]: KOR
+      - generic [ref=e8317]: "2"
+      - generic [ref=e8318]: Hyeon-woo Jo
+    - generic [ref=e8320] [cursor=pointer]:
+      - generic [ref=e8321]: KOR
+      - generic [ref=e8322]: "3"
+      - generic [ref=e8323]: Seung-Gyu Ki...
+    - generic [ref=e8325] [cursor=pointer]:
+      - generic [ref=e8326]: KOR
+      - generic [ref=e8327]: "4"
+      - generic [ref=e8328]: Min-jae Kim
+    - generic [ref=e8330] [cursor=pointer]:
+      - generic [ref=e8331]: KOR
+      - generic [ref=e8332]: "5"
+      - generic [ref=e8333]: Yu-min Cho
+    - generic [ref=e8335] [cursor=pointer]:
+      - generic [ref=e8336]: KOR
+      - generic [ref=e8337]: "6"
+      - generic [ref=e8338]: Young-woo Se...
+    - generic [ref=e8340] [cursor=pointer]:
+      - generic [ref=e8341]: KOR
+      - generic [ref=e8342]: "7"
+      - generic [ref=e8343]: Han-beom Lee
+    - generic [ref=e8345] [cursor=pointer]:
+      - generic [ref=e8346]: KOR
+      - generic [ref=e8347]: "8"
+      - generic [ref=e8348]: Tae-seok Lee
+    - generic [ref=e8350] [cursor=pointer]:
+      - generic [ref=e8351]: KOR
+      - generic [ref=e8352]: "9"
+      - generic [ref=e8353]: Myung-jae Le...
+    - generic [ref=e8355] [cursor=pointer]:
+      - generic [ref=e8356]: KOR
+      - generic [ref=e8357]: "10"
+      - generic [ref=e8358]: Jae-sung Lee
+    - generic [ref=e8360] [cursor=pointer]:
+      - generic [ref=e8361]: KOR
+      - generic [ref=e8362]: "11"
+      - generic [ref=e8363]: In-beom Hwan...
+    - generic [ref=e8365] [cursor=pointer]:
+      - generic [ref=e8366]: KOR
+      - generic [ref=e8367]: "12"
+      - generic [ref=e8368]: Kang-in Lee
+    - generic [ref=e8370] [cursor=pointer]:
+      - generic [ref=e8371]: KOR
+      - generic [ref=e8372]: "13"
+      - generic [ref=e8373]: Team Photo
+    - generic [ref=e8375] [cursor=pointer]:
+      - generic [ref=e8376]: KOR
+      - generic [ref=e8377]: "14"
+      - generic [ref=e8378]: Seung-ho Pai...
+    - generic [ref=e8380] [cursor=pointer]:
+      - generic [ref=e8381]: KOR
+      - generic [ref=e8382]: "15"
+      - generic [ref=e8383]: Jens Castrop
+    - generic [ref=e8385] [cursor=pointer]:
+      - generic [ref=e8386]: KOR
+      - generic [ref=e8387]: "16"
+      - generic [ref=e8388]: Dongg-yeong ...
+    - generic [ref=e8390] [cursor=pointer]:
+      - generic [ref=e8391]: KOR
+      - generic [ref=e8392]: "17"
+      - generic [ref=e8393]: Gue-sung Cho
+    - generic [ref=e8395] [cursor=pointer]:
+      - generic [ref=e8396]: KOR
+      - generic [ref=e8397]: "18"
+      - generic [ref=e8398]: Heung-min So...
+    - generic [ref=e8400] [cursor=pointer]:
+      - generic [ref=e8401]: KOR
+      - generic [ref=e8402]: "19"
+      - generic [ref=e8403]: Hee-chan Hwa...
+    - generic [ref=e8405] [cursor=pointer]:
+      - generic [ref=e8406]: KOR
+      - generic [ref=e8407]: "20"
+      - generic [ref=e8408]: Hyeon-Gyu Oh
+    - generic [ref=e8410] [cursor=pointer]:
+      - generic [ref=e8411]: KSA
+      - generic [ref=e8412]: "1"
+      - generic [ref=e8413]: Team Logo
+    - generic [ref=e8415] [cursor=pointer]:
+      - generic [ref=e8416]: KSA
+      - generic [ref=e8417]: "2"
+      - generic [ref=e8418]: Nawaf Alaqid...
+    - generic [ref=e8420] [cursor=pointer]:
+      - generic [ref=e8421]: KSA
+      - generic [ref=e8422]: "3"
+      - generic [ref=e8423]: Abdulrahman ...
+    - generic [ref=e8425] [cursor=pointer]:
+      - generic [ref=e8426]: KSA
+      - generic [ref=e8427]: "4"
+      - generic [ref=e8428]: Saud Abdulha...
+    - generic [ref=e8430] [cursor=pointer]:
+      - generic [ref=e8431]: KSA
+      - generic [ref=e8432]: "5"
+      - generic [ref=e8433]: Nawaf Bouwas...
+    - generic [ref=e8435] [cursor=pointer]:
+      - generic [ref=e8436]: KSA
+      - generic [ref=e8437]: "6"
+      - generic [ref=e8438]: Jihad Thakri
+    - generic [ref=e8440] [cursor=pointer]:
+      - generic [ref=e8441]: KSA
+      - generic [ref=e8442]: "7"
+      - generic [ref=e8443]: Moteb Al-Har...
+    - generic [ref=e8445] [cursor=pointer]:
+      - generic [ref=e8446]: KSA
+      - generic [ref=e8447]: "8"
+      - generic [ref=e8448]: Hassan Altam...
+    - generic [ref=e8450] [cursor=pointer]:
+      - generic [ref=e8451]: KSA
+      - generic [ref=e8452]: "9"
+      - generic [ref=e8453]: Musab Aljuwa...
+    - generic [ref=e8455] [cursor=pointer]:
+      - generic [ref=e8456]: KSA
+      - generic [ref=e8457]: "10"
+      - generic [ref=e8458]: Ziyad Aljoha...
+    - generic [ref=e8460] [cursor=pointer]:
+      - generic [ref=e8461]: KSA
+      - generic [ref=e8462]: "11"
+      - generic [ref=e8463]: Abdullah Alk...
+    - generic [ref=e8465] [cursor=pointer]:
+      - generic [ref=e8466]: KSA
+      - generic [ref=e8467]: "12"
+      - generic [ref=e8468]: Nasser Aldaw...
+    - generic [ref=e8470] [cursor=pointer]:
+      - generic [ref=e8471]: KSA
+      - generic [ref=e8472]: "13"
+      - generic [ref=e8473]: Team Photo
+    - generic [ref=e8475] [cursor=pointer]:
+      - generic [ref=e8476]: KSA
+      - generic [ref=e8477]: "14"
+      - generic [ref=e8478]: Saleh Abu Al...
+    - generic [ref=e8480] [cursor=pointer]:
+      - generic [ref=e8481]: KSA
+      - generic [ref=e8482]: "15"
+      - generic [ref=e8483]: Marwan Alsah...
+    - generic [ref=e8485] [cursor=pointer]:
+      - generic [ref=e8486]: KSA
+      - generic [ref=e8487]: "16"
+      - generic [ref=e8488]: Salem Aldaws...
+    - generic [ref=e8490] [cursor=pointer]:
+      - generic [ref=e8491]: KSA
+      - generic [ref=e8492]: "17"
+      - generic [ref=e8493]: Abdulrahman ...
+    - generic [ref=e8495] [cursor=pointer]:
+      - generic [ref=e8496]: KSA
+      - generic [ref=e8497]: "18"
+      - generic [ref=e8498]: Feras Akbrik...
+    - generic [ref=e8500] [cursor=pointer]:
+      - generic [ref=e8501]: KSA
+      - generic [ref=e8502]: "19"
+      - generic [ref=e8503]: Saleh Alsheh...
+    - generic [ref=e8505] [cursor=pointer]:
+      - generic [ref=e8506]: KSA
+      - generic [ref=e8507]: "20"
+      - generic [ref=e8508]: Abdullah Al-...
+    - generic [ref=e8510] [cursor=pointer]:
+      - generic [ref=e8511]: MAR
+      - generic [ref=e8512]: "1"
+      - generic [ref=e8513]: Team Logo
+    - generic [ref=e8515] [cursor=pointer]:
+      - generic [ref=e8516]: MAR
+      - generic [ref=e8517]: "2"
+      - generic [ref=e8518]: Yassine Boun...
+    - generic [ref=e8520] [cursor=pointer]:
+      - generic [ref=e8521]: MAR
+      - generic [ref=e8522]: "3"
+      - generic [ref=e8523]: Munir El Kaj...
+    - generic [ref=e8525] [cursor=pointer]:
+      - generic [ref=e8526]: MAR
+      - generic [ref=e8527]: "4"
+      - generic [ref=e8528]: Achraf Hakim...
+    - generic [ref=e8530] [cursor=pointer]:
+      - generic [ref=e8531]: MAR
+      - generic [ref=e8532]: "5"
+      - generic [ref=e8533]: Noussair Maz...
+    - generic [ref=e8535] [cursor=pointer]:
+      - generic [ref=e8536]: MAR
+      - generic [ref=e8537]: "6"
+      - generic [ref=e8538]: Nayef Aguerd
+    - generic [ref=e8540] [cursor=pointer]:
+      - generic [ref=e8541]: MAR
+      - generic [ref=e8542]: "7"
+      - generic [ref=e8543]: Roman Saiss
+    - generic [ref=e8545] [cursor=pointer]:
+      - generic [ref=e8546]: MAR
+      - generic [ref=e8547]: "8"
+      - generic [ref=e8548]: Jawad El Yam...
+    - generic [ref=e8550] [cursor=pointer]:
+      - generic [ref=e8551]: MAR
+      - generic [ref=e8552]: "9"
+      - generic [ref=e8553]: Adam Masina
+    - generic [ref=e8555] [cursor=pointer]:
+      - generic [ref=e8556]: MAR
+      - generic [ref=e8557]: "10"
+      - generic [ref=e8558]: Sofyan Amrab...
+    - generic [ref=e8560] [cursor=pointer]:
+      - generic [ref=e8561]: MAR
+      - generic [ref=e8562]: "11"
+      - generic [ref=e8563]: Azzedine Oun...
+    - generic [ref=e8565] [cursor=pointer]:
+      - generic [ref=e8566]: MAR
+      - generic [ref=e8567]: "12"
+      - generic [ref=e8568]: Eliesse Ben ...
+    - generic [ref=e8570] [cursor=pointer]:
+      - generic [ref=e8571]: MAR
+      - generic [ref=e8572]: "13"
+      - generic [ref=e8573]: Team Photo
+    - generic [ref=e8575] [cursor=pointer]:
+      - generic [ref=e8576]: MAR
+      - generic [ref=e8577]: "14"
+      - generic [ref=e8578]: Bilal El Kha...
+    - generic [ref=e8580] [cursor=pointer]:
+      - generic [ref=e8581]: MAR
+      - generic [ref=e8582]: "15"
+      - generic [ref=e8583]: Ismael Saiba...
+    - generic [ref=e8585] [cursor=pointer]:
+      - generic [ref=e8586]: MAR
+      - generic [ref=e8587]: "16"
+      - generic [ref=e8588]: Youssef En-N...
+    - generic [ref=e8590] [cursor=pointer]:
+      - generic [ref=e8591]: MAR
+      - generic [ref=e8592]: "17"
+      - generic [ref=e8593]: Abde Ezzalzo...
+    - generic [ref=e8595] [cursor=pointer]:
+      - generic [ref=e8596]: MAR
+      - generic [ref=e8597]: "18"
+      - generic [ref=e8598]: Soufiane Rah...
+    - generic [ref=e8600] [cursor=pointer]:
+      - generic [ref=e8601]: MAR
+      - generic [ref=e8602]: "19"
+      - generic [ref=e8603]: Brahim Diaz
+    - generic [ref=e8605] [cursor=pointer]:
+      - generic [ref=e8606]: MAR
+      - generic [ref=e8607]: "20"
+      - generic [ref=e8608]: Ayoub El Kaa...
+    - generic [ref=e8610] [cursor=pointer]:
+      - generic [ref=e8611]: MEX
+      - generic [ref=e8612]: "1"
+      - generic [ref=e8613]: Panini Logo
+    - generic [ref=e8615] [cursor=pointer]:
+      - generic [ref=e8616]: MEX
+      - generic [ref=e8617]: "2"
+      - generic [ref=e8618]: Luis Malagón
+    - generic [ref=e8620] [cursor=pointer]:
+      - generic [ref=e8621]: MEX
+      - generic [ref=e8622]: "3"
+      - generic [ref=e8623]: Johan Vasque...
+    - generic [ref=e8625] [cursor=pointer]:
+      - generic [ref=e8626]: MEX
+      - generic [ref=e8627]: "4"
+      - generic [ref=e8628]: Jorge Sánche...
+    - generic [ref=e8630] [cursor=pointer]:
+      - generic [ref=e8631]: MEX
+      - generic [ref=e8632]: "5"
+      - generic [ref=e8633]: Cesar Montes
+    - generic [ref=e8635] [cursor=pointer]:
+      - generic [ref=e8636]: MEX
+      - generic [ref=e8637]: "6"
+      - generic [ref=e8638]: Jesus Gallar...
+    - generic [ref=e8640] [cursor=pointer]:
+      - generic [ref=e8641]: MEX
+      - generic [ref=e8642]: "7"
+      - generic [ref=e8643]: Israel Reyes
+    - generic [ref=e8645] [cursor=pointer]:
+      - generic [ref=e8646]: MEX
+      - generic [ref=e8647]: "8"
+      - generic [ref=e8648]: Diego Lainez
+    - generic [ref=e8650] [cursor=pointer]:
+      - generic [ref=e8651]: MEX
+      - generic [ref=e8652]: "9"
+      - generic [ref=e8653]: Carlos Rodri...
+    - generic [ref=e8655] [cursor=pointer]:
+      - generic [ref=e8656]: MEX
+      - generic [ref=e8657]: "10"
+      - generic [ref=e8658]: Edson Alvare...
+    - generic [ref=e8660] [cursor=pointer]:
+      - generic [ref=e8661]: MEX
+      - generic [ref=e8662]: "11"
+      - generic [ref=e8663]: Orbelin Pine...
+    - generic [ref=e8665] [cursor=pointer]:
+      - generic [ref=e8666]: MEX
+      - generic [ref=e8667]: "12"
+      - generic [ref=e8668]: Marcel Ruiz
+    - generic [ref=e8670] [cursor=pointer]:
+      - generic [ref=e8671]: MEX
+      - generic [ref=e8672]: "13"
+      - generic [ref=e8673]: Team Photo
+    - generic [ref=e8675] [cursor=pointer]:
+      - generic [ref=e8676]: MEX
+      - generic [ref=e8677]: "14"
+      - generic [ref=e8678]: Érick Sánche...
+    - generic [ref=e8680] [cursor=pointer]:
+      - generic [ref=e8681]: MEX
+      - generic [ref=e8682]: "15"
+      - generic [ref=e8683]: Hirving Loza...
+    - generic [ref=e8685] [cursor=pointer]:
+      - generic [ref=e8686]: MEX
+      - generic [ref=e8687]: "16"
+      - generic [ref=e8688]: Santiago Gim...
+    - generic [ref=e8690] [cursor=pointer]:
+      - generic [ref=e8691]: MEX
+      - generic [ref=e8692]: "17"
+      - generic [ref=e8693]: Raúl Jiménez
+    - generic [ref=e8695] [cursor=pointer]:
+      - generic [ref=e8696]: MEX
+      - generic [ref=e8697]: "18"
+      - generic [ref=e8698]: Alexis Vega
+    - generic [ref=e8700] [cursor=pointer]:
+      - generic [ref=e8701]: MEX
+      - generic [ref=e8702]: "19"
+      - generic [ref=e8703]: Roberto Alva...
+    - generic [ref=e8705] [cursor=pointer]:
+      - generic [ref=e8706]: MEX
+      - generic [ref=e8707]: "20"
+      - generic [ref=e8708]: Cesar Huerta
+    - generic [ref=e8710] [cursor=pointer]:
+      - generic [ref=e8711]: NED
+      - generic [ref=e8712]: "1"
+      - generic [ref=e8713]: Team Logo
+    - generic [ref=e8715] [cursor=pointer]:
+      - generic [ref=e8716]: NED
+      - generic [ref=e8717]: "2"
+      - generic [ref=e8718]: Bart Verbrug...
+    - generic [ref=e8720] [cursor=pointer]:
+      - generic [ref=e8721]: NED
+      - generic [ref=e8722]: "3"
+      - generic [ref=e8723]: Virgil van D...
+    - generic [ref=e8725] [cursor=pointer]:
+      - generic [ref=e8726]: NED
+      - generic [ref=e8727]: "4"
+      - generic [ref=e8728]: Micky van de...
+    - generic [ref=e8730] [cursor=pointer]:
+      - generic [ref=e8731]: NED
+      - generic [ref=e8732]: "5"
+      - generic [ref=e8733]: Jurrien Timb...
+    - generic [ref=e8735] [cursor=pointer]:
+      - generic [ref=e8736]: NED
+      - generic [ref=e8737]: "6"
+      - generic [ref=e8738]: Denzel Dumfr...
+    - generic [ref=e8740] [cursor=pointer]:
+      - generic [ref=e8741]: NED
+      - generic [ref=e8742]: "7"
+      - generic [ref=e8743]: Nathan Aké
+    - generic [ref=e8745] [cursor=pointer]:
+      - generic [ref=e8746]: NED
+      - generic [ref=e8747]: "8"
+      - generic [ref=e8748]: Jeremie Frim...
+    - generic [ref=e8750] [cursor=pointer]:
+      - generic [ref=e8751]: NED
+      - generic [ref=e8752]: "9"
+      - generic [ref=e8753]: Jan Paul van...
+    - generic [ref=e8755] [cursor=pointer]:
+      - generic [ref=e8756]: NED
+      - generic [ref=e8757]: "10"
+      - generic [ref=e8758]: Tijjani Reij...
+    - generic [ref=e8760] [cursor=pointer]:
+      - generic [ref=e8761]: NED
+      - generic [ref=e8762]: "11"
+      - generic [ref=e8763]: Ryan Gravenb...
+    - generic [ref=e8765] [cursor=pointer]:
+      - generic [ref=e8766]: NED
+      - generic [ref=e8767]: "12"
+      - generic [ref=e8768]: Teun Koopmei...
+    - generic [ref=e8770] [cursor=pointer]:
+      - generic [ref=e8771]: NED
+      - generic [ref=e8772]: "13"
+      - generic [ref=e8773]: Team Photo
+    - generic [ref=e8775] [cursor=pointer]:
+      - generic [ref=e8776]: NED
+      - generic [ref=e8777]: "14"
+      - generic [ref=e8778]: Frenkie de J...
+    - generic [ref=e8780] [cursor=pointer]:
+      - generic [ref=e8781]: NED
+      - generic [ref=e8782]: "15"
+      - generic [ref=e8783]: Xavi Simons
+    - generic [ref=e8785] [cursor=pointer]:
+      - generic [ref=e8786]: NED
+      - generic [ref=e8787]: "16"
+      - generic [ref=e8788]: Justin Kluiv...
+    - generic [ref=e8790] [cursor=pointer]:
+      - generic [ref=e8791]: NED
+      - generic [ref=e8792]: "17"
+      - generic [ref=e8793]: Memphis Depa...
+    - generic [ref=e8795] [cursor=pointer]:
+      - generic [ref=e8796]: NED
+      - generic [ref=e8797]: "18"
+      - generic [ref=e8798]: Donyell Male...
+    - generic [ref=e8800] [cursor=pointer]:
+      - generic [ref=e8801]: NED
+      - generic [ref=e8802]: "19"
+      - generic [ref=e8803]: Wout Weghors...
+    - generic [ref=e8805] [cursor=pointer]:
+      - generic [ref=e8806]: NED
+      - generic [ref=e8807]: "20"
+      - generic [ref=e8808]: Cody Gakpo
+    - generic [ref=e8810] [cursor=pointer]:
+      - generic [ref=e8811]: NOR
+      - generic [ref=e8812]: "1"
+      - generic [ref=e8813]: Team Logo
+    - generic [ref=e8815] [cursor=pointer]:
+      - generic [ref=e8816]: NOR
+      - generic [ref=e8817]: "2"
+      - generic [ref=e8818]: Orjan Nyland
+    - generic [ref=e8820] [cursor=pointer]:
+      - generic [ref=e8821]: NOR
+      - generic [ref=e8822]: "3"
+      - generic [ref=e8823]: Julian Ryers...
+    - generic [ref=e8825] [cursor=pointer]:
+      - generic [ref=e8826]: NOR
+      - generic [ref=e8827]: "4"
+      - generic [ref=e8828]: Leo Ostigård
+    - generic [ref=e8830] [cursor=pointer]:
+      - generic [ref=e8831]: NOR
+      - generic [ref=e8832]: "5"
+      - generic [ref=e8833]: Kristoffer V...
+    - generic [ref=e8835] [cursor=pointer]:
+      - generic [ref=e8836]: NOR
+      - generic [ref=e8837]: "6"
+      - generic [ref=e8838]: Marcus Holmg...
+    - generic [ref=e8840] [cursor=pointer]:
+      - generic [ref=e8841]: NOR
+      - generic [ref=e8842]: "7"
+      - generic [ref=e8843]: David Møller...
+    - generic [ref=e8845] [cursor=pointer]:
+      - generic [ref=e8846]: NOR
+      - generic [ref=e8847]: "8"
+      - generic [ref=e8848]: Torbjørn Heg...
+    - generic [ref=e8850] [cursor=pointer]:
+      - generic [ref=e8851]: NOR
+      - generic [ref=e8852]: "9"
+      - generic [ref=e8853]: Morten Thors...
+    - generic [ref=e8855] [cursor=pointer]:
+      - generic [ref=e8856]: NOR
+      - generic [ref=e8857]: "10"
+      - generic [ref=e8858]: Martin Ødega...
+    - generic [ref=e8860] [cursor=pointer]:
+      - generic [ref=e8861]: NOR
+      - generic [ref=e8862]: "11"
+      - generic [ref=e8863]: Sander Berge
+    - generic [ref=e8865] [cursor=pointer]:
+      - generic [ref=e8866]: NOR
+      - generic [ref=e8867]: "12"
+      - generic [ref=e8868]: Andreas Schj...
+    - generic [ref=e8870] [cursor=pointer]:
+      - generic [ref=e8871]: NOR
+      - generic [ref=e8872]: "13"
+      - generic [ref=e8873]: Team Photo
+    - generic [ref=e8875] [cursor=pointer]:
+      - generic [ref=e8876]: NOR
+      - generic [ref=e8877]: "14"
+      - generic [ref=e8878]: Patrick Berg
+    - generic [ref=e8880] [cursor=pointer]:
+      - generic [ref=e8881]: NOR
+      - generic [ref=e8882]: "15"
+      - generic [ref=e8883]: Erling Haala...
+    - generic [ref=e8885] [cursor=pointer]:
+      - generic [ref=e8886]: NOR
+      - generic [ref=e8887]: "16"
+      - generic [ref=e8888]: Alexander Sø...
+    - generic [ref=e8890] [cursor=pointer]:
+      - generic [ref=e8891]: NOR
+      - generic [ref=e8892]: "17"
+      - generic [ref=e8893]: Aron Dønnum
+    - generic [ref=e8895] [cursor=pointer]:
+      - generic [ref=e8896]: NOR
+      - generic [ref=e8897]: "18"
+      - generic [ref=e8898]: Jorgen Stran...
+    - generic [ref=e8900] [cursor=pointer]:
+      - generic [ref=e8901]: NOR
+      - generic [ref=e8902]: "19"
+      - generic [ref=e8903]: Antonio Nusa
+    - generic [ref=e8905] [cursor=pointer]:
+      - generic [ref=e8906]: NOR
+      - generic [ref=e8907]: "20"
+      - generic [ref=e8908]: Oscar Bobb
+    - generic [ref=e8910] [cursor=pointer]:
+      - generic [ref=e8911]: NZL
+      - generic [ref=e8912]: "1"
+      - generic [ref=e8913]: Team Logo
+    - generic [ref=e8915] [cursor=pointer]:
+      - generic [ref=e8916]: NZL
+      - generic [ref=e8917]: "2"
+      - generic [ref=e8918]: Max Crocombe...
+    - generic [ref=e8920] [cursor=pointer]:
+      - generic [ref=e8921]: NZL
+      - generic [ref=e8922]: "3"
+      - generic [ref=e8923]: Alex Paulsen
+    - generic [ref=e8925] [cursor=pointer]:
+      - generic [ref=e8926]: NZL
+      - generic [ref=e8927]: "4"
+      - generic [ref=e8928]: Michael Boxa...
+    - generic [ref=e8930] [cursor=pointer]:
+      - generic [ref=e8931]: NZL
+      - generic [ref=e8932]: "5"
+      - generic [ref=e8933]: Liberato Cac...
+    - generic [ref=e8935] [cursor=pointer]:
+      - generic [ref=e8936]: NZL
+      - generic [ref=e8937]: "6"
+      - generic [ref=e8938]: Tim Payne
+    - generic [ref=e8940] [cursor=pointer]:
+      - generic [ref=e8941]: NZL
+      - generic [ref=e8942]: "7"
+      - generic [ref=e8943]: Tyler Bindon
+    - generic [ref=e8945] [cursor=pointer]:
+      - generic [ref=e8946]: NZL
+      - generic [ref=e8947]: "8"
+      - generic [ref=e8948]: Francis de V...
+    - generic [ref=e8950] [cursor=pointer]:
+      - generic [ref=e8951]: NZL
+      - generic [ref=e8952]: "9"
+      - generic [ref=e8953]: Finn Surman
+    - generic [ref=e8955] [cursor=pointer]:
+      - generic [ref=e8956]: NZL
+      - generic [ref=e8957]: "10"
+      - generic [ref=e8958]: Joe Bell
+    - generic [ref=e8960] [cursor=pointer]:
+      - generic [ref=e8961]: NZL
+      - generic [ref=e8962]: "11"
+      - generic [ref=e8963]: Sarpreet Sin...
+    - generic [ref=e8965] [cursor=pointer]:
+      - generic [ref=e8966]: NZL
+      - generic [ref=e8967]: "12"
+      - generic [ref=e8968]: Ryan Thomas
+    - generic [ref=e8970] [cursor=pointer]:
+      - generic [ref=e8971]: NZL
+      - generic [ref=e8972]: "13"
+      - generic [ref=e8973]: Team Photo
+    - generic [ref=e8975] [cursor=pointer]:
+      - generic [ref=e8976]: NZL
+      - generic [ref=e8977]: "14"
+      - generic [ref=e8978]: Matthew Garb...
+    - generic [ref=e8980] [cursor=pointer]:
+      - generic [ref=e8981]: NZL
+      - generic [ref=e8982]: "15"
+      - generic [ref=e8983]: Marko Stamen...
+    - generic [ref=e8985] [cursor=pointer]:
+      - generic [ref=e8986]: NZL
+      - generic [ref=e8987]: "16"
+      - generic [ref=e8988]: Ben Old
+    - generic [ref=e8990] [cursor=pointer]:
+      - generic [ref=e8991]: NZL
+      - generic [ref=e8992]: "17"
+      - generic [ref=e8993]: Chris Wood
+    - generic [ref=e8995] [cursor=pointer]:
+      - generic [ref=e8996]: NZL
+      - generic [ref=e8997]: "18"
+      - generic [ref=e8998]: Elijah Just
+    - generic [ref=e9000] [cursor=pointer]:
+      - generic [ref=e9001]: NZL
+      - generic [ref=e9002]: "19"
+      - generic [ref=e9003]: Callum McCow...
+    - generic [ref=e9005] [cursor=pointer]:
+      - generic [ref=e9006]: NZL
+      - generic [ref=e9007]: "20"
+      - generic [ref=e9008]: Kosta Barbar...
+    - generic [ref=e9010] [cursor=pointer]:
+      - generic [ref=e9011]: PAN
+      - generic [ref=e9012]: "1"
+      - generic [ref=e9013]: Team Logo
+    - generic [ref=e9015] [cursor=pointer]:
+      - generic [ref=e9016]: PAN
+      - generic [ref=e9017]: "2"
+      - generic [ref=e9018]: Orlando Mosq...
+    - generic [ref=e9020] [cursor=pointer]:
+      - generic [ref=e9021]: PAN
+      - generic [ref=e9022]: "3"
+      - generic [ref=e9023]: Luis Mejia
+    - generic [ref=e9025] [cursor=pointer]:
+      - generic [ref=e9026]: PAN
+      - generic [ref=e9027]: "4"
+      - generic [ref=e9028]: Fidel Escoba...
+    - generic [ref=e9030] [cursor=pointer]:
+      - generic [ref=e9031]: PAN
+      - generic [ref=e9032]: "5"
+      - generic [ref=e9033]: Andres Andra...
+    - generic [ref=e9035] [cursor=pointer]:
+      - generic [ref=e9036]: PAN
+      - generic [ref=e9037]: "6"
+      - generic [ref=e9038]: Michael Amir...
+    - generic [ref=e9040] [cursor=pointer]:
+      - generic [ref=e9041]: PAN
+      - generic [ref=e9042]: "7"
+      - generic [ref=e9043]: Eric Davis
+    - generic [ref=e9045] [cursor=pointer]:
+      - generic [ref=e9046]: PAN
+      - generic [ref=e9047]: "8"
+      - generic [ref=e9048]: Jose Cordoba
+    - generic [ref=e9050] [cursor=pointer]:
+      - generic [ref=e9051]: PAN
+      - generic [ref=e9052]: "9"
+      - generic [ref=e9053]: Cesar Blackm...
+    - generic [ref=e9055] [cursor=pointer]:
+      - generic [ref=e9056]: PAN
+      - generic [ref=e9057]: "10"
+      - generic [ref=e9058]: Cristian Mar...
+    - generic [ref=e9060] [cursor=pointer]:
+      - generic [ref=e9061]: PAN
+      - generic [ref=e9062]: "11"
+      - generic [ref=e9063]: Aníbal Godoy
+    - generic [ref=e9065] [cursor=pointer]:
+      - generic [ref=e9066]: PAN
+      - generic [ref=e9067]: "12"
+      - generic [ref=e9068]: Adalberto Ca...
+    - generic [ref=e9070] [cursor=pointer]:
+      - generic [ref=e9071]: PAN
+      - generic [ref=e9072]: "13"
+      - generic [ref=e9073]: Team Photo
+    - generic [ref=e9075] [cursor=pointer]:
+      - generic [ref=e9076]: PAN
+      - generic [ref=e9077]: "14"
+      - generic [ref=e9078]: Édgar Bárcen...
+    - generic [ref=e9080] [cursor=pointer]:
+      - generic [ref=e9081]: PAN
+      - generic [ref=e9082]: "15"
+      - generic [ref=e9083]: Carlos Harve...
+    - generic [ref=e9085] [cursor=pointer]:
+      - generic [ref=e9086]: PAN
+      - generic [ref=e9087]: "16"
+      - generic [ref=e9088]: Ismael Díaz
+    - generic [ref=e9090] [cursor=pointer]:
+      - generic [ref=e9091]: PAN
+      - generic [ref=e9092]: "17"
+      - generic [ref=e9093]: Jose Fajardo
+    - generic [ref=e9095] [cursor=pointer]:
+      - generic [ref=e9096]: PAN
+      - generic [ref=e9097]: "18"
+      - generic [ref=e9098]: Cecilio Wate...
+    - generic [ref=e9100] [cursor=pointer]:
+      - generic [ref=e9101]: PAN
+      - generic [ref=e9102]: "19"
+      - generic [ref=e9103]: Jose Luiz Ro...
+    - generic [ref=e9105] [cursor=pointer]:
+      - generic [ref=e9106]: PAN
+      - generic [ref=e9107]: "20"
+      - generic [ref=e9108]: Alberto Quin...
+    - generic [ref=e9110] [cursor=pointer]:
+      - generic [ref=e9111]: PAR
+      - generic [ref=e9112]: "1"
+      - generic [ref=e9113]: Team Logo
+    - generic [ref=e9115] [cursor=pointer]:
+      - generic [ref=e9116]: PAR
+      - generic [ref=e9117]: "2"
+      - generic [ref=e9118]: Roberto Fern...
+    - generic [ref=e9120] [cursor=pointer]:
+      - generic [ref=e9121]: PAR
+      - generic [ref=e9122]: "3"
+      - generic [ref=e9123]: Orlando Gill
+    - generic [ref=e9125] [cursor=pointer]:
+      - generic [ref=e9126]: PAR
+      - generic [ref=e9127]: "4"
+      - generic [ref=e9128]: Gustavo Gome...
+    - generic [ref=e9130] [cursor=pointer]:
+      - generic [ref=e9131]: PAR
+      - generic [ref=e9132]: "5"
+      - generic [ref=e9133]: Fabián Balbu...
+    - generic [ref=e9135] [cursor=pointer]:
+      - generic [ref=e9136]: PAR
+      - generic [ref=e9137]: "6"
+      - generic [ref=e9138]: Juan José Cá...
+    - generic [ref=e9140] [cursor=pointer]:
+      - generic [ref=e9141]: PAR
+      - generic [ref=e9142]: "7"
+      - generic [ref=e9143]: Omar Alderet...
+    - generic [ref=e9145] [cursor=pointer]:
+      - generic [ref=e9146]: PAR
+      - generic [ref=e9147]: "8"
+      - generic [ref=e9148]: Junior Alons...
+    - generic [ref=e9150] [cursor=pointer]:
+      - generic [ref=e9151]: PAR
+      - generic [ref=e9152]: "9"
+      - generic [ref=e9153]: Mathías Vill...
+    - generic [ref=e9155] [cursor=pointer]:
+      - generic [ref=e9156]: PAR
+      - generic [ref=e9157]: "10"
+      - generic [ref=e9158]: Diego Gomez
+    - generic [ref=e9160] [cursor=pointer]:
+      - generic [ref=e9161]: PAR
+      - generic [ref=e9162]: "11"
+      - generic [ref=e9163]: Damián Bobad...
+    - generic [ref=e9165] [cursor=pointer]:
+      - generic [ref=e9166]: PAR
+      - generic [ref=e9167]: "12"
+      - generic [ref=e9168]: Andres Cubas
+    - generic [ref=e9170] [cursor=pointer]:
+      - generic [ref=e9171]: PAR
+      - generic [ref=e9172]: "13"
+      - generic [ref=e9173]: Team Photo
+    - generic [ref=e9175] [cursor=pointer]:
+      - generic [ref=e9176]: PAR
+      - generic [ref=e9177]: "14"
+      - generic [ref=e9178]: Matias Galar...
+    - generic [ref=e9180] [cursor=pointer]:
+      - generic [ref=e9181]: PAR
+      - generic [ref=e9182]: "15"
+      - generic [ref=e9183]: Julio Enciso
+    - generic [ref=e9185] [cursor=pointer]:
+      - generic [ref=e9186]: PAR
+      - generic [ref=e9187]: "16"
+      - generic [ref=e9188]: Alejandro Ro...
+    - generic [ref=e9190] [cursor=pointer]:
+      - generic [ref=e9191]: PAR
+      - generic [ref=e9192]: "17"
+      - generic [ref=e9193]: Miguel Almir...
+    - generic [ref=e9195] [cursor=pointer]:
+      - generic [ref=e9196]: PAR
+      - generic [ref=e9197]: "18"
+      - generic [ref=e9198]: Ramon Sosa
+    - generic [ref=e9200] [cursor=pointer]:
+      - generic [ref=e9201]: PAR
+      - generic [ref=e9202]: "19"
+      - generic [ref=e9203]: Angel Romero
+    - generic [ref=e9205] [cursor=pointer]:
+      - generic [ref=e9206]: PAR
+      - generic [ref=e9207]: "20"
+      - generic [ref=e9208]: Antonio Sana...
+    - generic [ref=e9210] [cursor=pointer]:
+      - generic [ref=e9211]: POR
+      - generic [ref=e9212]: "1"
+      - generic [ref=e9213]: Team Logo
+    - generic [ref=e9215] [cursor=pointer]:
+      - generic [ref=e9216]: POR
+      - generic [ref=e9217]: "2"
+      - generic [ref=e9218]: Diogo Costa
+    - generic [ref=e9220] [cursor=pointer]:
+      - generic [ref=e9221]: POR
+      - generic [ref=e9222]: "3"
+      - generic [ref=e9223]: Jose Sa
+    - generic [ref=e9225] [cursor=pointer]:
+      - generic [ref=e9226]: POR
+      - generic [ref=e9227]: "4"
+      - generic [ref=e9228]: Ruben Dias
+    - generic [ref=e9230] [cursor=pointer]:
+      - generic [ref=e9231]: POR
+      - generic [ref=e9232]: "5"
+      - generic [ref=e9233]: João Cancelo
+    - generic [ref=e9235] [cursor=pointer]:
+      - generic [ref=e9236]: POR
+      - generic [ref=e9237]: "6"
+      - generic [ref=e9238]: Diogo Dalot
+    - generic [ref=e9240] [cursor=pointer]:
+      - generic [ref=e9241]: POR
+      - generic [ref=e9242]: "7"
+      - generic [ref=e9243]: Nuno Mendes
+    - generic [ref=e9245] [cursor=pointer]:
+      - generic [ref=e9246]: POR
+      - generic [ref=e9247]: "8"
+      - generic [ref=e9248]: Gonçalo Inác...
+    - generic [ref=e9250] [cursor=pointer]:
+      - generic [ref=e9251]: POR
+      - generic [ref=e9252]: "9"
+      - generic [ref=e9253]: Bernardo Sil...
+    - generic [ref=e9255] [cursor=pointer]:
+      - generic [ref=e9256]: POR
+      - generic [ref=e9257]: "10"
+      - generic [ref=e9258]: Bruno Fernan...
+    - generic [ref=e9260] [cursor=pointer]:
+      - generic [ref=e9261]: POR
+      - generic [ref=e9262]: "11"
+      - generic [ref=e9263]: Ruben Neves
+    - generic [ref=e9265] [cursor=pointer]:
+      - generic [ref=e9266]: POR
+      - generic [ref=e9267]: "12"
+      - generic [ref=e9268]: Vitinha
+    - generic [ref=e9270] [cursor=pointer]:
+      - generic [ref=e9271]: POR
+      - generic [ref=e9272]: "13"
+      - generic [ref=e9273]: Team Photo
+    - generic [ref=e9275] [cursor=pointer]:
+      - generic [ref=e9276]: POR
+      - generic [ref=e9277]: "14"
+      - generic [ref=e9278]: João Neves
+    - generic [ref=e9280] [cursor=pointer]:
+      - generic [ref=e9281]: POR
+      - generic [ref=e9282]: "15"
+      - generic [ref=e9283]: Cristiano Ro...
+    - generic [ref=e9285] [cursor=pointer]:
+      - generic [ref=e9286]: POR
+      - generic [ref=e9287]: "16"
+      - generic [ref=e9288]: Francisco Tr...
+    - generic [ref=e9290] [cursor=pointer]:
+      - generic [ref=e9291]: POR
+      - generic [ref=e9292]: "17"
+      - generic [ref=e9293]: João Felix
+    - generic [ref=e9295] [cursor=pointer]:
+      - generic [ref=e9296]: POR
+      - generic [ref=e9297]: "18"
+      - generic [ref=e9298]: Gonçalo Ramo...
+    - generic [ref=e9300] [cursor=pointer]:
+      - generic [ref=e9301]: POR
+      - generic [ref=e9302]: "19"
+      - generic [ref=e9303]: Pedro Neto
+    - generic [ref=e9305] [cursor=pointer]:
+      - generic [ref=e9306]: POR
+      - generic [ref=e9307]: "20"
+      - generic [ref=e9308]: Rafael Leão
+    - generic [ref=e9310] [cursor=pointer]:
+      - generic [ref=e9311]: QAT
+      - generic [ref=e9312]: "1"
+      - generic [ref=e9313]: Team Logo
+    - generic [ref=e9315] [cursor=pointer]:
+      - generic [ref=e9316]: QAT
+      - generic [ref=e9317]: "2"
+      - generic [ref=e9318]: Meshaal Bars...
+    - generic [ref=e9320] [cursor=pointer]:
+      - generic [ref=e9321]: QAT
+      - generic [ref=e9322]: "3"
+      - generic [ref=e9323]: Sultan Albra...
+    - generic [ref=e9325] [cursor=pointer]:
+      - generic [ref=e9326]: QAT
+      - generic [ref=e9327]: "4"
+      - generic [ref=e9328]: Lucas Mendes
+    - generic [ref=e9330] [cursor=pointer]:
+      - generic [ref=e9331]: QAT
+      - generic [ref=e9332]: "5"
+      - generic [ref=e9333]: Homam Ahmed
+    - generic [ref=e9335] [cursor=pointer]:
+      - generic [ref=e9336]: QAT
+      - generic [ref=e9337]: "6"
+      - generic [ref=e9338]: Boualem Khou...
+    - generic [ref=e9340] [cursor=pointer]:
+      - generic [ref=e9341]: QAT
+      - generic [ref=e9342]: "7"
+      - generic [ref=e9343]: Pedro Miguel
+    - generic [ref=e9345] [cursor=pointer]:
+      - generic [ref=e9346]: QAT
+      - generic [ref=e9347]: "8"
+      - generic [ref=e9348]: Tarek Salman
+    - generic [ref=e9350] [cursor=pointer]:
+      - generic [ref=e9351]: QAT
+      - generic [ref=e9352]: "9"
+      - generic [ref=e9353]: Mohamed Al-M...
+    - generic [ref=e9355] [cursor=pointer]:
+      - generic [ref=e9356]: QAT
+      - generic [ref=e9357]: "10"
+      - generic [ref=e9358]: Karim Boudia...
+    - generic [ref=e9360] [cursor=pointer]:
+      - generic [ref=e9361]: QAT
+      - generic [ref=e9362]: "11"
+      - generic [ref=e9363]: Assim Madibo
+    - generic [ref=e9365] [cursor=pointer]:
+      - generic [ref=e9366]: QAT
+      - generic [ref=e9367]: "12"
+      - generic [ref=e9368]: Ahmed Fatehi
+    - generic [ref=e9370] [cursor=pointer]:
+      - generic [ref=e9371]: QAT
+      - generic [ref=e9372]: "13"
+      - generic [ref=e9373]: Team Photo
+    - generic [ref=e9375] [cursor=pointer]:
+      - generic [ref=e9376]: QAT
+      - generic [ref=e9377]: "14"
+      - generic [ref=e9378]: Mohammed Waa...
+    - generic [ref=e9380] [cursor=pointer]:
+      - generic [ref=e9381]: QAT
+      - generic [ref=e9382]: "15"
+      - generic [ref=e9383]: Abdulaziz Ha...
+    - generic [ref=e9385] [cursor=pointer]:
+      - generic [ref=e9386]: QAT
+      - generic [ref=e9387]: "16"
+      - generic [ref=e9388]: Hassan Al-Ha...
+    - generic [ref=e9390] [cursor=pointer]:
+      - generic [ref=e9391]: QAT
+      - generic [ref=e9392]: "17"
+      - generic [ref=e9393]: Edmilson Jun...
+    - generic [ref=e9395] [cursor=pointer]:
+      - generic [ref=e9396]: QAT
+      - generic [ref=e9397]: "18"
+      - generic [ref=e9398]: Akram Hassan...
+    - generic [ref=e9400] [cursor=pointer]:
+      - generic [ref=e9401]: QAT
+      - generic [ref=e9402]: "19"
+      - generic [ref=e9403]: Ahmed Al Gan...
+    - generic [ref=e9405] [cursor=pointer]:
+      - generic [ref=e9406]: QAT
+      - generic [ref=e9407]: "20"
+      - generic [ref=e9408]: Almoez Ali
+    - generic [ref=e9410] [cursor=pointer]:
+      - generic [ref=e9411]: RSA
+      - generic [ref=e9412]: "1"
+      - generic [ref=e9413]: Team Logo
+    - generic [ref=e9415] [cursor=pointer]:
+      - generic [ref=e9416]: RSA
+      - generic [ref=e9417]: "2"
+      - generic [ref=e9418]: Ronwen Willi...
+    - generic [ref=e9420] [cursor=pointer]:
+      - generic [ref=e9421]: RSA
+      - generic [ref=e9422]: "3"
+      - generic [ref=e9423]: Sipho Chaine
+    - generic [ref=e9425] [cursor=pointer]:
+      - generic [ref=e9426]: RSA
+      - generic [ref=e9427]: "4"
+      - generic [ref=e9428]: Aubrey Modib...
+    - generic [ref=e9430] [cursor=pointer]:
+      - generic [ref=e9431]: RSA
+      - generic [ref=e9432]: "5"
+      - generic [ref=e9433]: Samukele Kab...
+    - generic [ref=e9435] [cursor=pointer]:
+      - generic [ref=e9436]: RSA
+      - generic [ref=e9437]: "6"
+      - generic [ref=e9438]: Mbekezeli Mb...
+    - generic [ref=e9440] [cursor=pointer]:
+      - generic [ref=e9441]: RSA
+      - generic [ref=e9442]: "7"
+      - generic [ref=e9443]: Khulumani Nd...
+    - generic [ref=e9445] [cursor=pointer]:
+      - generic [ref=e9446]: RSA
+      - generic [ref=e9447]: "8"
+      - generic [ref=e9448]: Siyabonga Ng...
+    - generic [ref=e9450] [cursor=pointer]:
+      - generic [ref=e9451]: RSA
+      - generic [ref=e9452]: "9"
+      - generic [ref=e9453]: Khuliso Muda...
+    - generic [ref=e9455] [cursor=pointer]:
+      - generic [ref=e9456]: RSA
+      - generic [ref=e9457]: "10"
+      - generic [ref=e9458]: Nkosinathi S...
+    - generic [ref=e9460] [cursor=pointer]:
+      - generic [ref=e9461]: RSA
+      - generic [ref=e9462]: "11"
+      - generic [ref=e9463]: Teboho Mokoe...
+    - generic [ref=e9465] [cursor=pointer]:
+      - generic [ref=e9466]: RSA
+      - generic [ref=e9467]: "12"
+      - generic [ref=e9468]: Thalente Mba...
+    - generic [ref=e9470] [cursor=pointer]:
+      - generic [ref=e9471]: RSA
+      - generic [ref=e9472]: "13"
+      - generic [ref=e9473]: Team Photo
+    - generic [ref=e9475] [cursor=pointer]:
+      - generic [ref=e9476]: RSA
+      - generic [ref=e9477]: "14"
+      - generic [ref=e9478]: Bathasi Auba...
+    - generic [ref=e9480] [cursor=pointer]:
+      - generic [ref=e9481]: RSA
+      - generic [ref=e9482]: "15"
+      - generic [ref=e9483]: Yaya Sithole
+    - generic [ref=e9485] [cursor=pointer]:
+      - generic [ref=e9486]: RSA
+      - generic [ref=e9487]: "16"
+      - generic [ref=e9488]: Sipho Mbule
+    - generic [ref=e9490] [cursor=pointer]:
+      - generic [ref=e9491]: RSA
+      - generic [ref=e9492]: "17"
+      - generic [ref=e9493]: Lyle Foster
+    - generic [ref=e9495] [cursor=pointer]:
+      - generic [ref=e9496]: RSA
+      - generic [ref=e9497]: "18"
+      - generic [ref=e9498]: Iqraam Rayne...
+    - generic [ref=e9500] [cursor=pointer]:
+      - generic [ref=e9501]: RSA
+      - generic [ref=e9502]: "19"
+      - generic [ref=e9503]: Mohau Nkota
+    - generic [ref=e9505] [cursor=pointer]:
+      - generic [ref=e9506]: RSA
+      - generic [ref=e9507]: "20"
+      - generic [ref=e9508]: Oswin Appoll...
+    - generic [ref=e9510] [cursor=pointer]:
+      - generic [ref=e9511]: SCO
+      - generic [ref=e9512]: "1"
+      - generic [ref=e9513]: Team Logo
+    - generic [ref=e9515] [cursor=pointer]:
+      - generic [ref=e9516]: SCO
+      - generic [ref=e9517]: "2"
+      - generic [ref=e9518]: Angus Gunn
+    - generic [ref=e9520] [cursor=pointer]:
+      - generic [ref=e9521]: SCO
+      - generic [ref=e9522]: "3"
+      - generic [ref=e9523]: Jack Hendry
+    - generic [ref=e9525] [cursor=pointer]:
+      - generic [ref=e9526]: SCO
+      - generic [ref=e9527]: "4"
+      - generic [ref=e9528]: Kieran Tiern...
+    - generic [ref=e9530] [cursor=pointer]:
+      - generic [ref=e9531]: SCO
+      - generic [ref=e9532]: "5"
+      - generic [ref=e9533]: Aaron Hickey
+    - generic [ref=e9535] [cursor=pointer]:
+      - generic [ref=e9536]: SCO
+      - generic [ref=e9537]: "6"
+      - generic [ref=e9538]: Andrew Rober...
+    - generic [ref=e9540] [cursor=pointer]:
+      - generic [ref=e9541]: SCO
+      - generic [ref=e9542]: "7"
+      - generic [ref=e9543]: Scott McKenn...
+    - generic [ref=e9545] [cursor=pointer]:
+      - generic [ref=e9546]: SCO
+      - generic [ref=e9547]: "8"
+      - generic [ref=e9548]: John Souttar
+    - generic [ref=e9550] [cursor=pointer]:
+      - generic [ref=e9551]: SCO
+      - generic [ref=e9552]: "9"
+      - generic [ref=e9553]: Anthony Rals...
+    - generic [ref=e9555] [cursor=pointer]:
+      - generic [ref=e9556]: SCO
+      - generic [ref=e9557]: "10"
+      - generic [ref=e9558]: Grant Hanley
+    - generic [ref=e9560] [cursor=pointer]:
+      - generic [ref=e9561]: SCO
+      - generic [ref=e9562]: "11"
+      - generic [ref=e9563]: Scott McTomi...
+    - generic [ref=e9565] [cursor=pointer]:
+      - generic [ref=e9566]: SCO
+      - generic [ref=e9567]: "12"
+      - generic [ref=e9568]: Billy Gilmou...
+    - generic [ref=e9570] [cursor=pointer]:
+      - generic [ref=e9571]: SCO
+      - generic [ref=e9572]: "13"
+      - generic [ref=e9573]: Team Photo
+    - generic [ref=e9575] [cursor=pointer]:
+      - generic [ref=e9576]: SCO
+      - generic [ref=e9577]: "14"
+      - generic [ref=e9578]: Lewis Fergus...
+    - generic [ref=e9580] [cursor=pointer]:
+      - generic [ref=e9581]: SCO
+      - generic [ref=e9582]: "15"
+      - generic [ref=e9583]: Ryan Christi...
+    - generic [ref=e9585] [cursor=pointer]:
+      - generic [ref=e9586]: SCO
+      - generic [ref=e9587]: "16"
+      - generic [ref=e9588]: Kenny McLean
+    - generic [ref=e9590] [cursor=pointer]:
+      - generic [ref=e9591]: SCO
+      - generic [ref=e9592]: "17"
+      - generic [ref=e9593]: John McGinn
+    - generic [ref=e9595] [cursor=pointer]:
+      - generic [ref=e9596]: SCO
+      - generic [ref=e9597]: "18"
+      - generic [ref=e9598]: Lyndon Dykes
+    - generic [ref=e9600] [cursor=pointer]:
+      - generic [ref=e9601]: SCO
+      - generic [ref=e9602]: "19"
+      - generic [ref=e9603]: Che Adams
+    - generic [ref=e9605] [cursor=pointer]:
+      - generic [ref=e9606]: SCO
+      - generic [ref=e9607]: "20"
+      - generic [ref=e9608]: Ben Gannon-D...
+    - generic [ref=e9610] [cursor=pointer]:
+      - generic [ref=e9611]: SEN
+      - generic [ref=e9612]: "1"
+      - generic [ref=e9613]: Team Logo
+    - generic [ref=e9615] [cursor=pointer]:
+      - generic [ref=e9616]: SEN
+      - generic [ref=e9617]: "2"
+      - generic [ref=e9618]: Edouard Mend...
+    - generic [ref=e9620] [cursor=pointer]:
+      - generic [ref=e9621]: SEN
+      - generic [ref=e9622]: "3"
+      - generic [ref=e9623]: Yehvann Diou...
+    - generic [ref=e9625] [cursor=pointer]:
+      - generic [ref=e9626]: SEN
+      - generic [ref=e9627]: "4"
+      - generic [ref=e9628]: Moussa Niakh...
+    - generic [ref=e9630] [cursor=pointer]:
+      - generic [ref=e9631]: SEN
+      - generic [ref=e9632]: "5"
+      - generic [ref=e9633]: Abdoulaye Se...
+    - generic [ref=e9635] [cursor=pointer]:
+      - generic [ref=e9636]: SEN
+      - generic [ref=e9637]: "6"
+      - generic [ref=e9638]: Ismail Jakob...
+    - generic [ref=e9640] [cursor=pointer]:
+      - generic [ref=e9641]: SEN
+      - generic [ref=e9642]: "7"
+      - generic [ref=e9643]: El Hadji Mal...
+    - generic [ref=e9645] [cursor=pointer]:
+      - generic [ref=e9646]: SEN
+      - generic [ref=e9647]: "8"
+      - generic [ref=e9648]: Kalidou Koul...
+    - generic [ref=e9650] [cursor=pointer]:
+      - generic [ref=e9651]: SEN
+      - generic [ref=e9652]: "9"
+      - generic [ref=e9653]: Idrissa Gana...
+    - generic [ref=e9655] [cursor=pointer]:
+      - generic [ref=e9656]: SEN
+      - generic [ref=e9657]: "10"
+      - generic [ref=e9658]: Pape Matar S...
+    - generic [ref=e9660] [cursor=pointer]:
+      - generic [ref=e9661]: SEN
+      - generic [ref=e9662]: "11"
+      - generic [ref=e9663]: Pape Gueye
+    - generic [ref=e9665] [cursor=pointer]:
+      - generic [ref=e9666]: SEN
+      - generic [ref=e9667]: "12"
+      - generic [ref=e9668]: Habib Diarra
+    - generic [ref=e9670] [cursor=pointer]:
+      - generic [ref=e9671]: SEN
+      - generic [ref=e9672]: "13"
+      - generic [ref=e9673]: Team Photo
+    - generic [ref=e9675] [cursor=pointer]:
+      - generic [ref=e9676]: SEN
+      - generic [ref=e9677]: "14"
+      - generic [ref=e9678]: Lamine Camar...
+    - generic [ref=e9680] [cursor=pointer]:
+      - generic [ref=e9681]: SEN
+      - generic [ref=e9682]: "15"
+      - generic [ref=e9683]: Sadio Mane
+    - generic [ref=e9685] [cursor=pointer]:
+      - generic [ref=e9686]: SEN
+      - generic [ref=e9687]: "16"
+      - generic [ref=e9688]: Ismaïla Sarr
+    - generic [ref=e9690] [cursor=pointer]:
+      - generic [ref=e9691]: SEN
+      - generic [ref=e9692]: "17"
+      - generic [ref=e9693]: Boulaye Dia
+    - generic [ref=e9695] [cursor=pointer]:
+      - generic [ref=e9696]: SEN
+      - generic [ref=e9697]: "18"
+      - generic [ref=e9698]: Iliman Ndiay...
+    - generic [ref=e9700] [cursor=pointer]:
+      - generic [ref=e9701]: SEN
+      - generic [ref=e9702]: "19"
+      - generic [ref=e9703]: Nicolas Jack...
+    - generic [ref=e9705] [cursor=pointer]:
+      - generic [ref=e9706]: SEN
+      - generic [ref=e9707]: "20"
+      - generic [ref=e9708]: Krepin Diatt...
+    - generic [ref=e9710] [cursor=pointer]:
+      - generic [ref=e9711]: SUI
+      - generic [ref=e9712]: "1"
+      - generic [ref=e9713]: Team Logo
+    - generic [ref=e9715] [cursor=pointer]:
+      - generic [ref=e9716]: SUI
+      - generic [ref=e9717]: "2"
+      - generic [ref=e9718]: Gregor Kobel
+    - generic [ref=e9720] [cursor=pointer]:
+      - generic [ref=e9721]: SUI
+      - generic [ref=e9722]: "3"
+      - generic [ref=e9723]: Yvon Mvogo
+    - generic [ref=e9725] [cursor=pointer]:
+      - generic [ref=e9726]: SUI
+      - generic [ref=e9727]: "4"
+      - generic [ref=e9728]: Manuel Akanj...
+    - generic [ref=e9730] [cursor=pointer]:
+      - generic [ref=e9731]: SUI
+      - generic [ref=e9732]: "5"
+      - generic [ref=e9733]: Ricardo Rodr...
+    - generic [ref=e9735] [cursor=pointer]:
+      - generic [ref=e9736]: SUI
+      - generic [ref=e9737]: "6"
+      - generic [ref=e9738]: Nico Elvedi
+    - generic [ref=e9740] [cursor=pointer]:
+      - generic [ref=e9741]: SUI
+      - generic [ref=e9742]: "7"
+      - generic [ref=e9743]: Aurèle Amend...
+    - generic [ref=e9745] [cursor=pointer]:
+      - generic [ref=e9746]: SUI
+      - generic [ref=e9747]: "8"
+      - generic [ref=e9748]: Silvan Wide ...
+    - generic [ref=e9750] [cursor=pointer]:
+      - generic [ref=e9751]: SUI
+      - generic [ref=e9752]: "9"
+      - generic [ref=e9753]: Granit Xhaka
+    - generic [ref=e9755] [cursor=pointer]:
+      - generic [ref=e9756]: SUI
+      - generic [ref=e9757]: "10"
+      - generic [ref=e9758]: Denis Zakari...
+    - generic [ref=e9760] [cursor=pointer]:
+      - generic [ref=e9761]: SUI
+      - generic [ref=e9762]: "11"
+      - generic [ref=e9763]: Remo Freuler
+    - generic [ref=e9765] [cursor=pointer]:
+      - generic [ref=e9766]: SUI
+      - generic [ref=e9767]: "12"
+      - generic [ref=e9768]: Fabian Riede...
+    - generic [ref=e9770] [cursor=pointer]:
+      - generic [ref=e9771]: SUI
+      - generic [ref=e9772]: "13"
+      - generic [ref=e9773]: Team Photo
+    - generic [ref=e9775] [cursor=pointer]:
+      - generic [ref=e9776]: SUI
+      - generic [ref=e9777]: "14"
+      - generic [ref=e9778]: Ardon Jashar...
+    - generic [ref=e9780] [cursor=pointer]:
+      - generic [ref=e9781]: SUI
+      - generic [ref=e9782]: "15"
+      - generic [ref=e9783]: Johan Manzam...
+    - generic [ref=e9785] [cursor=pointer]:
+      - generic [ref=e9786]: SUI
+      - generic [ref=e9787]: "16"
+      - generic [ref=e9788]: Michel Aebis...
+    - generic [ref=e9790] [cursor=pointer]:
+      - generic [ref=e9791]: SUI
+      - generic [ref=e9792]: "17"
+      - generic [ref=e9793]: Breel Embolo
+    - generic [ref=e9795] [cursor=pointer]:
+      - generic [ref=e9796]: SUI
+      - generic [ref=e9797]: "18"
+      - generic [ref=e9798]: Ruben Vargas
+    - generic [ref=e9800] [cursor=pointer]:
+      - generic [ref=e9801]: SUI
+      - generic [ref=e9802]: "19"
+      - generic [ref=e9803]: Dan Ndoye
+    - generic [ref=e9805] [cursor=pointer]:
+      - generic [ref=e9806]: SUI
+      - generic [ref=e9807]: "20"
+      - generic [ref=e9808]: Zeki Amdouni
+    - generic [ref=e9810] [cursor=pointer]:
+      - generic [ref=e9811]: SWE
+      - generic [ref=e9812]: "1"
+      - generic [ref=e9813]: Team Logo
+    - generic [ref=e9815] [cursor=pointer]:
+      - generic [ref=e9816]: SWE
+      - generic [ref=e9817]: "2"
+      - generic [ref=e9818]: Victor Johan...
+    - generic [ref=e9820] [cursor=pointer]:
+      - generic [ref=e9821]: SWE
+      - generic [ref=e9822]: "3"
+      - generic [ref=e9823]: Isak Hien
+    - generic [ref=e9825] [cursor=pointer]:
+      - generic [ref=e9826]: SWE
+      - generic [ref=e9827]: "4"
+      - generic [ref=e9828]: Gabriel Gudm...
+    - generic [ref=e9830] [cursor=pointer]:
+      - generic [ref=e9831]: SWE
+      - generic [ref=e9832]: "5"
+      - generic [ref=e9833]: Emil Holm
+    - generic [ref=e9835] [cursor=pointer]:
+      - generic [ref=e9836]: SWE
+      - generic [ref=e9837]: "6"
+      - generic [ref=e9838]: Victor Nilss...
+    - generic [ref=e9840] [cursor=pointer]:
+      - generic [ref=e9841]: SWE
+      - generic [ref=e9842]: "7"
+      - generic [ref=e9843]: Gustaf Lager...
+    - generic [ref=e9845] [cursor=pointer]:
+      - generic [ref=e9846]: SWE
+      - generic [ref=e9847]: "8"
+      - generic [ref=e9848]: Lucas Bergva...
+    - generic [ref=e9850] [cursor=pointer]:
+      - generic [ref=e9851]: SWE
+      - generic [ref=e9852]: "9"
+      - generic [ref=e9853]: Hugo Larsson
+    - generic [ref=e9855] [cursor=pointer]:
+      - generic [ref=e9856]: SWE
+      - generic [ref=e9857]: "10"
+      - generic [ref=e9858]: Jesper Karls...
+    - generic [ref=e9860] [cursor=pointer]:
+      - generic [ref=e9861]: SWE
+      - generic [ref=e9862]: "11"
+      - generic [ref=e9863]: Yasin Ayari
+    - generic [ref=e9865] [cursor=pointer]:
+      - generic [ref=e9866]: SWE
+      - generic [ref=e9867]: "12"
+      - generic [ref=e9868]: Mattias Svan...
+    - generic [ref=e9870] [cursor=pointer]:
+      - generic [ref=e9871]: SWE
+      - generic [ref=e9872]: "13"
+      - generic [ref=e9873]: Team Photo
+    - generic [ref=e9875] [cursor=pointer]:
+      - generic [ref=e9876]: SWE
+      - generic [ref=e9877]: "14"
+      - generic [ref=e9878]: Daniel Svens...
+    - generic [ref=e9880] [cursor=pointer]:
+      - generic [ref=e9881]: SWE
+      - generic [ref=e9882]: "15"
+      - generic [ref=e9883]: Ken Sema
+    - generic [ref=e9885] [cursor=pointer]:
+      - generic [ref=e9886]: SWE
+      - generic [ref=e9887]: "16"
+      - generic [ref=e9888]: Roony Bardgh...
+    - generic [ref=e9890] [cursor=pointer]:
+      - generic [ref=e9891]: SWE
+      - generic [ref=e9892]: "17"
+      - generic [ref=e9893]: Dejan Kuluse...
+    - generic [ref=e9895] [cursor=pointer]:
+      - generic [ref=e9896]: SWE
+      - generic [ref=e9897]: "18"
+      - generic [ref=e9898]: Anthony Elan...
+    - generic [ref=e9900] [cursor=pointer]:
+      - generic [ref=e9901]: SWE
+      - generic [ref=e9902]: "19"
+      - generic [ref=e9903]: Alexander Is...
+    - generic [ref=e9905] [cursor=pointer]:
+      - generic [ref=e9906]: SWE
+      - generic [ref=e9907]: "20"
+      - generic [ref=e9908]: Viktor Gyöke...
+    - generic [ref=e9910] [cursor=pointer]:
+      - generic [ref=e9911]: TUN
+      - generic [ref=e9912]: "1"
+      - generic [ref=e9913]: Team Logo
+    - generic [ref=e9915] [cursor=pointer]:
+      - generic [ref=e9916]: TUN
+      - generic [ref=e9917]: "2"
+      - generic [ref=e9918]: Bechir Ben S...
+    - generic [ref=e9920] [cursor=pointer]:
+      - generic [ref=e9921]: TUN
+      - generic [ref=e9922]: "3"
+      - generic [ref=e9923]: Aymen Dahmen
+    - generic [ref=e9925] [cursor=pointer]:
+      - generic [ref=e9926]: TUN
+      - generic [ref=e9927]: "4"
+      - generic [ref=e9928]: Yan Valery
+    - generic [ref=e9930] [cursor=pointer]:
+      - generic [ref=e9931]: TUN
+      - generic [ref=e9932]: "5"
+      - generic [ref=e9933]: Montassar Ta...
+    - generic [ref=e9935] [cursor=pointer]:
+      - generic [ref=e9936]: TUN
+      - generic [ref=e9937]: "6"
+      - generic [ref=e9938]: Yassine Meri...
+    - generic [ref=e9940] [cursor=pointer]:
+      - generic [ref=e9941]: TUN
+      - generic [ref=e9942]: "7"
+      - generic [ref=e9943]: Ali Abdi
+    - generic [ref=e9945] [cursor=pointer]:
+      - generic [ref=e9946]: TUN
+      - generic [ref=e9947]: "8"
+      - generic [ref=e9948]: Dylan Bronn
+    - generic [ref=e9950] [cursor=pointer]:
+      - generic [ref=e9951]: TUN
+      - generic [ref=e9952]: "9"
+      - generic [ref=e9953]: Ellyes Skhir...
+    - generic [ref=e9955] [cursor=pointer]:
+      - generic [ref=e9956]: TUN
+      - generic [ref=e9957]: "10"
+      - generic [ref=e9958]: Aissa Laidou...
+    - generic [ref=e9960] [cursor=pointer]:
+      - generic [ref=e9961]: TUN
+      - generic [ref=e9962]: "11"
+      - generic [ref=e9963]: Ferjani Sass...
+    - generic [ref=e9965] [cursor=pointer]:
+      - generic [ref=e9966]: TUN
+      - generic [ref=e9967]: "12"
+      - generic [ref=e9968]: Mohamed Ali ...
+    - generic [ref=e9970] [cursor=pointer]:
+      - generic [ref=e9971]: TUN
+      - generic [ref=e9972]: "13"
+      - generic [ref=e9973]: Team Photo
+    - generic [ref=e9975] [cursor=pointer]:
+      - generic [ref=e9976]: TUN
+      - generic [ref=e9977]: "14"
+      - generic [ref=e9978]: Hannibal Mej...
+    - generic [ref=e9980] [cursor=pointer]:
+      - generic [ref=e9981]: TUN
+      - generic [ref=e9982]: "15"
+      - generic [ref=e9983]: Elias Achour...
+    - generic [ref=e9985] [cursor=pointer]:
+      - generic [ref=e9986]: TUN
+      - generic [ref=e9987]: "16"
+      - generic [ref=e9988]: Elias Saad
+    - generic [ref=e9990] [cursor=pointer]:
+      - generic [ref=e9991]: TUN
+      - generic [ref=e9992]: "17"
+      - generic [ref=e9993]: Hazem Mastou...
+    - generic [ref=e9995] [cursor=pointer]:
+      - generic [ref=e9996]: TUN
+      - generic [ref=e9997]: "18"
+      - generic [ref=e9998]: Ismael Gharb...
+    - generic [ref=e10000] [cursor=pointer]:
+      - generic [ref=e10001]: TUN
+      - generic [ref=e10002]: "19"
+      - generic [ref=e10003]: Sayfallah Lt...
+    - generic [ref=e10005] [cursor=pointer]:
+      - generic [ref=e10006]: TUN
+      - generic [ref=e10007]: "20"
+      - generic [ref=e10008]: Naim Sliti
+    - generic [ref=e10010] [cursor=pointer]:
+      - generic [ref=e10011]: TUR
+      - generic [ref=e10012]: "1"
+      - generic [ref=e10013]: Team Logo
+    - generic [ref=e10015] [cursor=pointer]:
+      - generic [ref=e10016]: TUR
+      - generic [ref=e10017]: "2"
+      - generic [ref=e10018]: Ugurcan Caki...
+    - generic [ref=e10020] [cursor=pointer]:
+      - generic [ref=e10021]: TUR
+      - generic [ref=e10022]: "3"
+      - generic [ref=e10023]: Mert Muldur
+    - generic [ref=e10025] [cursor=pointer]:
+      - generic [ref=e10026]: TUR
+      - generic [ref=e10027]: "4"
+      - generic [ref=e10028]: Zeki Celik
+    - generic [ref=e10030] [cursor=pointer]:
+      - generic [ref=e10031]: TUR
+      - generic [ref=e10032]: "5"
+      - generic [ref=e10033]: Abdulkerim B...
+    - generic [ref=e10035] [cursor=pointer]:
+      - generic [ref=e10036]: TUR
+      - generic [ref=e10037]: "6"
+      - generic [ref=e10038]: Caglar Soyun...
+    - generic [ref=e10040] [cursor=pointer]:
+      - generic [ref=e10041]: TUR
+      - generic [ref=e10042]: "7"
+      - generic [ref=e10043]: Merih Demira...
+    - generic [ref=e10045] [cursor=pointer]:
+      - generic [ref=e10046]: TUR
+      - generic [ref=e10047]: "8"
+      - generic [ref=e10048]: Ferdi Kadiog...
+    - generic [ref=e10050] [cursor=pointer]:
+      - generic [ref=e10051]: TUR
+      - generic [ref=e10052]: "9"
+      - generic [ref=e10053]: Kaan Ayhan
+    - generic [ref=e10055] [cursor=pointer]:
+      - generic [ref=e10056]: TUR
+      - generic [ref=e10057]: "10"
+      - generic [ref=e10058]: Ismail Yukse...
+    - generic [ref=e10060] [cursor=pointer]:
+      - generic [ref=e10061]: TUR
+      - generic [ref=e10062]: "11"
+      - generic [ref=e10063]: Hakan Calhan...
+    - generic [ref=e10065] [cursor=pointer]:
+      - generic [ref=e10066]: TUR
+      - generic [ref=e10067]: "12"
+      - generic [ref=e10068]: Orkun Kokcu
+    - generic [ref=e10070] [cursor=pointer]:
+      - generic [ref=e10071]: TUR
+      - generic [ref=e10072]: "13"
+      - generic [ref=e10073]: Team Photo
+    - generic [ref=e10075] [cursor=pointer]:
+      - generic [ref=e10076]: TUR
+      - generic [ref=e10077]: "14"
+      - generic [ref=e10078]: Arda Guler
+    - generic [ref=e10080] [cursor=pointer]:
+      - generic [ref=e10081]: TUR
+      - generic [ref=e10082]: "15"
+      - generic [ref=e10083]: Irfan Can Ka...
+    - generic [ref=e10085] [cursor=pointer]:
+      - generic [ref=e10086]: TUR
+      - generic [ref=e10087]: "16"
+      - generic [ref=e10088]: Yunus Akgun
+    - generic [ref=e10090] [cursor=pointer]:
+      - generic [ref=e10091]: TUR
+      - generic [ref=e10092]: "17"
+      - generic [ref=e10093]: Can Uzun
+    - generic [ref=e10095] [cursor=pointer]:
+      - generic [ref=e10096]: TUR
+      - generic [ref=e10097]: "18"
+      - generic [ref=e10098]: Baris Alper ...
+    - generic [ref=e10100] [cursor=pointer]:
+      - generic [ref=e10101]: TUR
+      - generic [ref=e10102]: "19"
+      - generic [ref=e10103]: Kerem Akturk...
+    - generic [ref=e10105] [cursor=pointer]:
+      - generic [ref=e10106]: TUR
+      - generic [ref=e10107]: "20"
+      - generic [ref=e10108]: Kenan Yildiz
+    - generic [ref=e10110] [cursor=pointer]:
+      - generic [ref=e10111]: URU
+      - generic [ref=e10112]: "1"
+      - generic [ref=e10113]: Team Logo
+    - generic [ref=e10115] [cursor=pointer]:
+      - generic [ref=e10116]: URU
+      - generic [ref=e10117]: "2"
+      - generic [ref=e10118]: Sergio Roche...
+    - generic [ref=e10120] [cursor=pointer]:
+      - generic [ref=e10121]: URU
+      - generic [ref=e10122]: "3"
+      - generic [ref=e10123]: Santiago Mel...
+    - generic [ref=e10125] [cursor=pointer]:
+      - generic [ref=e10126]: URU
+      - generic [ref=e10127]: "4"
+      - generic [ref=e10128]: Ronald Arauj...
+    - generic [ref=e10130] [cursor=pointer]:
+      - generic [ref=e10131]: URU
+      - generic [ref=e10132]: "5"
+      - generic [ref=e10133]: José María G...
+    - generic [ref=e10135] [cursor=pointer]:
+      - generic [ref=e10136]: URU
+      - generic [ref=e10137]: "6"
+      - generic [ref=e10138]: Sebastian Ca...
+    - generic [ref=e10140] [cursor=pointer]:
+      - generic [ref=e10141]: URU
+      - generic [ref=e10142]: "7"
+      - generic [ref=e10143]: Mathias Oliv...
+    - generic [ref=e10145] [cursor=pointer]:
+      - generic [ref=e10146]: URU
+      - generic [ref=e10147]: "8"
+      - generic [ref=e10148]: Guillermo Va...
+    - generic [ref=e10150] [cursor=pointer]:
+      - generic [ref=e10151]: URU
+      - generic [ref=e10152]: "9"
+      - generic [ref=e10153]: Nahitan Nand...
+    - generic [ref=e10155] [cursor=pointer]:
+      - generic [ref=e10156]: URU
+      - generic [ref=e10157]: "10"
+      - generic [ref=e10158]: Federico Val...
+    - generic [ref=e10160] [cursor=pointer]:
+      - generic [ref=e10161]: URU
+      - generic [ref=e10162]: "11"
+      - generic [ref=e10163]: Giorgian De ...
+    - generic [ref=e10165] [cursor=pointer]:
+      - generic [ref=e10166]: URU
+      - generic [ref=e10167]: "12"
+      - generic [ref=e10168]: Rodrigo Bent...
+    - generic [ref=e10170] [cursor=pointer]:
+      - generic [ref=e10171]: URU
+      - generic [ref=e10172]: "13"
+      - generic [ref=e10173]: Team Photo
+    - generic [ref=e10175] [cursor=pointer]:
+      - generic [ref=e10176]: URU
+      - generic [ref=e10177]: "14"
+      - generic [ref=e10178]: Manuel Ugart...
+    - generic [ref=e10180] [cursor=pointer]:
+      - generic [ref=e10181]: URU
+      - generic [ref=e10182]: "15"
+      - generic [ref=e10183]: Nicolás de l...
+    - generic [ref=e10185] [cursor=pointer]:
+      - generic [ref=e10186]: URU
+      - generic [ref=e10187]: "16"
+      - generic [ref=e10188]: Maxi Araujo
+    - generic [ref=e10190] [cursor=pointer]:
+      - generic [ref=e10191]: URU
+      - generic [ref=e10192]: "17"
+      - generic [ref=e10193]: Darwin Núñez
+    - generic [ref=e10195] [cursor=pointer]:
+      - generic [ref=e10196]: URU
+      - generic [ref=e10197]: "18"
+      - generic [ref=e10198]: Federico Viñ...
+    - generic [ref=e10200] [cursor=pointer]:
+      - generic [ref=e10201]: URU
+      - generic [ref=e10202]: "19"
+      - generic [ref=e10203]: Rodrigo Agui...
+    - generic [ref=e10205] [cursor=pointer]:
+      - generic [ref=e10206]: URU
+      - generic [ref=e10207]: "20"
+      - generic [ref=e10208]: Facundo Pell...
+    - generic [ref=e10210] [cursor=pointer]:
+      - generic [ref=e10211]: USA
+      - generic [ref=e10212]: "1"
+      - generic [ref=e10213]: Team Logo
+    - generic [ref=e10215] [cursor=pointer]:
+      - generic [ref=e10216]: USA
+      - generic [ref=e10217]: "2"
+      - generic [ref=e10218]: Math Freese
+    - generic [ref=e10220] [cursor=pointer]:
+      - generic [ref=e10221]: USA
+      - generic [ref=e10222]: "3"
+      - generic [ref=e10223]: Chris Richar...
+    - generic [ref=e10225] [cursor=pointer]:
+      - generic [ref=e10226]: USA
+      - generic [ref=e10227]: "4"
+      - generic [ref=e10228]: Tim Ream
+    - generic [ref=e10230] [cursor=pointer]:
+      - generic [ref=e10231]: USA
+      - generic [ref=e10232]: "5"
+      - generic [ref=e10233]: Mark McKenzi...
+    - generic [ref=e10235] [cursor=pointer]:
+      - generic [ref=e10236]: USA
+      - generic [ref=e10237]: "6"
+      - generic [ref=e10238]: Alex Freeman
+    - generic [ref=e10240] [cursor=pointer]:
+      - generic [ref=e10241]: USA
+      - generic [ref=e10242]: "7"
+      - generic [ref=e10243]: Antonee Robi...
+    - generic [ref=e10245] [cursor=pointer]:
+      - generic [ref=e10246]: USA
+      - generic [ref=e10247]: "8"
+      - generic [ref=e10248]: Tyler Adams
+    - generic [ref=e10250] [cursor=pointer]:
+      - generic [ref=e10251]: USA
+      - generic [ref=e10252]: "9"
+      - generic [ref=e10253]: Tanner Tessm...
+    - generic [ref=e10255] [cursor=pointer]:
+      - generic [ref=e10256]: USA
+      - generic [ref=e10257]: "10"
+      - generic [ref=e10258]: Weston McKen...
+    - generic [ref=e10260] [cursor=pointer]:
+      - generic [ref=e10261]: USA
+      - generic [ref=e10262]: "11"
+      - generic [ref=e10263]: Christian Ro...
+    - generic [ref=e10265] [cursor=pointer]:
+      - generic [ref=e10266]: USA
+      - generic [ref=e10267]: "12"
+      - generic [ref=e10268]: Timothy Weah
+    - generic [ref=e10270] [cursor=pointer]:
+      - generic [ref=e10271]: USA
+      - generic [ref=e10272]: "13"
+      - generic [ref=e10273]: Team Photo
+    - generic [ref=e10275] [cursor=pointer]:
+      - generic [ref=e10276]: USA
+      - generic [ref=e10277]: "14"
+      - generic [ref=e10278]: Diego Luna
+    - generic [ref=e10280] [cursor=pointer]:
+      - generic [ref=e10281]: USA
+      - generic [ref=e10282]: "15"
+      - generic [ref=e10283]: Malik Tillma...
+    - generic [ref=e10285] [cursor=pointer]:
+      - generic [ref=e10286]: USA
+      - generic [ref=e10287]: "16"
+      - generic [ref=e10288]: Christian Pu...
+    - generic [ref=e10290] [cursor=pointer]:
+      - generic [ref=e10291]: USA
+      - generic [ref=e10292]: "17"
+      - generic [ref=e10293]: Brenden Aaro...
+    - generic [ref=e10295] [cursor=pointer]:
+      - generic [ref=e10296]: USA
+      - generic [ref=e10297]: "18"
+      - generic [ref=e10298]: Ricardo Pepi
+    - generic [ref=e10300] [cursor=pointer]:
+      - generic [ref=e10301]: USA
+      - generic [ref=e10302]: "19"
+      - generic [ref=e10303]: Haji Wright
+    - generic [ref=e10305] [cursor=pointer]:
+      - generic [ref=e10306]: USA
+      - generic [ref=e10307]: "20"
+      - generic [ref=e10308]: Folarin Balo...
+    - generic [ref=e10310] [cursor=pointer]:
+      - generic [ref=e10311]: UZB
+      - generic [ref=e10312]: "1"
+      - generic [ref=e10313]: Team Logo
+    - generic [ref=e10315] [cursor=pointer]:
+      - generic [ref=e10316]: UZB
+      - generic [ref=e10317]: "2"
+      - generic [ref=e10318]: Utkir Yusupo...
+    - generic [ref=e10320] [cursor=pointer]:
+      - generic [ref=e10321]: UZB
+      - generic [ref=e10322]: "3"
+      - generic [ref=e10323]: Farrukh Savf...
+    - generic [ref=e10325] [cursor=pointer]:
+      - generic [ref=e10326]: UZB
+      - generic [ref=e10327]: "4"
+      - generic [ref=e10328]: Sherzod Nasr...
+    - generic [ref=e10330] [cursor=pointer]:
+      - generic [ref=e10331]: UZB
+      - generic [ref=e10332]: "5"
+      - generic [ref=e10333]: Umar Eshmuro...
+    - generic [ref=e10335] [cursor=pointer]:
+      - generic [ref=e10336]: UZB
+      - generic [ref=e10337]: "6"
+      - generic [ref=e10338]: Husniddin Al...
+    - generic [ref=e10340] [cursor=pointer]:
+      - generic [ref=e10341]: UZB
+      - generic [ref=e10342]: "7"
+      - generic [ref=e10343]: Rustamjon As...
+    - generic [ref=e10345] [cursor=pointer]:
+      - generic [ref=e10346]: UZB
+      - generic [ref=e10347]: "8"
+      - generic [ref=e10348]: Khojiakbar A...
+    - generic [ref=e10350] [cursor=pointer]:
+      - generic [ref=e10351]: UZB
+      - generic [ref=e10352]: "9"
+      - generic [ref=e10353]: Abdukodir Kh...
+    - generic [ref=e10355] [cursor=pointer]:
+      - generic [ref=e10356]: UZB
+      - generic [ref=e10357]: "10"
+      - generic [ref=e10358]: Odiljon Hamr...
+    - generic [ref=e10360] [cursor=pointer]:
+      - generic [ref=e10361]: UZB
+      - generic [ref=e10362]: "11"
+      - generic [ref=e10363]: Otabek Shuku...
+    - generic [ref=e10365] [cursor=pointer]:
+      - generic [ref=e10366]: UZB
+      - generic [ref=e10367]: "12"
+      - generic [ref=e10368]: Jamshid Iska...
+    - generic [ref=e10370] [cursor=pointer]:
+      - generic [ref=e10371]: UZB
+      - generic [ref=e10372]: "13"
+      - generic [ref=e10373]: Team Photo
+    - generic [ref=e10375] [cursor=pointer]:
+      - generic [ref=e10376]: UZB
+      - generic [ref=e10377]: "14"
+      - generic [ref=e10378]: Azizbek Turg...
+    - generic [ref=e10380] [cursor=pointer]:
+      - generic [ref=e10381]: UZB
+      - generic [ref=e10382]: "15"
+      - generic [ref=e10383]: Khojimat Erk...
+    - generic [ref=e10385] [cursor=pointer]:
+      - generic [ref=e10386]: UZB
+      - generic [ref=e10387]: "16"
+      - generic [ref=e10388]: Eldor Shomur...
+    - generic [ref=e10390] [cursor=pointer]:
+      - generic [ref=e10391]: UZB
+      - generic [ref=e10392]: "17"
+      - generic [ref=e10393]: Oston Urunov
+    - generic [ref=e10395] [cursor=pointer]:
+      - generic [ref=e10396]: UZB
+      - generic [ref=e10397]: "18"
+      - generic [ref=e10398]: Jaloliddin M...
+    - generic [ref=e10400] [cursor=pointer]:
+      - generic [ref=e10401]: UZB
+      - generic [ref=e10402]: "19"
+      - generic [ref=e10403]: Igor Sergeev
+    - generic [ref=e10405] [cursor=pointer]:
+      - generic [ref=e10406]: UZB
+      - generic [ref=e10407]: "20"
+      - generic [ref=e10408]: Abbosbek Fay...

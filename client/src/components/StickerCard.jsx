@@ -6,42 +6,52 @@ export default function StickerCard({ sticker, onIncrement, onDecrement, darkMod
   const [isPressed, setIsPressed] = useState(false);
   const timer = useRef(null);
   const didLongPress = useRef(false);
+  const countRef = useRef(count);
+
+  useEffect(() => {
+    countRef.current = count;
+  }, [count]);
 
   const getCardClass = () => {
-    if (count === 0) return 'sticker-missing';
-    if (count === 1) return 'sticker-collected';
+    if (countRef.current === 0) return 'sticker-missing';
+    if (countRef.current === 1) return 'sticker-collected';
     return 'sticker-repeated';
   };
 
   const handleContextMenu = (e) => {
     e.preventDefault();
-    if (count > 0) onDecrement(id, count);
+    if (countRef.current > 0) {
+      onDecrement(id, countRef.current);
+    }
   };
 
-  const handlePointerDown = () => {
+  const handlePointerDown = (e) => {
+    if (e.button === 2) return;
     didLongPress.current = false;
     setIsPressed(true);
     timer.current = setTimeout(() => {
-      if (count > 0) {
+      if (countRef.current > 0) {
         didLongPress.current = true;
-        onDecrement(id, count);
+        onDecrement(id, countRef.current);
       }
       setIsPressed(false);
     }, 400);
   };
 
-  const handlePointerUp = () => {
+  const handlePointerUp = (e) => {
+    if (e.button === 2) return;
     if (timer.current) {
       clearTimeout(timer.current);
       timer.current = null;
     }
     if (!didLongPress.current) {
-      onIncrement(id, count);
+      onIncrement(id, countRef.current);
     }
     setIsPressed(false);
   };
 
-  const handlePointerMove = () => {
+  const handlePointerMove = (e) => {
+    if (e.button === 2) return;
     if (timer.current) {
       clearTimeout(timer.current);
       timer.current = null;
@@ -65,19 +75,24 @@ export default function StickerCard({ sticker, onIncrement, onDecrement, darkMod
       onPointerUp={handlePointerUp}
       onPointerMove={handlePointerMove}
       onPointerCancel={handlePointerMove}
+      onMouseDown={(e) => {
+        if (e.button === 2) {
+          e.preventDefault();
+        }
+      }}
       onClick={(e) => {
         e.preventDefault();
       }}
       className={`sticker-card h-24 ${getCardClass()} ${isPressed ? 'scale-95' : 'scale-100'} animate-bounce-in`}
     >
-      {count === 1 && (
+      {countRef.current === 1 && (
         <div className="absolute top-1 right-1 bg-white/30 backdrop-blur-sm rounded-full p-0.5">
           <Check className="w-3 h-3" />
         </div>
       )}
-      {count > 1 && (
+      {countRef.current > 1 && (
         <div className="absolute -top-2 -right-2 bg-white text-amber-600 font-display text-xs w-7 h-7 rounded-full flex items-center justify-center shadow-lg animate-pulse-glow">
-          x{count}
+          x{countRef.current}
         </div>
       )}
       <div className="text-xs font-bold opacity-80 tracking-wider">{country_code}</div>

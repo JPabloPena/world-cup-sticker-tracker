@@ -6,12 +6,17 @@
     "dev": "node server/index.js",
     "build": "npm run build --prefix client && npm start",
     "start": "node server/index.js",
-    "seed": "node server/database/seed.js"
+    "seed": "node server/database/seed.js",
+    "test": "playwright test",
+    "test:ui": "playwright test --ui"
   },
   "dependencies": {
-    "sql.js": "^1.11.0",
+    "concurrently": "^9.1.0",
     "cors": "^2.8.5",
     "express": "^4.21.0",
-    "concurrently": "^9.1.0"
+    "sql.js": "^1.11.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
   }
 }

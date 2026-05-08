@@ -1,10 +1,11 @@
 import { useState, useMemo, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import SearchBar from './components/SearchBar';
 import StatsPanel from './components/StatsPanel';
 import CountrySection from './components/CountrySection';
 import StickerGrid from './components/StickerGrid';
 import { useStickers } from './hooks/useStickers';
-import { Moon, Sun, Info } from 'lucide-react';
+import { Moon, Sun, Info, List, Copy } from 'lucide-react';
 
 const translations = {
   es: {
@@ -90,7 +91,7 @@ export default function App() {
           </h1>
           <button
             onClick={() => setDarkMode(!darkMode)}
-            className={`ml-auto p-2 rounded-full transition-all duration-300 ${
+            className={`p-2 rounded-full transition-all duration-300 ${
               darkMode 
                 ? 'bg-green-900/50 text-green-400 hover:bg-green-900/70' 
                 : 'bg-green-100 text-green-600 hover:bg-green-200'
@@ -98,6 +99,28 @@ export default function App() {
           >
             {darkMode ? <Sun className="w-5 h-5" /> : <Moon className="w-5 h-5" />}
           </button>
+          <Link
+            to="/missing"
+            className={`p-2 rounded-full transition-all duration-300 ${
+              darkMode 
+                ? 'bg-green-900/50 text-green-400 hover:bg-green-900/70' 
+                : 'bg-green-100 text-green-600 hover:bg-green-200'
+            }`}
+            title="Figuras Faltantes"
+          >
+            <List className="w-5 h-5" />
+          </Link>
+          <Link
+            to="/duplicates"
+            className={`p-2 rounded-full transition-all duration-300 ${
+              darkMode 
+                ? 'bg-green-900/50 text-green-400 hover:bg-green-900/70' 
+                : 'bg-green-100 text-green-600 hover:bg-green-200'
+            }`}
+            title="Figuras Duplicadas"
+          >
+            <Copy className="w-5 h-5" />
+          </Link>
         </header>
 
         <SearchBar onSearch={setSearch} darkMode={darkMode} />

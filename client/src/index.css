@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;900&family=Bebas+Neue&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --green-primary: #10b981;
+  --emerald-primary: #059669;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: 'Outfit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-display {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 20px rgba(16, 185, 129, 0.3); }
+  50% { box-shadow: 0 0 35px rgba(5, 150, 105, 0.5); }
+}
+
+@keyframes bounce-in {
+  0% { transform: scale(0.8); opacity: 0; }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+.animate-bounce-in {
+  animation: bounce-in 0.4s ease-out forwards;
+}
+
+.sticker-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  border-radius: 0.75rem;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  user-select: none;
+  touch-action: manipulation;
+  cursor: pointer;
+}
+
+.sticker-card:active {
+  transform: scale(0.95);
+}
+
+.sticker-missing {
+  background: linear-gradient(145deg, #e8e8e8 0%, #d0d0d0 100%);
+  border: 2px solid #bbb;
+  color: #888;
+}
+
+.sticker-collected {
+  background: linear-gradient(145deg, #10b981 0%, #059669 100%);
+  border: 2px solid #34d399;
+  color: white;
+  box-shadow: 0 4px 20px rgba(16, 185, 129, 0.4);
+}
+
+.sticker-repeated {
+  background: linear-gradient(145deg, #f59e0b 0%, #d97706 100%);
+  border: 3px solid #fbbf24;
+  color: white;
+  box-shadow: 0 4px 25px rgba(245, 158, 11, 0.4);
+}
+
+.dark .sticker-missing {
+  background: linear-gradient(145deg, #1a1a1a 0%, #0a0a0a 100%);
+  border: 2px solid #2a2a2a;
+  color: #666;
+}
+
+.dark .sticker-collected {
+  background: linear-gradient(145deg, #059669 0%, #047857 100%);
+  border: 2px solid #10b981;
+  box-shadow: 0 4px 25px rgba(16, 185, 129, 0.5);
+}
+
+.dark .sticker-repeated {
+  background: linear-gradient(145deg, #fbbf24 0%, #d97706 100%);
+  box-shadow: 0 4px 30px rgba(251, 191, 36, 0.5);
+}
+
+.search-input {
+  transition: all 0.3s ease;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.dark .search-input {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.search-input:focus {
+  background: white;
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.3), 0 10px 40px rgba(16, 185, 129, 0.1);
+}
+
+.dark .search-input:focus {
+  background: #0a0a0a;
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.4), 0 10px 40px rgba(16, 185, 129, 0.15);
+}
+
+.trophy-glow {
+  filter: drop-shadow(0 0 15px rgba(16, 185, 129, 0.6));
+  animation: float 3s ease-in-out infinite;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.dark .glass {
+  background: rgba(0, 0, 0, 0.3);
+}

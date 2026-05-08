@@ -1,0 +1,17 @@
+{
+  "name": "world-cup-sticker-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server/index.js",
+    "build": "npm run build --prefix client && npm start",
+    "start": "node server/index.js",
+    "seed": "node server/database/seed.js"
+  },
+  "dependencies": {
+    "sql.js": "^1.11.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "concurrently": "^9.1.0"
+  }
+}

@@ -16,3 +16,7 @@ Thumbs.db
 .cache/
 coverage/
 *.local
+test-results/
+.agents/
+skills-lock.json
+.playwright-mcp/

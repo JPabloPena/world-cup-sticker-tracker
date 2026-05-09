@@ -1,6 +1,8 @@
 # World Cup Sticker Tracker
 
-![Sticker Tracker Screenshot](assets/demo.jpeg)
+<p align="center">
+  <img src="assets/demo.jpeg" width="500" />
+</p>
 
 A web-based tracker to manage your World Cup sticker album. See at a glance which stickers you have, which are missing, and which ones you have repeated — perfect for planning swaps with friends.
 

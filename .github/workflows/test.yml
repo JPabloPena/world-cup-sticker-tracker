@@ -16,16 +16,16 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+          package-manager: pnpm
 
       - name: Install dependencies
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: Install Playwright browsers
         run: npx playwright install --with-deps chromium
 
       - name: Seed database
-        run: npm run seed
+        run: pnpm run seed
 
       - name: Run tests
-        run: npm test
+        run: pnpm test

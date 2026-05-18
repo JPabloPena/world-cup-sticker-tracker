@@ -21,6 +21,7 @@ Built as a practice project using [opencode](https://opencode.ai) and free LLMs.
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18 or higher)
+- [pnpm](https://pnpm.io/) (`npm install -g pnpm`)
 
 ### Installation
 
@@ -30,13 +31,13 @@ git clone https://github.com/yourusername/world-cup-sticker-tracker.git
 cd world-cup-sticker-tracker
 
 # Install dependencies
-npm install
+pnpm install
 
 # Seed the database with stickers
-npm run seed
+pnpm run seed
 
 # Start the server
-npm run dev
+pnpm run dev
 ```
 
 The app will be available at **http://localhost:3001**
@@ -56,7 +57,7 @@ Since the server binds to `0.0.0.0`, you can access it from any device connected
 
 ### How to Use
 
-1. Start the server (`npm run dev`)
+1. Start the server (`pnpm run dev`)
 2. Open the app in your browser
 3. As you open sticker packs and paste stickers into your physical album, mark each one as **owned** in the tracker
 4. Use the **Missing** and **Repeated** filters to find which stickers to look for or trade away

@@ -5,7 +5,7 @@ import StatsPanel from './components/StatsPanel';
 import CountrySection from './components/CountrySection';
 import StickerGrid from './components/StickerGrid';
 import { useStickers } from './hooks/useStickers';
-import { Moon, Sun, Info, List, Copy } from 'lucide-react';
+import { Moon, Sun, Info, List, Copy, BarChart3 } from 'lucide-react';
 
 const translations = {
   es: {
@@ -120,6 +120,17 @@ export default function App() {
             title="Figuras Duplicadas"
           >
             <Copy className="w-5 h-5" />
+          </Link>
+          <Link
+            to="/stats"
+            className={`p-2 rounded-full transition-all duration-300 ${
+              darkMode 
+                ? 'bg-green-900/50 text-green-400 hover:bg-green-900/70' 
+                : 'bg-green-100 text-green-600 hover:bg-green-200'
+            }`}
+            title="Estadísticas"
+          >
+            <BarChart3 className="w-5 h-5" />
           </Link>
         </header>
 

@@ -21,4 +21,3 @@ test-results/
 skills-lock.json
 .playwright-mcp/
 .atl/
-pnpm-lock.yaml

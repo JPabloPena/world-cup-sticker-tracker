@@ -7,7 +7,7 @@ export default function CountrySection({ country, stickers, onIncrement, onDecre
   const color = teamColor || (isIntro ? '#f7d717' : '#6b7280');
 
   return (
-    <div className="mt-4 mb-4 sm:mb-6 mx-3 sm:mx-4">
+    <div className="mt-4 mb-4 sm:mb-6 mx-3 sm:mx-4 last:mb-0 last:pb-4">
       <div 
         className={`flex items-center justify-between px-4 py-3 rounded-xl border backdrop-blur-md transition-all duration-300 ${
           darkMode 

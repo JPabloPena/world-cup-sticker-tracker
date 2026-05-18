@@ -79,7 +79,7 @@ export default function App() {
 
   return (
     <div className={`min-h-screen transition-colors duration-500 ${darkMode ? 'bg-black' : 'bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50'}`}>
-      <div className={`mx-auto min-h-screen shadow-2xl ${darkMode ? 'bg-black/95' : 'bg-white/80'} backdrop-blur-xl`}>
+      <div className={`mx-auto shadow-2xl ${darkMode ? 'bg-black/95' : ''} backdrop-blur-xl`}>
         <header className={`sticky top-0 z-50 px-4 sm:px-6 py-3 flex items-center gap-3 border-b backdrop-blur-lg ${
           darkMode 
             ? 'bg-black/80 border-green-800/50' 

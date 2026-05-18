@@ -20,3 +20,5 @@ test-results/
 .agents/
 skills-lock.json
 .playwright-mcp/
+.atl/
+pnpm-lock.yaml

@@ -22,7 +22,7 @@ const COUNTRY_NAMES = {
   MEX: 'Mexico', NED: 'Netherlands', NOR: 'Norway', NZL: 'New Zealand', PAN: 'Panama',
   POR: 'Portugal', SEN: 'Senegal', SCO: 'Scotland', SUI: 'Switzerland', SWE: 'Sweden',
   TUN: 'Tunisia', TUR: 'Turkey', URU: 'Uruguay', USA: 'United States', FWC: 'World Cup',
-  COLA: 'Coca-Cola', BIH: 'Bosnia & Herzegovina', CIV: 'Ivory Coast', CUW: 'Curaçao',
+  RSA: 'South Africa', COLA: 'Coca-Cola', BIH: 'Bosnia & Herzegovina', CIV: 'Ivory Coast', CUW: 'Curaçao',
   HAI: 'Haiti', JOR: 'Jordan', PAR: 'Paraguay', IRQ: 'Iraq', ALG: 'Algeria',
   COD: 'Congo DR', CPV: 'Cape Verde', UZB: 'Uzbekistan'
 };
@@ -144,7 +144,7 @@ export default function DuplicatesGrid() {
                             darkMode ? 'bg-green-900/40' : 'bg-green-100'
                           }`}
                         >
-                          <span>{dup.id.slice(-2)}</span>
+                          <span>{dup.id.replace(/^[A-Z]+/, '')}</span>
                           <span className={`text-xs ${darkMode ? 'text-green-500' : 'text-green-500'}`}>
                             ({dup.count})
                           </span>

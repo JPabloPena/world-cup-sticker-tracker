@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "node server/index.js",
-    "build": "npm run build --prefix client && npm start",
+    "build": "pnpm --filter client run build && pnpm start",
     "start": "node server/index.js",
     "seed": "node server/database/seed.js",
     "test": "playwright test",

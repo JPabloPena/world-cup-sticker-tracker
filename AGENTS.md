@@ -21,3 +21,8 @@
 - `client/src/` - React frontend
 - `server/index.js` - Express API + static file serving
 - `server/database/seed.js` - Database initialization script
+
+## Branch Strategy
+- Work on `dev` branch
+- Release: merge `dev` → `main`
+- Only branch off for isolated features if needed

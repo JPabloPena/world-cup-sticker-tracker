@@ -105,15 +105,6 @@ export default function StatsPage() {
     .sort((a, b) => b.duplicates - a.duplicates)
     .slice(0, 10);
 
-  const tooltipStyle = {
-    contentStyle: {
-      backgroundColor: darkMode ? '#111827' : '#fff',
-      border: `1px solid ${darkMode ? '#374151' : '#e5e7eb'}`,
-      borderRadius: '8px'
-    },
-    labelStyle: { color: darkMode ? '#fff' : '#000' }
-  };
-
   return (
     <div className={`min-h-screen transition-colors duration-500 ${darkMode ? 'bg-black' : 'bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50'}`}>
       <div className={`mx-auto min-h-screen shadow-2xl ${darkMode ? 'bg-black/95' : 'bg-white/80'} backdrop-blur-xl`}>

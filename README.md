@@ -12,6 +12,7 @@ Built as a practice project using [opencode](https://opencode.ai) and free LLMs.
 
 - **Bird's-eye view** of your entire sticker collection
 - Track **missing** and **repeated** stickers
+- **Progress tracking** with real-time stats (collected, duplicates, completion %)
 - Connect from any device on the same WiFi
 - Works great while filling your physical album — just check off stickers as you paste them in
 - Persistent SQLite database — your progress is saved locally
@@ -61,6 +62,17 @@ Since the server binds to `0.0.0.0`, you can access it from any device connected
 2. Open the app in your browser
 3. As you open sticker packs and paste stickers into your physical album, mark each one as **owned** in the tracker
 4. Use the **Missing** and **Repeated** filters to find which stickers to look for or trade away
+
+#### Interactions
+
+| Device | Add Sticker | Remove Sticker |
+|--------|-------------|----------------|
+| **Desktop** | Left-click | Right-click |
+| **Mobile** | Tap | Long-press (hold) |
+
+- **Adding repeated stickers**: Click/tap on a sticker you already own to add another copy (e.g., for trading)
+- The top bar shows your real-time progress: collected count, duplicates, and completion percentage
+- Click the stats icon in the navigation for a detailed breakdown by team/position
 
 ## Tech Stack
 
